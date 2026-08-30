@@ -5,9 +5,14 @@
 
 **A**
 
+- [A duração da sessão, e a controvérsia](#c-sessao-variavel)
 - [A entrevista como instrumento](#c-entrevista-clinica)
+- [A fuga por associação](#c-fuga-associacao)
+- [A intelectualização](#c-intelectualizacao)
+- [A pausa do precipício](#c-pausa-precipicio)
 - [A ponte](#c-ponte)
 - [A pseudoalucinação e o que a disputa revela](#c-pseudoalucinacao)
+- [A tipologia do silêncio](#c-tipologia-silencio)
 - [A tradição relacional: um campo entre dois sujeitos](#c-material-relacional)
 - [acatisia](#c-psicomotricidade)
 - [achatamento afetivo](#c-alteracoes-afeto)
@@ -16,11 +21,13 @@
 - [afasia de Wernicke](#c-afasias)
 - [afeto](#c-humor-afeto)
 - [agitação psicomotora](#c-psicomotricidade)
+- [aliança terapêutica](#c-limites-associacao)
 - [Alterações do afeto](#c-alteracoes-afeto)
 - [Alterações do humor](#c-alteracoes-humor)
 - [alucinação](#c-percepcao)
 - [alucinação cenestésica](#c-percepcao)
 - [amnésia](#c-amnesia)
+- [analisabilidade](#c-metodo-seleciona)
 - [anamnese](#c-entrevista-clinica)
 - [anedonia](#c-alteracoes-humor)
 - [ansiedade (indução empática)](#c-material-sullivan)
@@ -46,11 +53,16 @@
 
 **C**
 
+- [cadeia significante](#c-pausa-precipicio)
 - [catalepsia](#c-catatonia)
 - [catatonia](#c-catatonia)
+- [censura](#c-regra-fundamental)
 - [circunstancialidade](#c-forma-do-pensamento)
 - [co-construção](#c-material-relacional)
+- [Como o paciente aprende](#c-aprender-associar)
+- [compliance](#c-relato-factual)
 - [concentração](#c-orientacao)
+- [condensação](#c-regra-fundamental)
 - [confabulação](#c-amnesia)
 - [confusão mental](#c-consciencia)
 - [Consciência: nível e qualidade](#c-consciencia)
@@ -64,6 +76,7 @@
 - [delírio primário](#c-delirio)
 - [delírium](#c-consciencia)
 - [descarrilamento](#c-forma-do-pensamento)
+- [deslocamento](#c-regra-fundamental)
 - [despersonalização](#c-despersonalizacao)
 - [Despersonalização e desrealização](#c-despersonalizacao)
 - [desrealização](#c-despersonalizacao)
@@ -72,10 +85,13 @@
 - [disfunção sexual](#c-sexualidade)
 - [dissociação afeto/conteúdo](#c-alteracoes-afeto)
 - [distraibilidade](#c-orientacao)
+- [divã](#c-diva)
+- [Divã e face a face](#c-diva)
 
 **E**
 
 - [ecopraxia](#c-catatonia)
+- [elementos beta](#c-limites-associacao)
 - [embotamento afetivo](#c-alteracoes-afeto)
 - [enactment](#c-material-relacional)
 - [endoalucinação](#c-percepcao)
@@ -95,12 +111,15 @@
 
 **F**
 
+- [falseabilidade](#c-sessao-variavel)
+- [falso self](#c-relato-factual)
 - [fechamento prematuro](#c-observacao-pre-verbal)
 - [flexibilidade cérea](#c-catatonia)
 - [formulário do exame psíquico](#c-formulario)
 - [Freud: o conteúdo da associação livre](#c-material-freud)
 - [frouxidão associativa](#c-forma-do-pensamento)
 - [fuga de ideias](#c-forma-do-pensamento)
+- [fuga por associação](#c-fuga-associacao)
 - [função executiva](#c-memoria)
 
 **G**
@@ -109,6 +128,7 @@
 
 **H**
 
+- [hesitação](#c-forma-processo)
 - [hiperfagia](#c-apetite)
 - [hipersexualidade](#c-sexualidade)
 - [hipersonia](#c-sono)
@@ -123,12 +143,15 @@
 - [ideia supervalorizada](#c-conteudo-do-pensamento)
 - [identificação projetiva](#c-material-bion)
 - [ilusão](#c-percepcao)
+- [Imaginário](#c-pausa-precipicio)
 - [inatenção seletiva](#c-material-sullivan)
 - [incongruência afetiva](#c-alteracoes-afeto)
 - [incorrigibilidade](#c-delirio)
 - [insight](#c-insight)
 - [insônia](#c-sono)
 - [insônia terminal](#c-sono)
+- [intelectualização](#c-intelectualizacao)
+- [IPA](#c-sessao-variavel)
 - [Ishiguro, Kazuo](#c-enunciacao)
 
 **J**
@@ -144,6 +167,7 @@
 **L**
 
 - [labilidade afetiva](#c-alteracoes-afeto)
+- [Lacan, Jacques](#c-sessao-variavel)
 - [Lacan: o significante, não a intenção](#c-material-lacan)
 - [lapso](#c-material-freud)
 - [lei de Ribot](#c-amnesia)
@@ -168,22 +192,29 @@
 
 **O**
 
+- [O como e o quê](#c-forma-processo)
 - [O delírio e os critérios de Jaspers](#c-delirio)
 - [O exame começa antes da palavra](#c-observacao-pre-verbal)
 - [O formulário mental](#c-formulario)
 - [O mapa das divergências](#c-mapa-divergencias)
+- [O método seleciona sua população](#c-metodo-seleciona)
 - [O pensamento na sua forma](#c-forma-do-pensamento)
 - [O pensamento no seu conteúdo](#c-conteudo-do-pensamento)
+- [O que a regra fundamental pede](#c-regra-fundamental)
+- [O relato factual sem afeto](#c-relato-factual)
 - [obnubilação](#c-consciencia)
+- [organização borderline](#c-limites-associacao)
 - [orientação](#c-orientacao)
 - [Orientação e atenção](#c-orientacao)
 - [Os fenômenos catatônicos](#c-catatonia)
+- [Os limites estruturais](#c-limites-associacao)
 - [Os Vestígios do Dia](#c-enunciacao)
 - [Outro](#c-material-lacan)
 
 **P**
 
 - [parafasia](#c-afasias)
+- [pausa do precipício](#c-pausa-precipicio)
 - [Percepção: ilusão e alucinação](#c-percepcao)
 - [perseveração](#c-forma-do-pensamento)
 - [Perturbações](#c-amnesia)
@@ -191,15 +222,18 @@
 - [pressão do discurso](#c-linguagem)
 - [prosódia](#c-linguagem)
 - [pseudoalucinação](#c-pseudoalucinacao)
+- [Psicanálise Silvestre](#c-regra-fundamental)
 - [Psicomotricidade e comportamento](#c-psicomotricidade)
 
 **Q**
 
+- [Quando a associação falha](#c-falhas-associacao)
 - [Quem estava na sala](#c-populacao-e-metodo)
 
 **R**
 
 - [regra fundamental](#c-material-freud)
+- [resistência](#c-falhas-associacao)
 - [retardo psicomotor](#c-psicomotricidade)
 - [rêverie](#c-material-bion)
 - [risco suicida](#c-risco)
@@ -210,11 +244,15 @@
 
 - [Schneider, Kurt](#c-percepcao)
 - [selective inattention](#c-material-sullivan)
+- [sessão de duração variável](#c-sessao-variavel)
 - [Sexualidade](#c-sexualidade)
 - [Sheppard Pratt](#c-populacao-e-metodo)
 - [significante](#c-material-lacan)
+- [silêncio](#c-tipologia-silencio)
+- [silêncio dissociativo](#c-tipologia-silencio)
 - [síndrome de Cotard](#c-delirio)
 - [síndrome de Otelo](#c-delirio)
+- [Sobre o Início do Tratamento](#c-regra-fundamental)
 - [Sono](#c-sono)
 - [Sono, apetite, sexualidade, funções vegetativas](#c-funcoes-vegetativas)
 - [Sullivan, Harry Stack](#c-material-sullivan)
@@ -226,8 +264,12 @@
 - [taquipsiquia](#c-forma-do-pensamento)
 - [tenacidade](#c-orientacao)
 - [tique](#c-movimentos-anormais)
+- [tolerância à frustração](#c-limites-associacao)
 - [torpor](#c-consciencia)
+- [trabalho do sonho](#c-regra-fundamental)
 - [transferência (como ausência no exame)](#c-ponte)
+- [transferência (primeira manifestação)](#c-aprender-associar)
+- [transferência negativa](#c-tipologia-silencio)
 
 **V**
 
@@ -237,5 +279,6 @@
 **W**
 
 - [Wahnerleben](#c-delirio)
+- [Winnicott, Donald](#c-relato-factual)
 
 :::

@@ -55,3 +55,49 @@ criptomnésia: c-amnesia
 lei de Ribot: c-amnesia
 Korsakoff: c-amnesia
 déjà-vu: c-amnesia
+humor: c-humor-afeto
+afeto: c-humor-afeto
+anedonia: c-alteracoes-humor
+euforia: c-alteracoes-humor
+hipomania: c-alteracoes-humor
+mania: c-alteracoes-humor
+disforia: c-alteracoes-humor
+apatia: c-alteracoes-humor
+embotamento afetivo: c-alteracoes-afeto
+achatamento afetivo: c-alteracoes-afeto
+labilidade afetiva: c-alteracoes-afeto
+incongruência afetiva: c-alteracoes-afeto
+dissociação afeto/conteúdo: c-alteracoes-afeto
+agitação psicomotora: c-psicomotricidade
+retardo psicomotor: c-psicomotricidade
+acatisia: c-psicomotricidade
+estupor: c-psicomotricidade
+catatonia: c-catatonia
+catalepsia: c-catatonia
+flexibilidade cérea: c-catatonia
+negativismo: c-catatonia
+ecopraxia: c-catatonia
+mutismo: c-catatonia
+maneirismo: c-movimentos-anormais
+estereotipia: c-movimentos-anormais
+tique: c-movimentos-anormais
+discinesia tardia: c-movimentos-anormais
+risco suicida: c-risco
+autolesão: c-risco
+prosódia: c-linguagem
+logorreia: c-linguagem
+pressão do discurso: c-linguagem
+afasia: c-afasias
+afasia de Broca: c-afasias
+afasia de Wernicke: c-afasias
+parafasia: c-afasias
+insônia: c-sono
+insônia terminal: c-sono
+hipersonia: c-sono
+ritmo circadiano: c-sono
+hiperfagia: c-apetite
+hipolibidia: c-sexualidade
+hipersexualidade: c-sexualidade
+disfunção sexual: c-sexualidade
+formulário do exame psíquico: c-formulario
+transferência (como ausência no exame): c-ponte

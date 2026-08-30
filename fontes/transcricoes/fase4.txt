@@ -1,0 +1,315 @@
+Fase IV - Interpessoais
+
+Fase IV · A Escola Interpessoal e Relacional Americana
+Introdução ao módulo
+
+O contexto histórico — por que uma escola americana
+A psicanálise chegou aos Estados Unidos em duas ondas distintas — e a tensão entre elas produziu o campo que vamos estudar agora.
+A primeira onda foi a ego psychology — os analistas europeus que fugiram do nazismo e se estabeleceram predominantemente em Nova York e em Boston. Trouxeram a tradição freudiana ortodoxa, adaptaram-na ao contexto americano com ênfase na adaptação e no fortalecimento do ego, e dominaram o establishment psicanalítico americano por décadas.
+A segunda onda foi mais difusa e mais heterodoxa — e incluiu figuras que haviam se afastado da ortodoxia europeia ainda antes da emigração, ou que desenvolveram suas posições em diálogo crítico com a tradição dominante no contexto americano. É dessa segunda onda que emerge a tradição interpessoal e depois relacional.
+O contexto cultural americano importa: os Estados Unidos dos anos 30-50 eram um contexto em que o pragmatismo filosófico — William James, John Dewey — era o idioma intelectual dominante. Uma psicanálise que perguntava o que funciona, o que produz mudança, o que acontece entre pessoas reais encontrava solo mais fértil do que uma metapsicologia abstrata sobre pulsões e instâncias psíquicas. A tradição interpessoal é, em certo sentido, a psicanálise relida pelo pragmatismo americano.
+
+Os três momentos da tradição
+A tradição que vamos estudar tem três momentos históricos distintos que vale distinguir desde o início:
+O momento interpessoal — anos 30-50, centrado em Harry Stack Sullivan e no William Alanson White Institute em Nova York. A unidade de análise é a situação interpessoal, não o indivíduo isolado. O analista é participant observer, não espelho neutro.
+O momento humanista — anos 50-70, com figuras como Erich Fromm, Karen Horney, e Clara Thompson. Uma psicanálise que dialoga com a filosofia existencial, com a crítica social, e com a ideia de que o sofrimento psíquico tem raízes nas estruturas sociais além das individuais.
+O momento relacional — anos 80 em diante, com Stephen Mitchell, Jessica Benjamin, Lewis Aron, e o movimento que se consolidou em torno do livro Relational Concepts in Psychoanalysis (Mitchell, 1988) e da revista Psychoanalytic Dialogues. É a síntese mais sofisticada — incorpora Klein, Winnicott, Fairbairn, e Bion numa matriz intersubjetivista que é genuinamente original.
+
+O que une as três fases — e o que as distingue de Londres
+O que percorre toda a tradição é uma recusa da assimetria radical entre analista e paciente — a ideia de que o analista pode ocupar uma posição de observação neutra, de que a interpretação vem de fora da relação, de que o inconsciente do analista não está implicado no processo.
+É uma posição que está em tensão direta com a técnica freudiana clássica — e que dialoga de formas diferentes com Klein, Winnicott, e Bion. Com Klein, o diálogo é mais difícil — a tradição kleiniana preserva uma assimetria técnica que os relacionais questionam. Com Winnicott, o diálogo é mais fácil — especialmente o Winnicott de The Use of an Object e do espaço potencial. Com Bion, o diálogo é produtivo em torno da reverie e do campo intersubjetivo — embora o O bioniano seja frequentemente deixado de lado.
+O que distingue a tradição americana da britânica não é a ênfase na relação — ambas são teorias relacionais. É a ênfase na bidirecionalidade — na ideia de que a relação analítica é genuinamente entre dois sujeitos, cada um com seu inconsciente, cada um afetando o outro de formas que não podem ser completamente mapeadas ou controladas.
+
+Fase IV · Semana 15
+Harry Stack Sullivan (1892–1949)
+Mini-biografia
+Harry Stack Sullivan nasceu em Norwich, Nova York, em 21 de fevereiro de 1892 — filho único de uma família irlandesa católica de classe trabalhadora em ambiente predominantemente protestante e de classe média. É uma infância marcada pelo isolamento — o único filho de uma mãe depressiva e de um pai distante, numa comunidade onde a família era diferente em religião, em classe, e em origem étnica.
+Há evidência biográfica considerável — desenvolvida especialmente por Helen Swick Perry em Psychiatry of America: The Life of Harry Stack Sullivan (1982) — de que Sullivan era homossexual e que sua homossexualidade foi uma fonte de sofrimento e de isolamento significativos ao longo de toda a vida. Nunca se casou, viveu durante décadas com James Inscoe Sullivan — que adotou como filho mas com quem a relação era claramente mais do que paternal — e raramente abordou a homossexualidade de forma direta em sua obra, embora a tenha tratado de forma significativamente menos patologizante do que a psiquiatria dominante de sua época.
+Estudou medicina no Chicago College of Medicine and Surgery — uma escola de segunda linha na época — e sua formação psiquiátrica foi predominantemente clínica e institucional, não psicanalítica no sentido formal. Nunca fez uma análise pessoal completa — o que é incomum e que a tradição raramente menciona. Sua formação analítica foi autodidática e aconteceu principalmente através do contato com Adolf Meyer — psiquiatra suíço-americano que enfatizava a importância do contexto social e interpessoal na psiquiatria — e com a obra de Freud que leu extensivamente.
+Trabalhou durante anos com pacientes esquizofrênicos no Sheppard and Enoch Pratt Hospital em Towson, Maryland — e foi esse trabalho que formou o núcleo de sua teoria. Como Fairbairn, Sullivan chegou à teoria pela via dos pacientes mais severamente perturbados — pacientes que a psiquiatria dominante considerava inacessíveis e que Sullivan tratou com uma taxa de sucesso que chamou atenção da comunidade psiquiátrica americana.
+Fundou o William Alanson White Institute em Nova York em 1943 — que permanece até hoje um dos centros mais importantes da tradição interpessoal e relacional. Morreu em Paris em 1949, de hemorragia cerebral, a caminho de uma conferência da OMS.
+Uma nota sobre o viés de amostragem: Sullivan trabalhou predominantemente com pacientes esquizofrênicos jovens do sexo masculino em contexto institucional. Essa população específica — homens jovens com psicose, em ambiente hospitalar, numa época em que a psiquiatria tinha poucos instrumentos além da contenção — é o contexto em que sua teoria foi desenvolvida. A generalização para outras populações é, como sempre, uma extensão que precisa de qualificação.
+
+O projeto teórico de Sullivan — a unidade de análise
+A mudança mais radical que Sullivan propõe é sobre a unidade de análise da teoria psicanalítica.
+Para Freud, a unidade de análise é o indivíduo — sua mente, suas pulsões, seus conflitos internos. O outro aparece como objeto, como figura da fantasia, como representação interna — mas o que importa primariamente é o que acontece dentro do indivíduo.
+Para Sullivan, a unidade de análise é a situação interpessoal — o campo de forças que emerge entre pessoas em interação. Não há psicologia do indivíduo isolado — há apenas padrões de interação entre pessoas:
+“It is much easier, I think, and much more consonant with the actual facts of human life, to describe personality as the relatively enduring pattern of recurrent interpersonal situations which characterize a human life, rather than as some sort of thing which moves from situation to situation.”
+(The Interpersonal Theory of Psychiatry, 1953 — W.W. Norton, p. 111)
+A personalidade não é uma estrutura interna — é um padrão de interação. Não é o que uma pessoa é — é o que uma pessoa faz repetidamente em relação a outras pessoas.
+Isso tem uma consequência que vai organizar toda a tradição que vem depois: se a personalidade é padrão interpessoal, então a clínica precisa se ocupar dos padrões de interação — incluindo o padrão que emerge entre paciente e analista na sessão. A transferência não é a projeção de um mundo interno sobre um analista neutro — é um padrão interpessoal que se reinstala na situação analítica e que o analista participa inevitavelmente de co-criar.
+
+A ansiedade como organizador fundamental
+O conceito central da teoria de Sullivan — que já mencionamos brevemente quando discutimos a conexão com Inibição, Sintoma e Angústia de Freud — é a ansiedade como força organizadora fundamental do desenvolvimento psíquico.
+Para Sullivan, a ansiedade não é sinal de um conflito interno — é a experiência de ameaça à segurança interpessoal. Emerge originalmente na relação com a mãe — transmitida por um processo que Sullivan chama de empathic linkage — e organiza o desenvolvimento do self como sistema de operações para reduzir a ansiedade:
+“The self-system is an organization of experience for avoiding anxiety. The self comes into being as a consequence of the infant’s need to minimize the tension of anxiety. It is built from the reflected appraisals of significant others.”
+(The Interpersonal Theory of Psychiatry, 1953 — p. 168)
+A formulação reflected appraisals of significant others — avaliações refletidas de outros significativos — é uma das contribuições mais influentes de Sullivan. O self não emerge de dentro, não é expressão de uma natureza interna — emerge do espelho das avaliações dos outros. Somos, em grande parte, o que as pessoas importantes para nós nos disseram que somos.
+Há uma ressonância com Kohut aqui — o self que se forma pelas respostas do ambiente — mas a ênfase é diferente. Kohut está descrevendo as necessidades do self em desenvolvimento que precisam ser respondidas. Sullivan está descrevendo o mecanismo pelo qual as respostas do ambiente se tornam a própria estrutura do self.
+
+Good-me, Bad-me, Not-me
+A teoria do desenvolvimento do self que Sullivan propõe em The Interpersonal Theory of Psychiatry (1953) tem uma elegância que a tornou influente muito além da tradição psicanalítica — especialmente na psicologia social e na psicologia do desenvolvimento.
+Sullivan propõe que o self emerge de três personificações que o bebê desenvolve em resposta às diferentes qualidades de ansiedade nas interações com o cuidador:
+Good-me — a personificação que emerge das interações com baixa ansiedade — as situações em que o cuidador está relaxado, responsivo, presente. O good-me é o self que está associado à segurança, ao conforto, ao prazer de estar em relação. É o núcleo do que mais tarde será a identidade positiva.
+Bad-me — a personificação que emerge das interações com ansiedade moderada a intensa — as situações em que o cuidador está ansioso, frustrado, ou parcialmente indisponível. O bad-me é o self que está associado à ansiedade, ao sentimento de ser inadequado, de ser fonte de insatisfação no outro. É o núcleo da autocrítica e da vergonha.
+Not-me — a personificação mais perturbadora — que emerge das interações com ansiedade extrema, terror, ou horror. O not-me não é simplesmente uma experiência negativa do self — é uma experiência que é radicalmente dissociada, que não pode ser integrada no self de forma alguma. É o material que aparece nos pesadelos, nos estados dissociativos, nos momentos de terror sem forma. Não é recalcado no sentido freudiano — é dissociado, mantido fora do self de forma mais radical do que o recalque permite.
+“The not-me is built up out of experiences which, at the time they occurred, were accompanied by uncanny emotion — awe, dread, loathing, horror, or extreme disgust. The not-me is part of the person, but it is not acknowledged as the me.”
+(The Interpersonal Theory of Psychiatry, 1953 — p. 162)
+
+Dissociação versus recalque — uma distinção clínica importante
+A distinção que Sullivan introduz entre recalque e dissociação é uma das contribuições mais clinicamente relevantes da tradição interpessoal — e que a tradição freudiana clássica não havia desenvolvido adequadamente.
+O recalque no sentido freudiano mantém o conteúdo no inconsciente — mas o conteúdo permanece como representação, como elemento psíquico que continua exercendo pressão e que pode retornar na forma de sintoma, sonho, ou ato falho. Há uma continuidade entre o reprimido e o que retorna — o retorno do reprimido é reconhecível como derivado do que foi recalcado.
+A dissociação sullivaniana é mais radical: o material dissociado não é simplesmente mantido fora da consciência — é mantido fora do self. Não tem a qualidade de representação que o recalcado tem — é mais próximo dos elementos beta bionianos, do que não pode ser pensado. E quando retorna, não retorna como derivado reconhecível — retorna como experiência estranha, não-mine, que o sujeito não reconhece como sua.
+Isso tem implicações clínicas diretas para o trabalho com trauma — que vamos explorar na fase dois. O trauma severo não produz recalque no sentido freudiano clássico — produz dissociação sullivaniana, e o tratamento precisa ser diferente. Não se trata de tornar consciente o inconsciente — trata-se de integrar o not-me no self, de criar as condições para que o dissociado possa ser reconhecido como próprio.
+
+O analista como participant observer
+A contribuição técnica mais influente de Sullivan é o conceito de participant observer — que subverte a posição técnica clássica de forma que toda a tradição relacional vai desenvolver:
+“The psychiatrist has an inescapable, interpersonal relationship with the patient, and will willy-nilly influence the patient, and the patient will willy-nilly influence the psychiatrist. The psychiatrist is a participant, not a spectator.”
+(The Psychiatric Interview, 1954 — W.W. Norton, p. 19)
+O analista não pode não participar — está inevitavelmente implicado no campo interpessoal que está estudando. A pretensão de neutralidade não elimina a participação — apenas a torna inconsciente e portanto menos manejável.
+Isso tem uma consequência técnica que vai organizar toda a tradição relacional: se o analista é sempre participante, então o que acontece na sessão não é apenas a expressão do mundo interno do paciente — é uma co-criação, um campo interpessoal que emerge da interação entre dois participantes. A transferência não é projeção sobre uma tela em branco — é uma contribuição do paciente para um campo que o analista também está criando.
+
+Pausa 1
+Antes de avançar para Fromm e para o momento humanista — uma observação sobre o que Sullivan abre que vai ser central para toda a Fase IV.
+A ideia de participant observer resolve o problema que permanecia em suspenso desde a discussão sobre empatia e contratransferência: o analista não precisa escolher entre ser espelho neutro e ser Betazoide. É participant observer — está genuinamente presente, genuinamente afetado pelo paciente, mas com uma função observadora que mantém a possibilidade de pensar o que está acontecendo no campo.
+É uma posição que vai ser desenvolvida de formas diferentes por Mitchell, Benjamin, e Ogden — cada um enfatizando aspectos diferentes do que significa ser participante sem perder a função analítica.
+Seguimos para Erich Fromm e o momento humanista — ou prefere ir diretamente para Mitchell e o movimento relacional, que é onde a tradição se torna mais sofisticada e mais relevante para o currículo?​​​​​​​​​​​​​​​​
+
+Fase IV · Semana 15 (continuação)
+Erich Fromm (1900–1980)
+Mini-biografia
+Erich Pinchas Fromm nasceu em Frankfurt am Main em 23 de março de 1900 — filho único de uma família judaica ortodoxa de classe média. A formação religiosa foi intensa e formativa: Fromm estudou Talmud desde criança e chegou a considerar uma carreira rabínica antes de se afastar progressivamente do judaísmo ortodoxo em direção a uma espiritualidade mais difusa — que ele próprio descreveu como budismo zen sem teísmo. Essa trajetória — da ortodoxia religiosa para uma espiritualidade humanista secular — percorre toda a sua obra.
+Estudou sociologia em Heidelberg — onde se doutorou em 1922 com uma tese sobre a sociologia das comunidades judaicas — e depois psicologia e psicanálise em Berlim e em Munique. Fez análise com Frieda Reichmann — que depois se tornaria sua primeira esposa, numa relação que misturava os papéis de analista, esposa, e colega de formas que hoje seriam consideradas eticamente problemáticas — e com Wilhelm Reich, outro analista da constelação frankfurtiana. Sua formação analítica formal foi no Berliner Psychoanalytisches Institut.
+Em 1930 tornou-se membro do Institut für Sozialforschung — o Instituto de Pesquisa Social de Frankfurt, mais conhecido como Escola de Frankfurt — onde trabalhou ao lado de Max Horkheimer, Theodor Adorno, e Herbert Marcuse. É nesse contexto que Fromm vai desenvolver o projeto intelectual mais ambicioso de sua carreira: a síntese entre psicanálise e teoria crítica marxista — a tentativa de usar o instrumental freudiano para entender não apenas o sofrimento individual mas as formas de dominação e de alienação social.
+Emigrou para os Estados Unidos em 1934 — fugindo do nazismo — e estabeleceu-se em Nova York, onde se tornou figura central do William Alanson White Institute ao lado de Sullivan. A relação com Sullivan foi produtiva mas tensa: os dois compartilhavam a ênfase interpessoal e a crítica à ortodoxia freudiana, mas divergiam em temperamento e em ênfase teórica. Sullivan era mais empirista e mais clínico. Fromm era mais filosófico e mais político.
+Casou-se três vezes. O segundo casamento, com Henny Gurland — que adoeceu gravemente logo após o casamento — levou Fromm a se mudar para o México em 1950, onde Henny poderia ter melhor cuidado médico. O México tornou-se sua base por décadas — onde fundou o Instituto Mexicano de Psicoanálisis e onde desenvolveu um diálogo com o budismo zen através de sua amizade com D.T. Suzuki.
+Em 1974 mudou-se para Muralto, Suíça, onde viveu até sua morte em 18 de março de 1980 — três dias antes de seu octogésimo aniversário.
+Formação e população clínica: Fromm é o analista desta fase cujo trabalho clínico é menos documentado e menos central para sua influência. Sua contribuição principal não é clínica no sentido técnico — é teórica e filosófica. Trabalhou com pacientes em prática privada ao longo de toda a carreira, mas o que o tornou influente foi a teoria, não os casos. O viés de amostragem aqui é diferente dos outros autores: não é uma população clínica específica que deforma a teoria, é a ausência de ancoragem clínica rigorosa que é o ponto fraco.
+
+O projeto intelectual de Fromm — a síntese impossível
+Fromm tentou algo que nenhum outro analista havia tentado de forma tão sistemática: usar a psicanálise para entender a sociedade, e usar a crítica social para entender o sofrimento psíquico individual.
+É um projeto que tem uma lógica clara: se o sofrimento psíquico tem raízes nas estruturas relacionais — como Sullivan propõe — e se as estruturas relacionais são moldadas pelas estruturas sociais e econômicas — como a tradição marxista propõe — então uma psicologia que ignore as estruturas sociais está explicando o sofrimento apenas pela metade.
+O texto que inaugura esse projeto é The Method and Function of an Analytic Social Psychology (1932) — publicado no Zeitschrift für Sozialforschung, a revista da Escola de Frankfurt:
+“Psychoanalysis can make a decisive contribution to the analysis of society. It can demonstrate that the material base of society not only influences the ideological superstructure directly, but that it shapes the libidinal structure of individuals — their drives, their anxieties, their character — and that this libidinal structure in turn reinforces or subverts the social base.”
+(The Method and Function of an Analytic Social Psychology, 1932 — in The Crisis of Psychoanalysis, 1970, Holt, Rinehart and Winston, p. 138)
+A libido não é apenas uma força biológica que encontra objetos — é uma força que é moldada pelas estruturas sociais, que internaliza as formas de dominação e de alienação, e que depois as reproduz ou as subverte. É uma formulação que antecipa Marcuse e que vai aparecer de forma transformada em Lacan — onde a ordem simbólica molda o sujeito de formas que o sujeito não controla.
+
+A crítica a Freud — o que Fromm rejeita
+Fromm foi um crítico explícito e sistemático de Freud — e as críticas que desenvolveu são relevantes para o currículo porque identificam pontos cegos reais da teoria freudiana, mesmo que as alternativas que propõe sejam às vezes menos rigorosas.
+Primeira crítica — o biologismo freudiano
+Para Fromm, Freud cometeu um erro fundamental ao ancorar a teoria psíquica na biologia — nas pulsões como forças de base somática, na libido como energia quasi-física. Esse biologismo produziu uma teoria que tende a naturalizar o que é histórico e cultural:
+“Freud’s instinct theory is a biological theory, and as such it tends to regard as natural and fixed what is in fact historical and changeable. The libido theory, the Oedipus complex, the death instinct — these are presented as biological necessities when they are in fact products of specific historical and social conditions.”
+(The Crisis of Psychoanalysis, 1970 — p. 12)
+É uma crítica que ressoa com o que discutimos sobre viés de amostragem — mas formulada em termos mais explicitamente políticos. Naturalizar as estruturas sociais específicas do capitalismo burguês como necessidades biológicas serve a interesses de dominação.
+Segunda crítica — a pulsão de morte
+Fromm rejeitou a pulsão de morte de forma mais explícita do que qualquer outro autor que estudamos — e com argumentos que vão além do ceticismo clínico:
+“The death instinct is a biologistic myth. Destructiveness is not an innate drive — it is the result of thwarted life, of unlived potentialities, of blocked growth. When the conditions for the full development of human potentialities are absent, destructiveness emerges as the perverted form of life’s energy.”
+(The Anatomy of Human Destructiveness, 1973 — Holt, Rinehart and Winston, p. 27)
+A destrutividade não é primária — é reativa. É o que acontece quando a vida não pode se desenvolver plenamente. É uma posição que é estruturalmente similar à de Fairbairn e à de Winnicott — mas formulada em termos mais explicitamente sociais: o que impede o desenvolvimento pleno não é apenas o objeto mau interno, mas as estruturas sociais que alienam o ser humano de suas próprias potencialidades.
+Terceira crítica — o patriarcalismo
+Fromm foi um dos primeiros a criticar sistematicamente o patriarcalismo implícito na teoria freudiana — especialmente a teoria da sexualidade feminina e a centralidade do falo. Em diálogo com a antropóloga Johann Jakob Bachofen — que havia proposto a existência de sociedades matriarcais pré-históricas — Fromm argumentou que a teoria freudiana universalizava as estruturas psíquicas específicas da família patriarcal burguesa.
+É uma crítica que ressoa com o que já discutimos sobre Malinowski e sobre a contestação feminista da teoria do Édipo.
+
+Os conceitos centrais de Fromm
+Apesar das críticas a Freud, Fromm não abandona a psicanálise — a revisa em direção que considera mais fiel ao que a experiência humana genuinamente mostra. Os conceitos que desenvolve têm uma qualidade fenomenológica que é ao mesmo tempo sua força e sua fraqueza — capturam algo real da experiência humana, mas com uma imprecisão teórica que o rigor clínico de Klein ou de Bion não tem.
+A necessidade de relacionamento (relatedness)
+Fromm propõe que a necessidade fundamental do ser humano não é a descarga pulsional — é a relação. Não a relação de objeto no sentido técnico kleiniano, mas algo mais amplo: a necessidade de superar o isolamento, de sentir-se ligado a outros seres humanos e ao mundo.
+“The most fundamental passion of man is his need to be related to the world outside himself. The unbearableness of isolation is the reason for the deep anxiety that the threat of complete isolation produces.”
+(The Sane Society, 1955 — Rinehart, p. 30)
+É uma formulação que ressoa com Fairbairn — a libido como busca de objeto — mas que Fromm generaliza para uma antropologia filosófica mais ampla: o ser humano como ser fundamentalmente relacional, cuja patologia é sempre uma patologia da relação.
+A fuga da liberdade (escape from freedom)
+O conceito mais influente de Fromm — e o que deu título ao seu livro mais conhecido, Escape from Freedom (1941) — é a ideia de que a liberdade é psicologicamente aterrorizante e que os seres humanos frequentemente preferem formas de servidão voluntária à liberdade genuína.
+A liberdade moderna — que destruiu as estruturas tradicionais de pertença da Idade Média sem criar formas novas de conexão — produziu um indivíduo isolado, ansioso, que busca escapar dessa liberdade pela via do autoritarismo, do conformismo, ou da destrutividade:
+“Modern man, freed from the bonds of pre-individualistic society, has not gained freedom in the positive sense of the realization of his individual self. That is, he has not gained freedom in the positive sense of realization of his intellectual, emotional, and sensuous potentialities. Freedom, though it has brought him independence and rationality, has made him isolated and, thereby, anxious and powerless.”
+(Escape from Freedom, 1941 — Farrar & Rinehart, p. 104)
+É uma formulação que vai ser extremamente influente na teoria política e na crítica cultural — e que antecipa o que Hannah Arendt vai desenvolver sobre o totalitarismo e o que Lacan vai propor sobre a relação do sujeito com a liberdade e com o desejo.
+A conexão com o nazismo é explícita: Fromm lê o fascismo como uma forma de fuga da liberdade — o abandono da individualidade numa fusão com o líder e com a massa que elimina a ansiedade do isolamento ao custo da subjetividade. É uma leitura que Mitscherlich vai desenvolver de forma mais clínica décadas depois.
+Necrofilia e biofilia
+Em The Heart of Man (1964) e em The Anatomy of Human Destructiveness (1973), Fromm desenvolve uma tipologia do caráter que é sua contribuição mais original à psicopatologia — e que é ao mesmo tempo clinicamente sugestiva e teoricamente imprecisa.
+Fromm propõe que há uma orientação fundamental do caráter que pode ser descrita como biofilia — amor pela vida, pelo crescimento, pelo desenvolvimento — ou necrofilia — atração pela morte, pela rigidez, pela destruição:
+“The necrophilous person is driven by the desire to transform the organic into the inorganic, to approach life mechanically, as if all living persons were things. Memory, rather than experience; having, rather than being; knowing, rather than wondering — these are the hallmarks of the necrophilous orientation.”
+(The Heart of Man, 1964 — Harper & Row, p. 37)
+A necrofilia de Fromm não é sexual — é uma orientação existencial que se manifesta na relação com o mundo: a preferência pelo mecânico sobre o orgânico, pelo passado sobre o presente, pelo controle sobre o crescimento.
+Fromm aplica esse conceito à análise de Hitler — em The Anatomy of Human Destructiveness — numa análise psicobiográfica que é fascinante mas metodologicamente problemática: como qualquer análise de figura histórica a partir de fontes secundárias, depende de inferências sobre a vida interior que não podem ser verificadas.
+
+A influência de Fromm — e seus limites
+A influência de Fromm é paradoxalmente maior fora da psicanálise do que dentro dela. Escape from Freedom, The Art of Loving (1956), e To Have or to Be (1976) venderam milhões de cópias e formaram gerações de leitores numa sensibilidade que combina psicologia, filosofia e crítica social de forma acessível.
+Dentro da psicanálise, a influência é mais limitada — e por razões que vale nomear honestamente.
+O problema principal é a imprecisão teórica: Fromm escreve com elegância e com força moral, mas frequentemente sacrifica o rigor conceitual pela acessibilidade. Os conceitos de biofilia e necrofilia, por exemplo, capturam algo fenomenologicamente real mas são clinicamente pouco operacionalizáveis — é difícil usar a distinção biofilia/necrofilia como instrumento de trabalho numa sessão da mesma forma que se usa splitting, holding, ou função alfa.
+O segundo problema é a tendência ao humanismo normativo: Fromm tem uma ideia clara do que é o ser humano pleno e saudável — autônomo, amoroso, criativo, livre — e a teoria frequentemente serve para medir os sujeitos contra esse ideal. É uma tendência que Klein, Winnicott, e especialmente Lacan resistem — a psicanálise não tem uma imagem normativa do ser humano saudável, tem uma teoria do sujeito dividido que não se resolve em nenhum ideal de completude.
+
+Fromm e a psicanálise queer — uma conexão que vale fazer
+Dado o seu interesse em saúde mental de pessoas queer — que marcamos como fio do currículo — Fromm merece uma nota específica aqui.
+Fromm foi, para seu tempo e contexto, significativamente menos patologizante em relação à homossexualidade do que a maioria dos analistas contemporâneos. Não a considerava uma perversão nem um desenvolvimento fixado — e sua ênfase na capacidade de amor e de relação como critério de saúde, em vez da heterossexualidade genital como desfecho do desenvolvimento, abriu espaço para uma leitura menos normativa da sexualidade.
+Mas Fromm nunca foi completamente além do paradigma heteronormativo — e sua teoria do amor, especialmente em The Art of Loving, tende a apresentar o amor heterossexual como modelo implícito sem questionar esse pressuposto.
+O que é mais relevante para a psicanálise queer que vamos trabalhar na fase três é a estrutura do argumento de Fromm sobre a fuga da liberdade e o conformismo — que pode ser lido como descrição do que acontece com sujeitos que internalizam normas sociais que destroem suas potencialidades. A homossexualidade patologizada não é apenas um erro diagnóstico — é um exemplo de como a estrutura social molda a libido de formas que produzem sofrimento desnecessário. É uma leitura que Butler vai radicalizar décadas depois.
+
+Pausa de consolidação — Fromm
+Fromm representa o momento em que a tradição interpessoal mais explicitamente abraça a dimensão política e social — e em que a psicanálise se abre para um diálogo com a teoria crítica que vai ser central na fase três do currículo.
+O que permanece valioso: a crítica ao biologismo freudiano, a atenção às estruturas sociais como produtoras de sofrimento psíquico, a fuga da liberdade como descrição de um fenômeno real e clinicamente relevante.
+O que encontra seus limites: a imprecisão teórica, o humanismo normativo, a dificuldade de traduzir os conceitos em instrumentos clínicos precisos.
+Seguimos para Stephen Mitchell e o movimento relacional — onde a tradição vai ganhar a sofisticação teórica que Fromm não alcançou?​​​​​​​​​​​​​​​​
+
+Fase IV · Semana 16
+Stephen Mitchell (1946–2000)
+Mini-biografia
+Stephen A. Mitchell nasceu em Nova York em 1946 — cresceu em Brooklyn numa família judia de classe média. Estudou psicologia em Antioch College e depois fez seu doutorado em psicologia clínica na New York University. Sua formação analítica foi no William Alanson White Institute — onde Sullivan havia ensinado, e onde a tradição interpessoal era o idioma dominante.
+Mas Mitchell não ficou dentro da tradição interpessoal — foi além dela, e o movimento que liderou foi precisamente o de expandir o interpessoal em direção a uma síntese mais ambiciosa. Leu extensivamente Klein, Winnicott, Fairbairn, e Bion — autores que a tradição interpessoal americana havia largamente ignorado — e os integrou numa matriz que é genuinamente original.
+Foi professor e supervisor no White Institute e na NYU Postdoctoral Program in Psychoanalysis — que se tornou o centro intelectual do movimento relacional nos anos 80 e 90. Fundou a revista Psychoanalytic Dialogues em 1991 — que permanece até hoje o periódico central da tradição relacional — e a editora Relational Perspectives Book Series, que publicou sistematicamente os autores do movimento.
+Morreu inesperadamente em dezembro de 2000 — de aneurisma cerebral, aos 54 anos — no momento em que sua influência estava no auge. A morte prematura interrompeu uma obra que estava claramente ainda em desenvolvimento — e deixou a tradição relacional sem seu articulador mais sofisticado num momento crítico.
+Casado com Margaret Black — analista e colaboradora com quem co-escreveu Freud and Beyond (1995) — e pai de dois filhos.
+Formação e população clínica: Mitchell trabalhou em prática privada em Nova York com uma população predominantemente de adultos — neuróticos e com perturbações de personalidade moderadas, a população típica da prática analítica privada urbana americana. É uma população significativamente menos perturbada do que a de Klein, Bion, ou Sullivan — e isso se reflete numa teoria que é mais otimista sobre as possibilidades da relação analítica e menos focada nos estados mais primitivos e mais destrutivos.
+
+O projeto de Mitchell — o que Relational Concepts in Psychoanalysis (1988) faz
+O livro que funda o movimento relacional americano como projeto intelectual coerente é Relational Concepts in Psychoanalysis: An Integration (1988) — co-escrito com Jay Greenberg. É um livro que faz algo que raramente se consegue fazer bem na teoria psicanalítica: traça um mapa claro de um campo complexo e propõe uma reorganização que é ao mesmo tempo fiel às fontes e genuinamente original.
+Mitchell e Greenberg propõem que a história da psicanálise pode ser lida como uma tensão entre dois modelos fundamentais:
+O modelo pulsional — que tem Freud como figura central. A unidade de análise é o indivíduo e suas pulsões. O objeto é o meio pelo qual a pulsão encontra satisfação. A psicopatologia é conflito entre pulsão e defesa.
+O modelo relacional — que tem Fairbairn, Sullivan, Winnicott, e Klein como figuras centrais. A unidade de análise é a relação. O objeto não é meio para satisfação pulsional — é o que a libido primariamente busca. A psicopatologia é perturbação na relação de objeto.
+A proposta de Mitchell não é que o modelo relacional simplesmente substitui o pulsional — é que oferece uma matriz mais ampla dentro da qual os insights do modelo pulsional podem ser preservados sem suas limitações:
+“We are proposing that the relational model provides a more adequate framework for understanding human psychology and psychopathology than the drive model, not because drives are unimportant, but because drives are always embedded in relational contexts that shape their meaning and their impact.”
+(Relational Concepts in Psychoanalysis, 1988 — Harvard University Press, p. 9)
+A formulação drives are always embedded in relational contexts é a síntese em miniatura do projeto: não há pulsão que não seja sempre já relacional — que não encontre seu significado num contexto interpessoal específico.
+
+O conceito de matrix relacional
+O conceito central que Mitchell desenvolve para articular o modelo relacional é o de relational matrix — a matriz relacional:
+“The relational matrix refers to the overall configurational field within which experience is organized. It includes the self, the object, and the space between them — the transactions, the fantasies, the identifications, the negotiations that constitute the intersubjective field.”
+(Relational Concepts in Psychoanalysis, 1988 — p. 33)
+A matriz relacional não é simplesmente a soma de self mais objeto — é o campo que emerge entre eles, incluindo as fantasias que organizam a relação, as identificações que se formam dentro dela, e as negociações que a constituem momento a momento.
+É uma formulação que incorpora Klein sem ser kleiniana — as fantasias que organizam a relação têm uma qualidade inconsciente e primitiva que a tradição kleiniana captura com precisão. E incorpora Sullivan sem ser sullivaniana — o campo interpessoal é mais do que padrões comportamentais observáveis, inclui fantasias e identificações que o behaviorismo sullivaniano tenderia a deixar de lado.
+
+*A teoria dos modelos relacionais
+Em Hope and Dread in Psychoanalysis (1993) — talvez o melhor livro de Mitchell, escrito já de forma mais madura — ele desenvolve o que chama de relational configurations ou models of the relational field: padrões de relação que o sujeito porta consigo e que se reinstalam nas diferentes relações ao longo da vida.
+Esses padrões têm três componentes que Mitchell toma emprestado de diferentes tradições e integra:
+Self — a experiência de si mesmo na relação. Não o self como estrutura isolada de Kohut, mas o self como sempre constituído em relação — o self que emerge de uma configuração específica de interação.
+Object — a experiência do outro na relação. Não o objeto interno kleiniano como entidade metapsicológica, mas o outro como é experienciado dentro de uma configuração relacional específica.
+Transações — o que acontece entre os dois — as formas de interação, de comunicação, de influência mútua que constituem a relação. É aqui que a contribuição sullivaniana é mais clara.
+O que é original em Mitchell é a ideia de que os três componentes são inseparáveis — que não há self sem objeto, não há objeto sem self, e que ambos são constituídos pelas transações que os unem:
+“There is no experience of the self apart from experience of the object. The self is always already relational. It is not that first there is a self and then relationships — the self is constituted in and through relational experience.”
+(Hope and Dread in Psychoanalysis, 1993 — Basic Books, p. 21)
+É uma posição que ressoa com Lacan — o sujeito constituído pelo Outro — mas sem o aparato teórico lacaniano do significante e do Real. Mitchell permanece numa linguagem mais fenomenológica e menos estrutural.
+
+Hope and Dread — o par que organiza a clínica
+O título Hope and Dread in Psychoanalysis captura o par conceitual que Mitchell considera central para a clínica relacional:
+O paciente chega à análise com uma esperança — a esperança de que algo diferente seja possível, de que a relação analítica possa oferecer algo que as relações anteriores não ofereceram. Essa esperança é o que torna a análise possível.
+Mas o paciente chega também com um dread — um terror de que a análise vai reproduzir as configurações relacionais antigas, vai confirmar os padrões que organizam sua patologia. Esse terror é o que produz a resistência.
+O que Mitchell chama de enactment — encenação — é o momento em que o paciente inconscientemente manobra o analista para reproduzir a configuração relacional antiga. Não é simplesmente transferência no sentido clássico — é uma co-criação: o paciente contribui com seu padrão relacional, e o analista inevitavelmente responde de formas que são influenciadas por sua própria história relacional. O enactment é sempre bilateral.
+“Enactments are inevitable. They are not failures of technique — they are the medium through which the relational patterns of the patient become alive and available for examination. The question is not how to avoid enactments but how to use them.”
+(Hope and Dread in Psychoanalysis, 1993 — p. 63)
+A diferença com a transferência clássica é crucial: na transferência clássica, o analista é a tela em branco sobre a qual o paciente projeta. No enactment relacional, o analista é um participante ativo que co-cria o padrão — e que precisa usar sua própria experiência na sessão, incluindo o que foi ativado nele pelo paciente, como dado clínico.
+
+A contratransferência como instrumento — a herança de Heimann via Mitchell
+Paula Heimann havia proposto em 1950 que a contratransferência é instrumento, não interferência. Mitchell desenvolve essa intuição numa direção que é mais radical e mais consistente com o modelo intersubjetivista:
+Se o analista é sempre participante — se não há posição de observação neutra — então o que o analista sente na sessão não é apenas informação sobre o paciente. É informação sobre o campo — sobre o que está acontecendo entre os dois.
+Mitchell propõe que a self-disclosure — a revelação seletiva da experiência do analista ao paciente — pode ser um instrumento clínico legítimo e às vezes necessário. Não a revelação indiscriminada da vida pessoal do analista, mas a revelação do que foi ativado no analista pelo campo relacional:
+“The analyst’s experience in the session — his fantasies, his emotional responses, his sense of what is happening between himself and the patient — is not contamination of the analytic process. It is the analytic process. The question is what to do with it.”
+(Influence and Autonomy in Psychoanalysis, 1997 — Analytic Press, p. 44)
+A self-disclosure é o ponto em que a tradição relacional mais explicitamente se afasta da tradição clássica — e onde a crítica lacaniana é mais direta. Para Lacan, o analista que revela sua experiência pessoal está oferecendo seu ego como objeto de identificação — e isso é precisamente o que a análise deve evitar. Para Mitchell, o analista que não reconhece sua participação está fingindo uma neutralidade impossível — e essa falsidade é ela mesma patogênica.
+
+O dilema entre influência e autonomia
+O último livro que Mitchell publicou em vida — Influence and Autonomy in Psychoanalysis (1997) — aborda o que ele considerava a tensão mais fundamental da situação analítica:
+O analista inevitavelmente influencia o paciente — pela sua presença, pelas suas interpretações, pela sua forma de ser na sessão. Não há análise sem influência. Mas a análise também visa a autonomia do paciente — sua capacidade de encontrar seu próprio desejo, sua própria forma de estar no mundo, independente do analista.
+Como conciliar influência inevitável e objetivo de autonomia?
+Mitchell propõe que a saída não é minimizar a influência — é torná-la consciente e examinável. O analista que reconhece sua influência — que a discute abertamente com o paciente quando relevante, que convida o paciente a examinar como foi afetado pela presença do analista — está criando as condições para uma autonomia genuína, não para uma dependência disfarçada de neutralidade.
+“The paradox of analytic influence is that it is most insidious when it is least acknowledged. The analyst who claims neutrality exercises the most powerful influence of all — because that influence is invisible and therefore cannot be examined.”
+(Influence and Autonomy in Psychoanalysis, 1997 — p. 12)
+É uma formulação que vai diretamente contra Lacan — e que Lacan responderia que o problema não é tornar a influência visível, mas remover o ego do analista da equação para que o sujeito possa encontrar seu próprio desejo no Outro.
+O debate permanece aberto — e é um dos eixos mais produtivos da psicanálise contemporânea.
+
+Implicações técnicas — o que a tradição relacional propõe
+As implicações técnicas do modelo relacional de Mitchell formam um conjunto coerente que se distingue de todas as tradições anteriores:
+A atenção ao enactment — quando o analista percebe que foi manobrado para uma posição específica pelo paciente, essa percepção não é falha técnica mas dado clínico. A questão é como usar o enactment — como nomeá-lo de forma que o paciente possa reconhecer o padrão sem sentir que está sendo acusado.
+A self-disclosure seletiva — revelar ao paciente o que foi ativado no analista quando clinicamente relevante. É uma intervenção que exige julgamento cuidadoso — não toda experiência do analista é relevante para o paciente, e a revelação excessiva é uma forma de o analista usar o paciente para suas próprias necessidades.
+A análise da relação atual — além da interpretação do passado transferido, a análise do que está acontecendo entre analista e paciente no momento presente. O que o paciente está fazendo agora, nesta sessão, com este analista — tem importância clínica independente de sua conexão com o passado.
+A negociação explícita — a relação analítica é vista como uma relação que pode ser discutida, negociada, questionada pelo paciente. O paciente não é apenas objeto de interpretação — é sujeito que tem perspectiva legítima sobre o que está acontecendo entre os dois.
+
+Pausa de consolidação — Mitchell
+Mitchell representa o ponto mais sofisticado da tradição interpessoal-relacional americana — e o ponto em que essa tradição mais se aproxima das tradições britânicas que estudamos, sem se tornar kleiniana, winnicottiana, ou bioniana.
+O que é mais original em Mitchell: a teoria do enactment como co-criação bilateral, a atenção à influência inevitável do analista como dado a ser examinado em vez de eliminado, e a integração de múltiplas tradições numa matriz coerente.
+O que encontra seus limites: a tendência a subestimar a dimensão mais primitiva e mais destrutiva da vida psíquica — que Klein e Bion capturam com maior precisão. O modelo relacional americano tende a ser mais otimista e mais interpessoal do que a clínica com os casos mais graves permite.
+Antes de avançar para Jessica Benjamin — que é onde a tradição relacional encontra sua formulação mais filosófica e mais politicamente comprometida — alguma questão sobre Mitchell?​​​​​​​​​​​​​​​​
+
+Fase IV · Semana 17
+Jessica Benjamin (nascida em 1946)
+Mini-biografia
+Jessica Benjamin nasceu em 1946 em Nova York — cresceu numa família judia intelectualmente engajada, num ambiente em que o pensamento político e a cultura eram parte do cotidiano. Estudou sociologia e filosofia, e seu percurso intelectual é inseparável do feminismo de segunda onda americano — ela foi simultaneamente formada pelo e formadora do pensamento feminista dos anos 70-80.
+Sua formação analítica foi no New York University Postdoctoral Program in Psychoanalysis — o mesmo contexto institucional de Mitchell — e sua análise pessoal foi com um analista da tradição interpessoal. Mas o que distingue Benjamin de todos os outros autores da tradição relacional é a profundidade do diálogo filosófico: ela leu Hegel sistematicamente, conhece Habermas, dialoga com a teoria crítica da Escola de Frankfurt — e usa esse instrumental filosófico para fundamentar a teoria psicanalítica de uma forma que Mitchell, mais clínico e menos filosófico, não havia feito.
+Professora na NYU e supervisora no White Institute, Benjamin permanece até hoje uma figura ativa — publicando, supervisionando, e participando de debates sobre psicanálise e teoria política. É uma das poucas figuras do currículo que está ainda em plena atividade intelectual.
+Sua vida pessoal é menos documentada publicamente do que a de muitos outros autores que estudamos — o que é em parte uma escolha deliberada e em parte um reflexo de uma geração que separava mais claramente a vida pessoal da produção intelectual.
+Formação e população clínica: Benjamin trabalha em prática privada em Nova York com adultos — população similar à de Mitchell. Mas sua contribuição mais influente não é primariamente clínica — é teórica e filosófica. O que Benjamin oferece ao campo é uma fundamentação filosófica para a intersubjetividade que o movimento relacional havia proposto de forma mais intuitiva do que rigorosa.
+
+O projeto de Benjamin — por que Hegel
+A contribuição mais original de Benjamin à tradição relacional é trazer Hegel para dentro da psicanálise — especificamente a dialética do reconhecimento que Hegel desenvolve na Fenomenologia do Espírito (1807) na seção sobre a relação senhor-escravo.
+O movimento é deliberado e tem uma lógica precisa: se a tradição relacional propõe que o sujeito se constitui na relação com o outro — que não há self antes da relação — então precisa de uma teoria filosófica do que acontece nessa relação constitutiva. E a teoria mais rigorosa disponível para esse propósito é a dialética hegeliana do reconhecimento.
+Benjamin formula o problema central de The Bonds of Love (1988) — seu livro mais influente — desta forma:
+“The need of the self for the other is paradoxical: if we are to feel real, our acts must feel as if they come from within us, must be experienced as our own creation — yet we need the other to recognize us as real. We need the other to feel that we ourselves are real.”
+(The Bonds of Love, 1988 — Pantheon Books, p. 32)
+O paradoxo é preciso: o self precisa do outro para se sentir real — mas se depende demais do outro, perde a sensação de que sua experiência é genuinamente sua. É um paradoxo que Hegel havia descrito como a dialética entre dependência e autonomia — e que a psicanálise havia abordado de formas que Benjamin considera insatisfatórias.
+
+A dialética do reconhecimento — Hegel relido
+A seção da Fenomenologia do Espírito que Benjamin usa como ponto de partida é a análise hegeliana da relação senhor-escravo — um dos textos filosóficos mais influentes do século XIX e uma das fundações da teoria crítica do século XX.
+Hegel propõe que a autoconsciência precisa do reconhecimento do outro para se constituir. Não basta existir — é preciso ser reconhecido como existente por outro que também existe. É uma dependência constitutiva: o self que não é reconhecido não se constitui como self.
+Mas a dialética hegeliana também mostra que o reconhecimento puro — o reconhecimento por um outro que se submete completamente — é insatisfatório. O senhor que domina completamente o escravo recebe reconhecimento — mas o reconhecimento de um escravo não vale nada, porque o escravo não é reconhecido como sujeito. Para que o reconhecimento seja genuíno, precisa vir de outro que é ele mesmo reconhecido como sujeito.
+Benjamin relê essa dialética em termos psicanalíticos:
+“The problem of recognition lies at the heart of the intersubjective view. To recognize the other means to affirm the other’s subjectivity — to acknowledge that the other has a center of experience, a point of view. But this affirmation is only possible if the self can also maintain its own center. The paradox is that I need you to recognize me, but I can only be recognized by someone I recognize.”
+(The Bonds of Love, 1988 — p. 33)
+
+Intersubjetividade versus intrapsíquico
+O conceito central de Benjamin — que dá estrutura a toda a sua obra — é a distinção entre a perspectiva intrapsíquica e a perspectiva intersubjetiva:
+A perspectiva intrapsíquica — que Benjamin associa predominantemente à tradição freudiana e kleiniana — vê o outro primariamente como objeto do mundo interno do sujeito: como projeção, como fantasia, como figura transferencial. O que importa é o que o sujeito faz com o outro em sua vida psíquica interior.
+A perspectiva intersubjetiva — que Benjamin propõe como complementar, não substitutiva — vê o outro como sujeito com seu próprio centro de experiência, com sua própria perspectiva, com sua própria realidade que não se reduz ao que o sujeito projeta nele. O que importa é o que acontece entre dois sujeitos que se reconhecem mutuamente como tais.
+Benjamin é cuidadosa em não simplesmente substituir uma perspectiva pela outra:
+“I am not proposing that we abandon the intrapsychic perspective. The object of psychoanalytic inquiry is not simply the space between people, but also the space within the person. The intersubjective view does not replace the intrapsychic view — it adds a dimension that the intrapsychic view cannot capture.”
+(Like Subjects, Love Objects, 1995 — Yale University Press, p. 8)
+A contribuição é de adição, não de substituição — e é nesse ponto que Benjamin é mais cuidadosa do que alguns de seus leitores que simplificam a posição como se fosse uma rejeição da teoria do objeto interno.
+
+Dominação e submissão — a clínica do reconhecimento
+Em The Bonds of Love, Benjamin desenvolve uma teoria da dominação que é simultaneamente psicanalítica e política — e que é a sua contribuição mais original e mais influente.
+A questão central é: por que pessoas se submetem voluntariamente à dominação? Por que a estrutura senhor-escravo se reproduz nas relações íntimas? E por que o escravo — usando a terminologia hegeliana — frequentemente contribui ativamente para sua própria dominação?
+A resposta de Benjamin integra Freud, Hegel, e a observação clínica de uma forma que é genuinamente nova:
+A submissão é uma solução ao paradoxo do reconhecimento. Se preciso do outro para me sentir real, mas o outro é imprevisível, potencialmente rejeitante, fundamentalmente separado de mim — então posso resolver o paradoxo pela submissão: entrego minha autonomia ao outro e recebo em troca a ilusão de fusão, de proteção, de ser completamente reconhecido por uma figura que é onipotente.
+Benjamin chama isso de identificação com o objeto — diferenciando de identificação com o sujeito:
+“Identificaton with the object means taking the other as the locus of agency, desire, and subjectivity — while the self empties itself of these qualities. It is a solution to the problem of recognition that works by eliminating the tension — by giving up one’s own subjectivity in order to bask in the subjectivity of the other.”
+(The Bonds of Love, 1988 — p. 98)
+É uma formulação que conecta com a identificação com o agressor de Anna Freud e com a internalização do objeto mau de Fairbairn — mas que acrescenta uma dimensão que os dois não haviam desenvolvido: a dimensão de gênero.
+
+Gênero e reconhecimento
+A contribuição mais politicamente significativa de Benjamin é a análise de como a estrutura de dominação-submissão se articula com o gênero na cultura ocidental contemporânea.
+A masculinidade — tal como culturalmente construída — é associada com a posição do sujeito: agência, autonomia, desejo próprio. A feminilidade é associada com a posição do objeto: receptividade, cuidado com o desejo do outro, renúncia à própria agência.
+Benjamin propõe que essa assimetria não é biológica nem psicológica no sentido de necessidade estrutural — é cultural e histórica, mas que produz estruturas psíquicas reais que se reproduzem na vida íntima e na situação analítica:
+“The asymmetry of gender — the cultural coding of masculinity as subject and femininity as object — is internalized by both men and women, and shapes the dynamics of recognition in intimate relationships. It is not destiny. But it is a powerful force that psychoanalysis has frequently theorized as natural rather than historical.”
+(The Bonds of Love, 1988 — p. 112)
+É uma crítica que ressoa com o que Horney havia dito sobre a inveja do pênis — a assimetria que Freud naturalizou é histórica — mas que Benjamin formula com maior rigor filosófico e com maior atenção à dimensão intersubjetiva.
+
+O terceiro — beyond doer and done-to
+Em trabalhos posteriores — especialmente Shadow of the Other (1998) e os artigos que culminam em Beyond Doer and Done-To (2004) — Benjamin desenvolve um conceito que é talvez o mais clinicamente preciso de toda a sua obra: o terceiro.
+Benjamin propõe que a situação analítica — e toda relação intersubjetiva — pode ser organizada de duas formas fundamentalmente diferentes:
+A relação doer and done-to — uma organização em que há alguém que age e alguém que recebe a ação. Uma pessoa tem agência, a outra é objeto da agência. É uma estrutura binária — e é a estrutura que tanto as relações patológicas quanto os impasses analíticos tendem a assumir. O paciente faz algo ao analista, o analista responde, o paciente reage à resposta — e os dois ficam presos numa dança em que cada movimento do outro é experienciado como ataque ou como submissão.
+A relação com o terceiro — o que Benjamin chama de thirdness — é uma forma diferente de organização em que analista e paciente podem se referir a algo além da díade, a um espaço compartilhado que nenhum dos dois controla. O terceiro não é uma terceira pessoa — é uma qualidade da experiência compartilhada que transcende a binariedade de doer and done-to:
+“The third refers to that which transcends the dyadic interlock of doer and done-to. When we are able to achieve thirdness — when we can refer to something beyond the immediate interaction, something that we both see, something that is neither mine nor yours but ours — we create the possibility of reflection, of thinking about what is happening rather than simply being caught in it.”
+(Beyond Doer and Done-To, 2004 — Psychoanalytic Quarterly, p. 7)
+O terceiro em Benjamin tem uma ressonância clara com o Outro lacaniano — a instância simbólica que transcende a díade e que torna a linguagem e o pensamento possíveis. Mas Benjamin formula o terceiro em termos intersubjetivos em vez de estruturais — é algo que dois sujeitos criam juntos, não uma estrutura que preexiste à relação.
+É também uma ressonância com o espaço potencial winnicottiano — o terceiro território entre interno e externo onde o brincar e a criatividade acontecem. Benjamin está descrevendo o equivalente intersubjetivo desse espaço: o território que emerge entre dois sujeitos quando a relação sai da binariedade de dominação-submissão.
+
+A conexão com a saúde mental queer — e com Butler
+Benjamin é um dos poucos autores do currículo que dialoga explicitamente com a teoria queer — especialmente com Judith Butler, com quem manteve um intercâmbio intelectual público ao longo dos anos 90.
+A questão central do diálogo é: o que a psicanálise pode oferecer à teoria queer, e o que a teoria queer pode oferecer à psicanálise?
+Benjamin propõe que a teoria do reconhecimento é especialmente relevante para entender o sofrimento de pessoas LGBTQ+ — não como patologia individual, mas como produto de uma estrutura de não-reconhecimento social. A homossexualidade que foi patologizada pela psicanálise clássica não é perturbação do desenvolvimento — é uma forma de subjetividade que a cultura dominante se recusou a reconhecer como legítima.
+A estrutura de dominação que Benjamin descreve em The Bonds of Love — em que a posição de sujeito é codificada como masculina e heterossexual, e as posições de objeto são atribuídas a mulheres e a pessoas LGBTQ+ — é diretamente relevante para entender formas específicas de sofrimento que não são primariamente conflito intrapsíquico, mas resultado de não-reconhecimento estrutural.
+Butler vai além de Benjamin nesse ponto — vai questionar a própria estrutura do reconhecimento como potencialmente normativa — mas o diálogo entre as duas vai ser central quando chegarmos à fase três.
+
+Implicações técnicas — o trabalho com o terceiro
+As implicações técnicas da teoria de Benjamin são menos prescritivas do que as de Mitchell — mais orientadas para uma postura do analista do que para intervenções específicas.
+Reconhecer a própria subjetividade — o analista que nega ser sujeito — que pretende ser espelho neutro, tela em branco — não cria o terceiro. Cria uma assimetria de poder que reproduz a estrutura de dominação. Reconhecer a própria subjetividade — incluindo os limites, os afetos, os pontos cegos — é condição para que o terceiro possa emergir.
+Sair da posição de doer-and-done-to — quando analista e paciente ficam presos na binariedade de quem faz e quem recebe — quando cada interpretação é experienciada como ataque, quando cada silêncio é experienciada como abandono — o trabalho analítico consiste em encontrar formas de sair dessa binariedade. O terceiro não é criado por uma interpretação específica — emerge quando os dois conseguem referir-se a algo além da díade imediata.
+O reconhecimento mútuo como objetivo — o objetivo do tratamento não é simplesmente a remoção de sintomas, nem o insight sobre o passado, nem a restauração do self coeso. É a capacidade crescente de reconhecimento mútuo — de poder reconhecer o outro como sujeito com perspectiva própria, e de poder ser reconhecido como tal.
+
+Pausa de consolidação — Benjamin e a Fase IV
+Com Benjamin concluímos o percurso pela Fase IV — a tradição interpessoal e relacional americana.
+O mapa do que a Fase IV acrescentou ao currículo:
+Sullivan — a situação interpessoal como unidade de análise, a ansiedade como organizador do self, o participant observer, e a dissociação versus recalque como distinção clínica fundamental.
+Fromm — a síntese entre psicanálise e crítica social, a fuga da liberdade como fenômeno psíquico e político, e a crítica ao biologismo freudiano.
+Mitchell — a matriz relacional, o enactment como co-criação bilateral, a self-disclosure como instrumento, e a tensão entre influência e autonomia.
+Benjamin — a dialética do reconhecimento via Hegel, a estrutura de dominação-submissão, o terceiro como espaço que transcende a binariedade, e a conexão com a teoria queer e feminista.
+O que a Fase IV como um todo oferece que as fases anteriores não haviam oferecido: uma teoria da bidirecionalidade — da influência mútua entre analista e paciente, da co-criação do campo analítico, e do reconhecimento mútuo como objetivo e como instrumento.
+E o contraste com Lacan — que está no horizonte — vai ser mais rico por termos construído esse território: Lacan vai propor que a bidirecionalidade que os relacionais valorizam é precisamente o obstáculo à análise genuína. O debate entre as duas posições é um dos mais produtivos da psicanálise contemporânea.
+Seguimos para a Fase V — Lacan?​​​​​​​​​​​​​​​​

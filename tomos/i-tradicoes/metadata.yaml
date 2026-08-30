@@ -1,0 +1,34 @@
+---
+title:
+  - type: main
+    text: "O Curso — Tomo I"
+  - type: subtitle
+    text: "As Tradições: O mapa comparativo das escolas psicanalíticas"
+creator:
+  - role: author
+    text: "Leandro"
+  - role: editor
+    text: "Leandro"
+contributor:
+  - role: other
+    text: "Claude (Anthropic) — interlocutor e redator"
+belongs-to-collection: "Teoria Psicanalítica — O Curso"
+group-position: 1
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:PLACEHOLDER-GERADO-NO-BUILD"
+language: pt-BR
+date: "2026"
+subject:
+  - "Psicanálise"
+  - "Teoria psicanalítica"
+  - "Epistemologia"
+description: |
+  Percurso pelas seis tradições — Freud, ego psychology e psicologia do self, relações
+  de objeto britânicas, interpessoais e relacionais, Lacan — lidas lado a lado por
+  problema, e fechado pelos cinco problemas epistemológicos da síntese crítica.
+  Onde os volumes monográficos aprofundam uma escola, este tomo as põe em confronto.
+  Estudo independente, não clínico. Uso pessoal — contém citação direta de obra
+  sob direito autoral.
+rights: "Uso pessoal. Citações de terceiros permanecem sob seus respectivos direitos."
+...

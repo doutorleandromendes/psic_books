@@ -1,0 +1,490 @@
+## Fase III · Módulo 0
+### Exame Psíquico e Semiologia do Psiquismo
+
+---
+
+**Introdução — por que este módulo existe aqui**
+
+A psicanálise nasceu da psiquiatria — Freud era neurologista, Breuer era clínico, e os primeiros casos que organizaram a teoria eram pacientes psiquiátricos avant la lettre. Mas ao longo do século XX, a psicanálise e a psiquiatria desenvolveram linguagens tão diferentes que os profissionais formados em uma tradição frequentemente não conseguem conversar com os formados na outra.
+
+Este módulo não pertence a nenhuma escola psicanalítica. É pré-psicanalítico — estabelece o vocabulário semiológico compartilhado que a clínica exige independente de orientação teórica. É o substrato sobre o qual a semiologia psicanalítica vai operar nos módulos seguintes.
+
+O objetivo não é transformar o leitor em psiquiatra — é restaurar um vocabulário que a formação clínica forneceu há anos e que o trabalho cotidiano às vezes deixa enferrujar. Um brush-up sistemático antes de entrar no território específico da escuta analítica.
+
+---
+
+**Bloco 1 — A entrevista clínica como instrumento**
+
+**O que a entrevista faz e o que não faz**
+
+A entrevista clínica é o instrumento central da avaliação psicopatológica — e simultaneamente o instrumento mais sujeito a viés, mais dependente de treinamento, e mais difícil de padronizar.
+
+O que a entrevista permite: observação direta do estado mental atual, coleta da história do sofrimento na perspectiva do sujeito, avaliação da qualidade do contato e da relação, identificação de sinais e sintomas que organizam hipóteses diagnósticas.
+
+O que a entrevista não permite: acesso direto ao que o sujeito não comunica conscientemente, avaliação do estado mental em outros momentos, verificação independente do que é relatado, diagnóstico definitivo na maioria dos casos.
+
+**As três entrevistas que um clínico faz simultaneamente**
+
+Qualquer entrevista clínica competente envolve três processos simultâneos que precisam ser mantidos em paralelo:
+
+A *entrevista de conteúdo* — o que o paciente está dizendo, a narrativa que está construindo, os eventos que está descrevendo. É o nível mais imediatamente acessível e o que mais facilmente captura a atenção do entrevistador menos experiente.
+
+A *entrevista de forma* — como o paciente está dizendo, independente do conteúdo. O ritmo do discurso, a coerência da narrativa, a relação entre o que é dito e como é dito afetivamente. Frequentemente mais diagnóstica do que o conteúdo.
+
+A *entrevista relacional* — o que está acontecendo entre entrevistador e entrevistado. O tipo de contato que se estabelece, o que o paciente produz no entrevistador, como a relação evolui ao longo da entrevista. É o nível que mais diretamente antecipa a transferência — e que o treinamento psiquiátrico clássico menos sistematicamente desenvolve.
+
+**A observação antes da fala**
+
+O exame psíquico começa antes de qualquer palavra. O que o entrevistador observa ao ver o paciente pela primeira vez — antes que qualquer pergunta seja feita — já é dado clínico.
+
+*Aparência e apresentação geral:* adequação do vestuário ao contexto, cuidado com higiene e aparência, postura, expressão facial em repouso. O que a aparência comunica sobre o estado do ego — a capacidade de cuidar de si mesmo, de gerenciar a apresentação social, de manter fronteiras entre o mundo interno e o externo.
+
+*Comportamento motor:* agitação ou retardo observáveis, gestos, movimentos involuntários, posição do corpo em relação ao entrevistador. O paciente que não para de se mover versus o que está completamente imóvel. O que cada extremo sinaliza.
+
+*Contato visual:* evitação consistente versus contato fixo e perturbador. O contato visual que varia adequadamente com o discurso versus o que permanece invariante — tanto muito quanto pouco contato invariante são sinais.
+
+*Porte e atitude geral:* colaborativo, suspeito, hostil, sedutor, deferente, indiferente. O que a atitude revela sobre a relação que o paciente está oferecendo — e sobre o que espera do outro.
+
+**Os riscos do julgamento prematuro**
+
+A observação antes da fala tem um risco específico que precisa ser nomeado: o de que o entrevistador forme hipóteses antes de ter dados suficientes — e que essas hipóteses organizem o que vai escutar de forma que confirme o que já concluiu.
+
+O antídoto não é tentar não observar antes da fala — é manter as hipóteses iniciais como provisórias, continuar coletando dados que possam refutá-las, e estar genuinamente aberto à surpresa.
+
+---
+
+**Bloco 2 — Consciência e orientação**
+
+**Nível de consciência**
+
+O exame da consciência percorre um espectro que vai do alerta ao coma:
+
+*Alerta* — o estado normal. O sujeito está acordado, responde adequadamente a estímulos, mantém atenção sem dificuldade aparente.
+
+*Obnubilação* — redução leve a moderada do nível de consciência. O sujeito está acordado mas com dificuldade de manter atenção, responde mais lentamente, pode parecer confuso ou desorientado. O pensamento está lentificado e há dificuldade de concentração.
+
+*Torpor (sopor)* — o sujeito pode ser despertado por estímulos intensos mas volta rapidamente ao estado de sonolência. A resposta a perguntas é limitada e o contato é difícil de manter.
+
+*Coma* — o sujeito não pode ser despertado. Gradações do coma são avaliadas pela Escala de Glasgow nos contextos de emergência.
+
+Na prática clínica psiquiátrica ambulatorial, os estados de obnubilação são os mais clinicamente relevantes — e os mais facilmente confundidos com outros quadros. O paciente obnubilado pode parecer simplesmente lento ou distraído; o reconhecimento exige atenção à qualidade do contato e à coerência da resposta ao longo do tempo.
+
+**Qualidade da consciência**
+
+Distinta do nível, a qualidade da consciência se refere à clareza e à coerência da experiência consciente:
+
+*Lucidez* — consciência clara, com percepção adequada de si mesmo e do ambiente, pensamento organizado e coerente.
+
+*Confusão mental* — perturbação da clareza e da coerência. O sujeito pode estar alerta (nível de consciência preservado) mas com pensamento desorganizado, desorientação, dificuldade de manter o fio de uma ideia. A confusão mental é um sinal inespecífico que exige investigação de causa orgânica.
+
+*Estado crepuscular* — estreitamento do campo da consciência com preservação relativa de certas funções automáticas. O sujeito pode parecer funcionar mas em realidade está operando num campo muito reduzido. Comum nas crises dissociativas e em certas epilepsias.
+
+**Orientação**
+
+A orientação é avaliada em quatro eixos:
+
+*Orientação no tempo* — o sujeito sabe que dia é hoje, que mês, que ano, que hora aproximadamente? A desorientação temporal é frequentemente o primeiro sinal de deterioração cognitiva e é o eixo mais sensível a alterações leves.
+
+*Orientação no espaço* — o sujeito sabe onde está? Sabe como chegou até aqui? Conhece o contexto em que se encontra?
+
+*Orientação em relação à pessoa* — o sujeito sabe quem é? Conhece seu nome, sua história básica? A desorientação em relação à própria pessoa é o sinal mais grave e tende a aparecer apenas em estados muito avançados de deterioração ou em estados dissociativos intensos.
+
+*Orientação em relação à situação* — o sujeito compreende por que está aqui, o que está acontecendo, qual é o contexto da entrevista?
+
+**Atenção**
+
+*Concentração* — a capacidade de manter o foco num estímulo específico ao longo do tempo. Avaliada clinicamente pela qualidade do contato ao longo da entrevista, pela capacidade de manter o fio do raciocínio, pela resposta a tarefas simples como contar de trás para frente.
+
+*Distraibilidade* — tendência a ser capturado por estímulos irrelevantes. O paciente que para de falar cada vez que há um ruído externo, que perde o fio da conversa frequentemente, que responde a estímulos que o entrevistador não percebeu.
+
+*Tenacidade* — a capacidade de mudar de foco quando necessário. O paciente que persevera — que continua num tema mesmo quando o entrevistador tenta mudar — pode ter tenacidade aumentada.
+
+---
+
+**Bloco 3 — Percepção**
+
+**Ilusões versus alucinações**
+
+A distinção fundamental que organiza o domínio da percepção:
+
+*Ilusão* — percepção distorcida de um estímulo real que existe. O sujeito percebe algo que está lá, mas percebe de forma diferente do que é. As ilusões podem ocorrer em estados de baixo nível de consciência, em contextos de alta ansiedade, e em estados de intoxicação — mas também em sujeitos completamente lúcidos sob certas condições (a ilusão de Müller-Lyer é uma ilusão visual universal).
+
+*Alucinação* — percepção sem objeto. O sujeito experiencia uma percepção (vê, ouve, sente, cheira) sem que haja estímulo externo correspondente. A alucinação é vivida pelo sujeito como percepção real — não como fantasia ou imaginação.
+
+**As modalidades alucinatórias**
+
+*Alucinações auditivas* — as mais comuns na psicose. Apresentam-se em gradações de complexidade:
+
+Alucinações auditivas elementares — sons simples sem forma de fala: ruídos, barulhos, música sem letra. Frequentemente associadas a patologia orgânica do sistema auditivo ou a epilepsia.
+
+Alucinações auditivas verbais simples — palavras ou frases curtas, frequentemente o nome do sujeito sendo chamado.
+
+Alucinações auditivas verbais complexas — vozes que fazem frases completas. Apresentam variações clinicamente relevantes: vozes que comentam o comportamento do sujeito (*"agora ele está andando"*), vozes que conversam entre si sobre o sujeito na terceira pessoa, vozes imperativas que ordenam comportamentos, vozes que acusam ou ameaçam.
+
+A distinção entre vozes que vêm de fora (exoalucinações) e vozes que o sujeito localiza dentro da própria cabeça (endoalucinações ou pseudoalucinações) é clinicamente relevante — embora a fronteira nem sempre seja clara para o próprio sujeito.
+
+*Alucinações visuais* — menos comuns na esquizofrenia do que as auditivas, mais comuns nos estados orgânicos agudos (delírium, intoxicações, abstinência alcoólica). Podem ser elementares (luzes, formas, cores) ou complexas (figuras humanas, animais, cenas). A ocorrência de alucinações visuais em primeiro plano, especialmente em idosos, deve sempre levantar suspeita de causa orgânica.
+
+*Alucinações olfativas e gustativas* — frequentemente associadas à epilepsia do lobo temporal (auras epilépticas) e a certos estados psicóticos. O sujeito que cheira cheiros que outros não sentem, frequentemente descritos como desagradáveis.
+
+*Alucinações táteis (hápticas)* — a experiência de ser tocado sem que haja contato físico. Associadas a estados de abstinência (especialmente álcool e cocaína — a formigação característica da abstinência de cocaína) e a certos estados psicóticos.
+
+*Alucinações cenestésicas* — perturbações da percepção do próprio corpo. A sensação de que órgãos internos estão sendo manipulados, de que o corpo está mudando de forma, de que há algo dentro do corpo que não deveria estar lá.
+
+**Pseudoalucinações**
+
+O conceito de pseudoalucinação é um dos mais disputados da psicopatologia — e clínicamente importante apesar (ou por causa) da disputa. Na formulação clássica de Jaspers, a pseudoalucinação tem as características formais da alucinação (percepção sem objeto) mas é localizada no espaço interno subjetivo em vez do espaço objetivo externo — e frequentemente é reconhecida como subjetiva pelo próprio sujeito.
+
+Na prática clínica, a distinção mais relevante é se o sujeito reconhece ou não a alucinação como produto da própria mente (insight alucinatório preservado ou ausente) — o que tem implicações para o diagnóstico diferencial e para o risco.
+
+**Fenômenos relacionados**
+
+*Alucinações hipnagógicas e hipnopômpicas* — alucinações que ocorrem no adormecer (hipnagógicas) ou no despertar (hipnopômpicas). São fenômenos normais que ocorrem no limiar entre vigília e sono — não têm significado patológico quando isoladas.
+
+*Déjà-vu* — a sensação de que uma situação nova já foi experienciada antes. Ocorre ocasionalmente em sujeitos normais, com maior frequência em estados de fadiga ou ansiedade; quando muito frequente pode ser aura epiléptica ou sintoma de outros estados.
+
+*Jamais-vu* — o inverso: a sensação de que uma situação familiar parece completamente nova e desconhecida. Mais incomum que o déjà-vu e mais frequentemente associado a estados patológicos.
+
+*Despersonalização* — a experiência de estranhamento em relação ao próprio self. O sujeito se experiencia como separado de si mesmo, como observador externo de seus próprios pensamentos, sentimentos e ações. Pode ser descrito como "sentir que sou um robô", "sentir que estou assistindo a mim mesmo de fora", "sentir que meus pensamentos não são meus". A despersonalização ocorre em múltiplos contextos: como fenômeno normal isolado em estados de fadiga extrema, como sintoma de ansiedade intensa, como parte de quadros dissociativos, como efeito de certas substâncias, e como sintoma de vários transtornos mentais.
+
+*Desrealização* — o equivalente da despersonalização mas dirigido ao mundo externo. O sujeito experiencia o ambiente como estranho, irreal, como um cenário de filme, como se houvesse um vidro entre ele e o mundo. Frequentemente ocorre junto com despersonalização.
+
+---
+
+**Bloco 4 — Pensamento**
+
+**Forma do pensamento**
+
+A forma do pensamento — o curso e a estrutura do processo de pensar — é avaliada pela observação do discurso. O examinador não tem acesso direto ao pensamento; tem acesso ao que o discurso revela sobre o pensamento.
+
+*Curso do pensamento:*
+
+*Aceleração (taquipsiquia)* — o pensamento é mais rápido do que o usual. No extremo, produz a *fuga de ideias* — o sujeito salta de tema em tema com associações que podem ser compreensíveis (associações por som, por contigüidade, por rima) mas que perdem o fio condutor lógico. Clinicamente associada à mania, mas pode ocorrer em outros contextos de alta excitação.
+
+*Lentificação (bradipsiquia)* — o pensamento é mais lento do que o usual. O sujeito responde com latência aumentada, as frases são mais curtas, o raciocínio é mais laborioso. Associada à depressão, mas também a estados de obnubilação e a efeitos de certas medicações.
+
+*Bloqueio* — interrupção abrupta do curso do pensamento. O sujeito para no meio de uma frase, frequentemente sem conseguir explicar o que aconteceu. Quando o sujeito relata que seu pensamento foi interrompido por uma força externa, estamos no território dos fenômenos de influência.
+
+*Perseveração* — tendência a retornar repetidamente ao mesmo tema ou à mesma palavra, independente da pergunta ou do contexto. Distinta da circunstancialidade pela rigidez — o perseverante não consegue sair do tema mesmo quando há esforço aparente.
+
+*Tangencialidade* — o sujeito responde a perguntas de forma que toca marginalmente no assunto mas não o aborda diretamente. A tangencialidade moderada pode ser difícil de distinguir de um estilo comunicativo específico; a tangencialidade marcada produz a sensação de que o sujeito está sistematicamente desviando.
+
+*Circunstancialidade* — o sujeito chega ao ponto mas por um caminho excessivamente longo, com detalhes e digressões desnecessárias. Distinto da tangencialidade porque eventualmente retorna ao ponto — apenas com muito mais rodeios do que necessário.
+
+*Descarrilamento (frouxidão associativa)* — as conexões entre as ideias são frouxas, as associações são inesperadas, o fio lógico é frequentemente perdido sem que o sujeito perceba. O examinador tem dificuldade de acompanhar o raciocínio. É um dos sinais mais característicos da esquizofrenia.
+
+*Incoerência (salada de palavras)* — no extremo do descarrilamento, as associações se tornam completamente incompreensíveis. Palavras são justapostas sem conexão sintática ou semântica reconhecível.
+
+*Neologismos* — criação de novas palavras com significado específico para o sujeito que não corresponde ao uso convencional. Distinto de metáforas criativas — o neologismo psicótico é frequentemente opaco mesmo quando o sujeito tenta explicá-lo.
+
+**Conteúdo do pensamento**
+
+*Ideias supervalorizadas* — crenças que dominam o pensamento de forma desproporcional ao seu valor objetivo, mas que ainda têm algum fundamento na realidade e às quais o sujeito está fortemente identificado. A fronteira com o delírio é gradual e frequentemente difícil de estabelecer.
+
+*Ideias obsessivas* — pensamentos que invadem a consciência de forma repetitiva e indesejada, que o sujeito reconhece como produtos de sua própria mente, e que são acompanhados de resistência — o sujeito tenta não pensar mas não consegue. A consciência de absurdidade e a resistência são critérios que distinguem a ideia obsessiva do delírio.
+
+*Ideias delirantes* — a perturbação do conteúdo do pensamento mais clinicamente significativa. As características clássicas do delírio a partir dos critérios de Jaspers:
+
+Certeza subjetiva absoluta — o sujeito acredita com convicção inabalável, sem a possibilidade de dúvida que qualquer crença ordinária comporta.
+
+Incorregibilidade — o delírio não é modificado por argumentação lógica, por evidência contrária, por persuasão. Ao contrário, a tentativa de argumentar frequentemente intensifica a convicção.
+
+Impossibilidade ou implausibilidade do conteúdo — embora Jaspers reconhecesse que o conteúdo pode ser plausível superficialmente, há frequentemente uma qualidade de inverossimilhança que distingue o delírio da crença errônea ordinária.
+
+*Tipologia do delírio por conteúdo:*
+
+Delírio persecutório — a convicção de estar sendo perseguido, espionado, prejudicado, envenenado, ou objeto de conspiração. É o tipo mais comum. A perseguição pode ser atribuída a pessoas específicas identificadas, a organizações, a forças sobrenaturais.
+
+Delírio de grandiosidade — convicção de ter poderes, missão, identidade, ou relações especiais que excedem vastamente a realidade. O sujeito que acredita ser enviado divino, ter descoberto algo que vai mudar o mundo, ter poderes telepáticos ou sobre-humanos.
+
+Delírio de referência — a convicção de que eventos, objetos, pessoas, ou situações do ambiente têm um significado específico e pessoal dirigido ao sujeito. A televisão que fala diretamente com o sujeito, o número da placa do carro que tem um significado especial, as conversas de estranhos que são sobre o sujeito.
+
+Delírio de influência — a convicção de que pensamentos, sentimentos, impulsos ou movimentos estão sendo controlados por uma força externa. Inclui os fenômenos de inserção de pensamentos (alguém coloca pensamentos na mente do sujeito), retirada de pensamentos (alguém retira seus pensamentos), e transmissão de pensamentos (seus pensamentos são transmitidos para outros).
+
+Delírio de ciúme (síndrome de Otelo) — convicção patológica de infidelidade do parceiro, sem fundamento adequado na realidade. Distinto do ciúme normal pela intensidade, pela resistência à evidência contrária, e pela organização sistemática de evidências que confirmam a convicção.
+
+Delírio niilista (síndrome de Cotard) — convicção de que o próprio corpo, ou partes dele, não existem, estão mortos, ou em decomposição. Em formas extremas, o sujeito acredita não existir, que o mundo deixou de existir.
+
+Delírio somático — convicções delirantes sobre o próprio corpo: estar infestado de parasitas, ter órgãos doentes ou ausentes, emitir odores que outros percebem.
+
+Delírio místico-religioso — conteúdo delirante organizado em torno de temas religiosos ou espirituais. A distinção entre delírio religioso e experiência religiosa intensa dentro de uma tradição cultural é um dos desafios mais difíceis da psicopatologia — e exige atenção ao contexto cultural do sujeito.
+
+*Delírio primário versus secundário:*
+
+O delírio primário emerge sem base compreensível em experiências anteriores — surge como vivência absolutamente nova, frequentemente com a qualidade do *"agora eu sei"* sem que haja processo inferencial reconhecível. É o que Jaspers chamou de Primäres Wahnerleben.
+
+O delírio secundário é compreensível como derivado de outra experiência psicopatológica — o sujeito que tem alucinações e desenvolve um sistema delirante para explicá-las, ou que parte de um humor depressivo intenso para desenvolver convicções de culpa e ruína.
+
+**Juízo e crítica**
+
+*Juízo* — a capacidade de avaliar adequadamente a realidade e de tomar decisões baseadas nessa avaliação. Perturbado nos estados delirantes, nos estados demenciais avançados, e em certas condições de impulsividade grave.
+
+*Insight* — a consciência que o sujeito tem sobre seu próprio estado. O insight é um continuum que vai da negação total (o sujeito nega qualquer problema) à consciência plena (o sujeito reconhece o que está acontecendo, compreende sua natureza, e está motivado para buscar ajuda). A avaliação do insight tem implicações diretas para o planejamento do tratamento.
+
+---
+
+**Bloco 5 — Memória e inteligência**
+
+**Os sistemas de memória**
+
+A neuropsicologia contemporânea distingue múltiplos sistemas de memória com substratos neurais diferentes e vulnerabilidades clínicas distintas:
+
+*Memória imediata (de trabalho)* — a capacidade de manter informação ativa por segundos a minutos para uso imediato. Avaliada pelo span de dígitos (repetição de sequências de números em ordem direta e inversa). Perturbada na obnubilação, em estados de ansiedade intensa, e em certas demências.
+
+*Memória de curto prazo (recente)* — a capacidade de consolidar novas informações e de recuperá-las após minutos a dias. É o sistema mais precocemente perturbado nas demências. O paciente que repetidamente não consegue lembrar o que comeu no café da manhã, que pergunta as mesmas coisas várias vezes no mesmo dia.
+
+*Memória de longo prazo (remota)* — a memória de eventos distantes, de fatos gerais, de habilidades adquiridas. Preservada por mais tempo nas demências — o paciente que não sabe o que aconteceu ontem mas lembra com detalhes de eventos de cinquenta anos atrás.
+
+*Memória procedural* — a memória de habilidades motoras e cognitivas automatizadas. Preservada muito tardiamente nas demências — o paciente que esqueceu o nome dos filhos mas ainda consegue andar de bicicleta.
+
+*Memória autobiográfica* — a memória de eventos específicos da própria vida, com sua dimensão pessoal e afetiva. É o tipo de memória mais relevante clinicamente na psicanálise — e o mais suscetível a distorção, à influência do estado afetivo atual, e à reconstrução retrospectiva.
+
+**Perturbações da memória**
+
+*Amnésia anterógrada* — incapacidade de formar novas memórias após o evento causador. O paciente que não consegue consolidar nenhuma nova informação — que se apresenta repetidamente como se fosse a primeira vez.
+
+*Amnésia retrógrada* — perda de memórias de eventos anteriores ao evento causador. A extensão da amnésia retrógrada frequentemente diminui com o tempo — as memórias mais antigas tendem a ser preservadas (lei de Ribot).
+
+*Confabulação* — produção de memórias falsas sem intenção de enganar. O sujeito que preenche lacunas de memória com material inventado que experiencia como verdadeiro. Distinto da mentira pela ausência de consciência de que o relato é falso. Classicamente associada à síndrome de Korsakoff.
+
+*Paramnésias* — distorções qualitativas da memória. Incluem o falso reconhecimento (reconhecer como familiar algo que não é), a criptomnésia (usar como original uma memória de algo experienciado que foi esquecido como tal), e as memórias implantadas.
+
+**Avaliação clínica da inteligência**
+
+A avaliação formal da inteligência exige psicometria — testes padronizados com normas populacionais. A avaliação clínica na entrevista é mais limitada mas ainda clinicamente útil.
+
+O que a observação da entrevista permite inferir: o vocabulário usado (amplitude lexical como proxy de nível intelectual), a capacidade de abstração (o que o sujeito faz com conceitos abstratos, como interpreta provérbios), o raciocínio analógico (consegue identificar semelhanças e diferenças), a capacidade de planejamento e antecipação de consequências.
+
+O funcionamento executivo — planejamento, organização, iniciação, monitoramento e inibição de comportamentos — é particularmente relevante clinicamente e é o que mais precocemente se perde nas demências frontais e no comprometimento cognitivo leve.
+
+---
+
+**Bloco 6 — Afeto e humor**
+
+**A distinção fundamental**
+
+A distinção entre *humor* e *afeto* é das mais importantes da psicopatologia clínica — e das mais frequentemente confundidas.
+
+*Humor (mood)* — o estado emocional de base, duradouro, que colore toda a experiência do sujeito como pano de fundo. O humor deprimido que persiste por semanas e que torna tudo cinza. O humor eufórico que faz tudo parecer possível e excitante. O humor é relativamente estável ao longo de períodos — horas, dias, semanas.
+
+*Afeto* — a expressão emocional momentânea, responsiva ao contexto. O afeto que muda quando o tema muda, que responde ao que está sendo discutido, que é congruente ou incongruente com o conteúdo do discurso. O afeto é dinâmico — varia ao longo da sessão.
+
+A distinção tem consequências diagnósticas diretas: a depressão é fundamentalmente uma perturbação do humor — não simplesmente um afeto triste em resposta a uma situação. O sujeito deprimido tem humor rebaixado que persiste independente do contexto, que não se ilumina quando algo alegre acontece, que é o pano de fundo constante da experiência.
+
+**Alterações do humor**
+
+*Euforia* — humor elevado, expansivo, com sensação de bem-estar intenso que excede o que o contexto justifica. Qualidade diferente da alegria normal — frequentemente com uma qualidade de excesso, de algo que transborda.
+
+*Hipomania* — estado de humor elevado menos intenso que a mania, que preserva o funcionamento e o contato com a realidade mas que é claramente diferente do estado basal do sujeito. O sujeito hipomaníaco está mais produtivo, mais sociável, dormindo menos sem sentir cansaço, com autoestima aumentada — mas ainda reconhecível como si mesmo.
+
+*Mania* — estado de humor elevado intenso com comprometimento funcional e frequentemente perda parcial do contato com a realidade. Grandiosidade, diminuição da necessidade de sono sem fadiga, pressão do discurso, fuga de ideias, hipersexualidade, impulsividade, julgamento prejudicado. Pode incluir sintomas psicóticos (delírios de grandiosidade, alucinações).
+
+*Disforia* — humor desagradável que não é simplesmente depressão — tem uma qualidade de irritabilidade, de tensão interna, de mal-estar que pode se expressar como raiva, impaciência, hipersensibilidade a frustrações. Comum no transtorno bipolar (especialmente nos episódios mistos), no borderline, e em certas formas de depressão.
+
+*Depressão* — humor rebaixado, com tristeza persistente que não responde adequadamente ao contexto, associada a anedonia (incapacidade de sentir prazer), lentificação, alterações do sono e do apetite, sentimentos de culpa ou inutilidade, pensamentos sobre a morte.
+
+*Ansiedade* — como estado de humor: tensão persistente, antecipação de ameaça, hipervigilância, preocupação que não cessa. Distinto do medo (que é resposta a ameaça identificada no presente) pela sua qualidade antecipatória e frequentemente difusa.
+
+*Apatia* — redução ou ausência de motivação, iniciativa, e interesse, sem humor deprimido correspondente. A apatia é frequentemente confundida com depressão mas tem substrato neurobiológico e implicações clínicas diferentes. O sujeito apático não está triste — está indiferente, sem impulso, sem interesse, sem iniciativa.
+
+**Alterações do afeto**
+
+*Embotamento afetivo* — redução da responsividade afetiva. O sujeito que responde a situações carregadas emocionalmente com afeto muito menos intenso do que seria esperado. Expressão facial e gesticulação reduzidas, pouca variação no tom de voz.
+
+*Achatamento afetivo* — forma mais grave do embotamento, com ausência quase completa de expressividade emocional. O sujeito que parece sem afeto independente do conteúdo que está sendo discutido.
+
+*Labilidade afetiva* — flutuações rápidas e frequentemente imprevisíveis do afeto, sem correspondência necessária com mudanças no contexto. O sujeito que ri e chora em sequência rápida sem que o conteúdo justifique plenamente a transição.
+
+*Incongruência afeto/conteúdo* — o afeto não corresponde ao que seria esperado dado o conteúdo do discurso. O sujeito que sorri ao descrever uma tragédia, que demonstra raiva ao falar de algo alegre. É um dos sinais clássicos da esquizofrenia — e o que clinicamente mais frequentemente produz a sensação de estranhamento no entrevistador.
+
+*Dissociação afeto/conteúdo* — categoria mais ampla que inclui a incongruência mas também os casos em que o afeto simplesmente está ausente onde deveria estar presente. O sujeito que relata perda devastadora com afeto completamente neutro — não incongruente, mas ausente.
+
+---
+
+**Bloco 7 — Psicomotricidade e comportamento**
+
+**O espectro da atividade motora**
+
+*Agitação psicomotora* — aumento do nível de atividade motora que frequentemente não é direcionada e não é propositada. O sujeito que não para de se mover, que cruza e descruz as pernas, que gesticula excessivamente, que levanta durante a entrevista. Associada à mania, à ansiedade grave, a estados de abstinência, a certos estados de intoxicação, e ao akathisia (efeito colateral de antipsicóticos — agitação de origem farmacológica que precisa ser distinguida de agitação psicopatológica).
+
+*Retardo psicomotor* — diminuição do nível de atividade motora. O sujeito que se move pouco, que responde com latência aumentada, que tem expressão facial reduzida, que parece fisicamente pesado. Associado à depressão grave, a estados de obnubilação, e a efeitos de certas medicações.
+
+*Estupor* — estado de imobilidade quase completa com redução grave da responsividade. Pode ser de origem depressiva (estupor melancólico), catatônica, ou orgânica. Exige avaliação urgente.
+
+**Fenômenos catatônicos**
+
+A catatonia é um síndrome — não um diagnóstico — que pode ocorrer em múltiplos contextos: esquizofrenia, transtorno bipolar, depressão grave, condições médicas gerais, reação a medicações.
+
+*Catalepsia* — manutenção de posições impostas por tempo prolongado, sem que o sujeito resista ou reclame.
+
+*Flexibilidade cérea* — resistência leve e uniforme ao movimento passivo dos membros, como se o membro fosse de cera maleável — pode ser posicionado e permanece na posição.
+
+*Negativismo* — resistência sem motivação aparente às instruções ou às solicitações. Distingue-se da oposição voluntária pela qualidade automática — o sujeito parece resistir reflexivamente.
+
+*Ecopraxia* — imitação automática dos movimentos do entrevistador.
+
+*Mutismo catatônico* — ausência completa de fala em sujeito que não tem afasia e que está aparentemente consciente.
+
+**Movimentos anormais**
+
+*Maneirismos* — variações bizarras e repetitivas de movimentos normais. O sujeito que acena de uma forma específica que é reconhecível mas estranha.
+
+*Estereotipias* — movimentos repetitivos, idênticos, sem propósito aparente. Diferentes dos maneirismos pela ausência de variação e pelo caráter mais mecânico.
+
+*Tiques* — movimentos ou vocalizações breves, abruptos, repetitivos, que o sujeito pode suprimir temporariamente com esforço mas que retornam.
+
+*Discinesias tardias* — movimentos involuntários das regiões perioral, lingual, e dos membros que resultam do uso crônico de antipsicóticos. Clinicamente importante reconhecer para não confundir com sintomas primários.
+
+**Comportamentos de risco e automutilação**
+
+A avaliação dos comportamentos de risco — suicida, autolesivo, heteroagressivo — é componente obrigatório do exame psíquico e exige abordagem direta, sem eufemismos.
+
+A entrevista sobre risco suicida não aumenta o risco — a evidência é clara nesse ponto. Perguntar diretamente sobre pensamentos de morte, de suicídio, e sobre planos específicos é clinicamente necessário e eticamente mandatório.
+
+---
+
+**Bloco 8 — Linguagem e comunicação**
+
+**Os parâmetros da linguagem**
+
+*Quantidade* — o sujeito fala muito (logorréia, pressão do discurso) ou muito pouco (pobreza do discurso, mutismo)?
+
+*Velocidade* — o discurso está acelerado, em ritmo normal, ou lentificado?
+
+*Volume* — muito alto, normal, muito baixo? O volume que varia (o sujeito que sussurra em certos tópicos e fala alto em outros) é dado tanto quanto o volume constante.
+
+*Prosódia* — a melodia da fala. A prosódia achatada — o discurso monotonal sem variação de entonação — é sinal de embotamento afetivo, de certas condições neurológicas (doença de Parkinson), e de efeitos de medicação.
+
+*Pressão do discurso* — o sujeito que fala com urgência, que não para quando o entrevistador tenta interromper, que produz mais fala do que qualquer situação comunicativa demandaria. Sinal clássico de mania e de hipõmania.
+
+**Afasias**
+
+As afasias são perturbações da linguagem de origem neurológica que precisam ser distinguidas das perturbações do pensamento de origem psiquiátrica. A distinção é clinicamente importante e nem sempre fácil.
+
+*Afasia de Broca (expressiva)* — dificuldade de produção da fala com relativa preservação da compreensão. Fala não-fluente, com esforço, frequentemente telegráfica. O sujeito frequentemente está consciente da dificuldade e se frustra com ela.
+
+*Afasia de Wernicke (receptiva)* — fala fluente mas frequentemente sem sentido, com parafasias (substituições de palavras), neologismos, e produção excessiva que pode parecer psicótica. A compreensão está gravemente perturbada. O sujeito frequentemente não está consciente da dificuldade — o que pode ser confundido com falta de insight psiquiátrico.
+
+*Afasia global* — comprometimento grave tanto da produção quanto da compreensão. O sujeito tem muito poucos recursos linguísticos disponíveis.
+
+---
+
+**Bloco 9 — Sono, apetite, sexualidade, e funções vegetativas**
+
+**Sono**
+
+O sono é simultaneamente um dos sintomas mais sensíveis às perturbações psiquiátricas e um dos mais subestimados no exame clínico.
+
+*Insônia inicial* — dificuldade de adormecer. Associada à ansiedade, à hipomania, e a certos estados de intoxicação.
+
+*Insônia de manutenção* — acordar no meio da noite e ter dificuldade de voltar a dormir. Associada à ansiedade, ao álcool (que fragmenta o sono na segunda metade da noite), e a dor.
+
+*Insônia terminal* — acordar muito cedo sem conseguir dormir mais. É o padrão mais classicamente associado à depressão grave — especialmente com o despertar que traz a pior hora do dia, com o humor no nadir matinal.
+
+*Hipersonia* — sono excessivo. Pode ser sinal de depressão (especialmente depressão atípica), de hipotireoidismo, de narcolepsia, de efeitos de medicação.
+
+*Alterações do ritmo circadiano* — a inversão completa do ciclo — dormir durante o dia e estar acordado à noite — pode ser sinal de mania, de uso de substâncias, ou de perturbação circadiana primária.
+
+**Apetite e alimentação**
+
+*Redução do apetite* — classicamente associada à depressão. A anorexia depressiva frequentemente acompanha o estado de ânimo rebaixado e tem melhora paralela ao humor.
+
+*Aumento do apetite (hiperfagia)* — pode ser sinal de depressão atípica, de estados maníacos, de uso de certas medicações, ou de transtornos alimentares.
+
+*Alterações específicas* — o desejo específico por carboidratos ou doces na depressão atípica; a anorexia com distorção da imagem corporal nos transtornos alimentares; a restrição alimentar por razões delirantes (medo de envenenamento).
+
+**Sexualidade**
+
+A sexualidade é o domínio do exame psíquico mais frequentemente evitado — por desconforto do entrevistador, por suposição de que o paciente não vai querer falar, por falta de hábito de incluir sistematicamente.
+
+As principais alterações clinicamente relevantes:
+
+*Diminuição do desejo (hipolibidia)* — sinal frequente de depressão, de hipotireoidismo, de hipogonadismo, e de efeito colateral de múltiplas medicações (especialmente antidepressivos e antipsicóticos).
+
+*Aumento do desejo (hipersexualidade)* — sinal de mania e hipomania, e de certas condições neurológicas. Na mania, frequentemente acompanhada de julgamento prejudicado que leva a comportamentos sexuais de risco.
+
+*Disfunção sexual* — perturbações do desempenho sexual que podem ser primárias (sem causa orgânica identificável, frequentemente com componente psicológico significativo) ou secundárias (a efeito de medicações, condições médicas, ou outros fatores).
+
+**Funções vegetativas**
+
+*Energia* — redução da energia e da vitalidade é sinal clássico de depressão e de múltiplas condições médicas que precisam estar no diagnóstico diferencial.
+
+*Concentração* — dificuldade de concentração e de manter o foco, frequentemente queixada espontaneamente na depressão e no TDAH.
+
+*Funcionamento físico geral* — dores inexplicadas, sintomas somáticos múltiplos, fadiga crônica — que podem ser apresentações somáticas de perturbações do humor ou componentes de síndromes somáticas funcionais.
+
+---
+
+**Bloco 10 — O formulário mental do exame psíquico — a ponte para a psicanálise**
+
+**Como organizar o que foi observado**
+
+O exame psíquico produz um volume de observações que precisam ser organizadas de forma que sejam clinicamente utilizáveis. A forma convencional de registro — usada em prontuários psiquiátricos e em laudos — é um texto que percorre sistematicamente os domínios avaliados:
+
+*Apresentação geral:* [O que foi observado antes de qualquer pergunta]
+
+*Consciência e orientação:* [Nível e qualidade da consciência, orientação nos quatro eixos, atenção]
+
+*Percepção:* [Presença ou ausência de alucinações, ilusões, fenômenos relacionados]
+
+*Pensamento:* [Forma — curso, estrutura; Conteúdo — ideias obsessivas, supervalorizadas, delirantes; Juízo e crítica]
+
+*Memória:* [Imediata, recente, remota; perturbações]
+
+*Afeto e humor:* [Tipo de humor e intensidade; tipo de afeto e congruência]
+
+*Psicomotricidade:* [Nível de atividade, fenômenos específicos]
+
+*Linguagem:* [Parâmetros, perturbações]
+
+*Funções vegetativas:* [Sono, apetite, sexualidade, energia]
+
+**O que o exame psíquico captura — e o que deliberadamente deixa fora**
+
+O exame psíquico é um instrumento de avaliação do estado mental *atual* — um corte transversal num momento específico. Não captura a história do sofrimento, não revela o inconsciente, não acessa a dimensão relacional e transferencial da experiência.
+
+O que *deliberadamente* deixou fora quando a psicanálise se separou da psiquiatria:
+
+A intencionalidade inconsciente do sintoma — o exame psíquico descreve *o que está presente* sem perguntar *por que está presente* no sentido psicodinâmico. A alucinação que o exame descreve como sinal, a psicanálise vai perguntar o que representa, o que está tentando dizer, qual o conflito que expressa.
+
+A história relacional que produziu o estado atual — o exame psíquico é atemporal na medida em que captura o presente sem necessariamente conectá-lo com o passado da forma que a psicanálise considera constitutiva.
+
+A dimensão transferencial — o exame psíquico não usa a relação com o entrevistador como dado da mesma forma que a entrevista analítica o faz. O que o paciente produz no entrevistador é dado colateral, não instrumento primário.
+
+E o sentido — o exame psíquico não pergunta *o que isso significa para esse sujeito específico*, que é precisamente a pergunta que a psicanálise coloca no centro.
+
+**A articulação, não a oposição**
+
+O erro que tanto psiquiatras quanto psicanalistas frequentemente cometem é tratar o exame psíquico e a escuta analítica como alternativas mutuamente exclusivas — como se a competência em um implicasse abandono do outro.
+
+São instrumentos que capturam dimensões diferentes da mesma realidade clínica. O analista que perdeu o vocabulário do exame psíquico vai perder sinais de condições orgânicas que exigem avaliação médica, vai confundir alucinação psicótica com fantasia neurótica, vai interpretar confusão orgânica como resistência.
+
+E o psiquiatra que não tem os instrumentos da escuta analítica vai perder a dimensão de sentido do que descreve, vai tratar síntomas sem acessar o que os organiza, vai perder o sujeito por trás da fenomenologia.
+
+O que os módulos seguintes desenvolvem é precisamente esse segundo conjunto de instrumentos — a escuta que o exame psíquico não oferece, que exige uma forma diferente de presença, de atenção, e de relação. O módulo que acabamos de percorrer é o fundamento. O que vem a seguir é o que a psicanálise acrescenta.
+
+---
+
+**Pausa de consolidação — Módulo 0 completo**
+
+O módulo percorreu os domínios do exame psíquico em detalhe suficiente para um brush-up sistemático:
+
+Consciência e orientação — nível e qualidade da consciência, os quatro eixos de orientação, atenção.
+
+Percepção — ilusões versus alucinações, as modalidades alucinatórias com suas variações clinicamente relevantes, pseudoalucinações, fenômenos relacionados.
+
+Pensamento — forma (curso: aceleração, lentificação, bloqueio, perseveração, tangencialidade, circunstancialidade, descarrilamento) e conteúdo (ideias obsessivas, supervalorizadas, delirantes com tipologia completa, juízo e insight).
+
+Memória — os sistemas de memória e suas perturbações clínicas.
+
+Afeto e humor — a distinção fundamental e as alterações de cada domínio.
+
+Psicomotricidade — o espectro da atividade motora, os fenômenos catatônicos, os movimentos anormais.
+
+Linguagem — os parâmetros do discurso, as afasias como diagnóstico diferencial.
+
+Funções vegetativas — sono com tipologia das insônias, apetite, sexualidade, energia.
+
+E o Bloco 10 que estabeleceu a ponte: o que o exame psíquico captura, o que deliberadamente deixa fora, e por que os dois instrumentos são complementares em vez de alternativos.
+
+Seguimos para o Módulo 1 — O Discurso como Material Clínico?

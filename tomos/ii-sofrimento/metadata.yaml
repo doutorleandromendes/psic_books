@@ -1,0 +1,33 @@
+---
+title:
+  - type: main
+    text: "O Curso — Tomo II"
+  - type: subtitle
+    text: "As Formas do Sofrimento: Psicopatologia lida pelas tradições"
+creator:
+  - role: author
+    text: "Leandro"
+  - role: editor
+    text: "Leandro"
+contributor:
+  - role: other
+    text: "Claude (Anthropic) — interlocutor e redator"
+belongs-to-collection: "Teoria Psicanalítica — O Curso"
+group-position: 2
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:PLACEHOLDER-GERADO-NO-BUILD"
+language: pt-BR
+date: "2026"
+subject:
+  - "Psicanálise"
+  - "Psicopatologia"
+  - "Clínica"
+description: |
+  Onze territórios clínicos — do luto à psicose, da fobia à identidade de gênero —
+  com cada tradição lida em torno da entidade, e não a entidade lida a partir da
+  tradição. As sobreposições e as lacunas entre escolas são o material central.
+  Estudo independente, não clínico. Uso pessoal — contém citação direta de obra
+  sob direito autoral.
+rights: "Uso pessoal. Citações de terceiros permanecem sob seus respectivos direitos."
+...

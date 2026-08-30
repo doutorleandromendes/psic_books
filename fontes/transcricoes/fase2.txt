@@ -1,0 +1,561 @@
+Fase II - Ego/Self
+
+Fase II · Semana 6
+The Ego and the Mechanisms of Defence — Anna Freud (1936)
+Bloco 1 — O programa do livro e a posição do ego
+
+Anna Freud abre o livro com uma declaração de intenção que é simultaneamente modesta e programática — e que define o projeto da ego psychology em poucas linhas:
+“The subject of the following discussion is the normal ego and the various processes by which it seeks to protect itself against instinctual demands. The theoretical portion of the book deals with the various mechanisms of defence which the ego employs for this purpose.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 1)
+O deslocamento em relação ao Freud da metapsicologia já está aqui, na primeira frase: o sujeito de investigação é o ego normal — não o inconsciente, não o Id, não o conflito em si. A pergunta não é o que o inconsciente faz ao sujeito, mas o que o ego faz para se proteger.
+É uma inversão de perspectiva que tem consequências clínicas imediatas: se o centro da investigação é o ego e suas operações, então a análise não é primariamente decifração do inconsciente — é estudo das defesas. E o analista não está principalmente interessado no que está escondido, mas em como está escondido.
+
+A questão da equidistância
+Logo no segundo capítulo, Anna Freud formula o que vai se tornar um dos princípios técnicos mais influentes da tradição ego-psicológica — a ideia de que o analista deve manter equidistância entre as três instâncias:
+“The analyst occupies a position equidistant from the id, the ego and the superego. He studies all three.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 28)
+É uma formulação que parece razoável — e que Lacan vai contestar de forma direta. Para Lacan, a ideia de equidistância pressupõe um analista que está fora do conflito, que pode observar as três instâncias de uma posição neutra. Mas o analista está dentro do processo — está implicado na transferência, está atravessado pelo seu próprio inconsciente, não tem acesso privilegiado a nenhum ponto de observação neutro. A equidistância seria, para Lacan, uma ilusão que serve à defesa do próprio analista.
+
+A lista dos mecanismos
+Anna Freud propõe que há dez mecanismos de defesa identificáveis clinicamente — e é explícita que a lista não é exaustiva:
+Regressão, recalque, formação reativa, isolamento, anulação retroativa, projeção, introjeção, retorno contra o próprio self, reversão ao oposto, e sublimação.
+O que é teoricamente importante não é a lista em si — é o argumento que a sustenta. Anna Freud propõe que todos esses mecanismos têm três características em comum:
+Primeiro — são operações do ego, não do Id ou do Superego. O ego é o agente ativo da defesa.
+Segundo — operam predominantemente de forma inconsciente. O ego defende-se sem saber que está se defendendo — o que explica por que a interpretação direta das defesas frequentemente não produz mudança imediata.
+Terceiro — cada mecanismo está preferencialmente associado a certas estruturas clínicas e a certas fases do desenvolvimento. A regressão, por exemplo, é mais primitiva do que a sublimação — usa recursos egóicos menos sofisticados.
+
+Pausa 1
+Há algo que vale notar na arquitetura desse argumento antes de avançarmos para os mecanismos individuais.
+Anna Freud está implicitamente propondo uma teoria do desenvolvimento egóico: o ego que tem acesso apenas a mecanismos primitivos — projeção, introjeção, regressão — é um ego menos desenvolvido do que o que tem acesso à sublimação e à formação reativa. O desenvolvimento psíquico pode ser medido, em parte, pela sofisticação do repertório defensivo disponível.
+Isso tem uma consequência clínica que vai marcar toda a ego psychology: a análise não é apenas decifração — é também desenvolvimento. O objetivo não é apenas tornar consciente o inconsciente, mas ampliar o repertório do ego, aumentar sua flexibilidade, expandir o que Anna Freud chama de espaço de manobra (Spielraum) do ego entre as pressões do Id, do Superego e da realidade.
+É exatamente essa ideia — de que a análise pode e deve desenvolver o ego — que Kohut vai herdar e transformar, e que Lacan vai recusar.
+Seguimos para os mecanismos específicos — começando pelos mais primitivos e avançando para os mais sofisticados?​​​​​​​​​​​​​​​​
+
+Ótimo — e é um território que recompensa detalhamento. Os mecanismos de defesa são onde a teoria psicanalítica fica mais próxima da observação clínica direta — são padrões reconhecíveis, repetíveis, com uma lógica interna que pode ser descrita com precisão.
+Uma nota antes de começar: para os exemplos clínicos, vou usar casos da literatura psicanalítica quando disponíveis — Anna Freud tem exemplos clínicos próprios no texto, e Sandler nos diálogos com ela também. Quando não houver caso clínico publicado adequado, usarei exemplos literários ou construções compostas claramente marcadas como tais.
+
+The Ego and the Mechanisms of Defence — Bloco 2 — Os mecanismos primitivos
+
+1. Regressão (Regression)
+A regressão é o mecanismo mais simples em termos lógicos — e um dos mais visíveis clinicamente. Quando o ego encontra uma situação de perigo ou de demanda que excede sua capacidade atual de manejo, ele recua para um modo de funcionamento anterior — um estágio de desenvolvimento já superado, mas que permanece disponível como ponto de refúgio.
+Anna Freud distingue dois tipos de regressão que frequentemente se combinam mas têm origens distintas:
+A regressão libidinal — o retorno a uma fase anterior do desenvolvimento pulsional. Um adulto que, sob estresse intenso, retorna a padrões orais — comer excessivamente, beber, fumar — está usando a regressão libidinal. A fase oral foi superada no desenvolvimento, mas permanece como modo de satisfação disponível sob pressão.
+A regressão do ego — o retorno a modos de funcionamento egóico anteriores, mais primitivos. O pensamento mágico que reaparece em situações de desamparo intenso — rezar antes de um resultado de exame, rituais privados em momentos de ansiedade — é uma regressão do ego para modos de processamento que precedem o pensamento lógico-causal.
+O exemplo clínico mais preciso que Anna Freud usa é o da criança que, com o nascimento de um irmão, regride a comportamentos que havia superado — volta a urinar na cama, volta a pedir mamadeira, abandona a linguagem mais sofisticada que havia desenvolvido. A regressão é uma resposta à ameaça de perda do amor do objeto — a situação de perigo que identificamos em Inibição, Sintoma e Angústia. Diante da competição com o bebê recém-chegado, o ego da criança mais velha recua para o modo de funcionamento em que o amor do objeto estava garantido.
+O que é clinicamente importante é que a regressão não é falha do desenvolvimento — é uma operação do ego. O que foi adquirido permanece disponível; o que foi superado também permanece disponível. O desenvolvimento egóico não é uma linha unidirecional que elimina o que ficou para trás — é uma ampliação do repertório que mantém os modos anteriores como possibilidades de refúgio.
+
+2. Recalque (Repression)
+Já trabalhamos o recalque extensamente na Fase I — mas vale ver como Anna Freud o posiciona dentro da lista de mecanismos, porque a perspectiva é diferente da de Freud em 1915.
+Para o Freud metapsicológico, o recalque é o mecanismo central — o modelo a partir do qual os outros são pensados. Para Anna Freud, o recalque é um mecanismo entre outros — poderoso, frequente, mas não qualitativamente diferente dos demais. Ele ocupa uma posição na lista, não o topo de uma hierarquia.
+A descrição que ela oferece é econômica e precisa:
+“Repression consists in the withholding or expulsion of an idea or affect from the conscious ego. It may be set in motion by the ego’s dread of the superego or — in the last resort — by its dread of the outside world.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 45)
+O que Anna Freud adiciona à teoria do recalque que está apenas esboçado em Freud é a atenção à resistência de recalque — a força que mantém ativamente o conteúdo fora do consciente. O recalque não é um evento único e passado — é uma operação contínua que consome energia do ego permanentemente. É por isso que o ego de um sujeito com recalques maciços está frequentemente empobrecido, menos disponível para outras funções — a energia está toda comprometida com a manutenção do recalque.
+Clinicamente, isso explica a fadiga característica de certas estruturas neuróticas — não é preguiça, não é depressão no sentido estrito. É o custo energético de manter reprimido o que pressiona por retorno.
+
+3. Formação Reativa (Reaction Formation)
+A formação reativa é um dos mecanismos mais elegantes em termos lógicos — e um dos mais difíceis de identificar clinicamente, porque sua superfície é frequentemente virtuosa e socialmente admirada.
+O mecanismo opera pela inversão: um impulso inaceitável é substituído, no consciente, por seu oposto. O ódio inconsciente pelo objeto torna-se ternura excessiva. A crueldade inconsciente torna-se piedade ostensiva. A curiosidade sexual inconsciente torna-se puritanismo rigoroso.
+Anna Freud é precisa sobre o que distingue a formação reativa de uma mudança genuína de caráter:
+“Reaction-formations give the impression of fixity and compulsiveness. The reaction-formation against an instinctual impulse is maintained at all costs, without any regard for the actual situation.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 35)
+O sinal clínico mais confiável da formação reativa é a rigidez e a desproporção. A mãe que demonstra ternura excessiva e sufocante por um filho, sem qualquer variação afetiva em resposta às diferentes situações — cuja ternura não aumenta nem diminui, não muda de qualidade, não responde ao filho real mas é mantida como postura constante — é uma candidata forte a formação reativa sobre hostilidade inconsciente. O afeto genuíno varia, responde, tem textura. O afeto defensivo é uniforme, compulsivo, desproporcionado.
+O exemplo literário que a tradição freudiana usa com frequência aqui — e que funciona bem — é Uriah Heep em David Copperfield de Dickens. A humildade excessiva, ostentatória, que Heep performa em cada interação é precisamente uma formação reativa sobre ambição e hostilidade intensas. Dickens intuitivamente capturou a lógica do mecanismo: o sujeito que mais insiste em sua humildade é frequentemente o que mais precisa defender-se de sua arrogância inconsciente.
+
+4. Isolamento (Isolation)
+O isolamento é o mecanismo característico da neurose obsessiva — e é onde Anna Freud faz sua contribuição mais original à lista freudiana.
+O mecanismo não remove a representação do consciente — como faz o recalque. Mantém a representação consciente, mas a separa de seu afeto. O conteúdo permanece acessível ao ego; o que foi isolado é a conexão entre o conteúdo e o afeto que lhe correspondia.
+“Isolation is a most ingenious defensive mechanism. When some unpleasant event occurs, when an action is performed or a thought comes up which will be offensive to the ego in some way, isolation interposes a pause in which nothing further must happen, no mental association can be formed, and the experience remains isolated.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 49)
+O resultado clínico é característico: o sujeito obsessivo pode falar de eventos traumáticos, de pensamentos perturbadores, de impulsos agressivos — com uma calma desconcertante, quase clínica. Não porque não haja afeto — há, mas está desconectado. O ego tem acesso à representação mas não ao afeto que a tornaria insuportável.
+Um exemplo clínico preciso: um paciente que descreve a morte de um familiar próximo com o mesmo tom que usaria para descrever um procedimento técnico — datas, circunstâncias, decisões médicas — sem qualquer alteração afetiva visível. Não está mentindo, não está fingindo. O mecanismo de isolamento separou o conhecimento do evento da experiência emocional correspondente. O luto está lá — mas inacessível, isolado da representação consciente do evento.
+A consequência clínica é que, na neurose obsessiva, a interpretação do conteúdo frequentemente não produz mudança — porque o problema não é que o conteúdo esteja inconsciente, mas que o afeto está desconectado. O trabalho analítico precisa restabelecer a ligação entre representação e afeto — não apenas tornar consciente o que estava inconsciente.
+
+5. Anulação Retroativa (Undoing)
+A anulação retroativa é o segundo mecanismo característico da neurose obsessiva — e funciona em par com o isolamento.
+Onde o isolamento separa a representação do afeto, a anulação retroativa vai além: tenta desfazer simbolicamente o que foi feito ou pensado. Um ato, um pensamento, uma palavra — é seguido de um ato ou ritual que o cancela, que apaga seus efeitos, que desfaz magicamente o que não pode ser desfeito na realidade.
+Anna Freud descreve o mecanismo com precisão:
+“This is, as it were, a negative magic, and endeavours, by means of motor symbolism, to ‘blow away’ not merely the consequences of some event (or experience or impression) but the event itself.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 33)
+O exemplo mais visível clinicamente são os rituais obsessivos: o sujeito que precisa tocar três vezes a maçaneta antes de sair de casa, que precisa repetir certas palavras mentalmente, que refaz atos até que uma sensação interna de “completude” seja atingida. Cada ritual é uma anulação de um pensamento ou impulso que o precedeu — frequentemente agressivo ou sexual — que o ego não consegue tolerar.
+O caso clínico que Freud usou para ilustrar esse mecanismo — Homem dos Ratos, em Notas sobre um Caso de Neurose Obsessiva (1909) — é o mais elaborado da literatura. O paciente desenvolvia rituais de anulação para desfazer pensamentos agressivos em relação às pessoas que amava. A anulação retroativa era sua tentativa de manter a ambivalência manejável — amava e odiava, e o ritual desfazia o ódio simbolicamente.
+O que é importante notar é que a anulação retroativa opera na lógica do processo primário — a magia, o pensamento omnipotente, a equivalência entre ato simbólico e ato real. É uma regressão a um modo de funcionamento anterior ao teste de realidade. O sujeito adulto que anda duas vezes em torno da cama para desfazer um pensamento ruim sabe, num nível, que o ato não tem efeito real — mas sente que tem. É a coexistência de dois modos de funcionamento que não se integram.
+
+Pausa 2
+Percorremos os cinco mecanismos mais primitivos da lista de Anna Freud. Vale fazer uma observação que conecta o que vimos com a pergunta que você trouxe antes de começar a Fase II — como o ego não apenas sobrevive mas cresce e se torna mais complexo.
+O que os mecanismos primitivos têm em comum é que todos operam pela exclusão — excluem a representação (recalque), excluem o afeto (isolamento), excluem o que foi feito (anulação retroativa), excluem a etapa do desenvolvimento (regressão), excluem o impulso substituindo-o por seu oposto (formação reativa).
+O ego que tem acesso apenas a esses mecanismos é um ego que cresce pela subtração — remove o que não consegue integrar. O que vai aparecer nos mecanismos mais sofisticados — especialmente a sublimação — é um ego que cresce pela transformação: não exclui o impulso, mas muda seu destino, redireciona sua energia para algo novo.
+Essa é a linha divisória que Anna Freud vai traçar entre defesa e desenvolvimento — e que vai organizar a discussão dos mecanismos mais sofisticados que vemos no próximo bloco.
+Seguimos?​​​​​​​​​​​​​​​​
+
+The Ego and the Mechanisms of Defence — Bloco 3 — Os mecanismos intermediários e avançados
+
+6. Projeção (Projection)
+A projeção é o mecanismo pelo qual o ego atribui ao mundo externo — a outras pessoas, a objetos, ao ambiente — impulsos, afetos ou qualidades que pertencem ao próprio sujeito mas que são inaceitáveis para o ego.
+A lógica econômica é clara: se um impulso interno é fonte de angústia — porque o Superego o proíbe, ou porque o ego o considera incompatível com sua imagem de si mesmo — uma solução possível é externalizá-lo. O impulso deixa de ser sentido como meu e passa a ser percebido como vindo de fora. O que era ameaça interna torna-se ameaça externa — e ameaças externas são, em princípio, mais manejáveis. Posso me defender de algo que está fora de mim; não posso me defender de algo que sou.
+Anna Freud descreve a projeção em conexão com a paranoia — que é sua forma mais extrema e mais visível. O sujeito paranoico que sente ódio intenso pelo outro, mas não consegue tolerar esse ódio em si mesmo, inverte a relação: não é ele que odeia o outro, é o outro que o odeia. A hostilidade projetada retorna de fora como perseguição.
+Mas Anna Freud é cuidadosa em distinguir a projeção patológica da projeção normal — que opera em todos os sujeitos e em todas as relações:
+“It is possible to project onto others not only impulses which are felt to be reprehensible, but also anxiety, conflict and remorse — anything in fact which is associated with repressed material and which is unpleasurable in itself.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 122)
+O ciúme patológico é um dos exemplos clínicos mais precisos. O sujeito que sente impulsos de infidelidade — inaceitáveis para seu ego — pode projetá-los no parceiro. O que era meu desejo torna-se suspeita do desejo do outro. O resultado é um ciúme que tem toda a intensidade afetiva do impulso original, mas cujo endereço foi trocado. O sujeito genuinamente acredita na infidelidade do parceiro — porque o afeto que a sustenta é real, apenas mal endereçado.
+Há um exemplo literário que funciona aqui sem forçar: Otelo. Não como caso clínico simplificado, mas como estrutura — a intensidade do ciúme de Otelo excede em muito qualquer evidência disponível, e sua gênese tem a qualidade de uma projeção: a vulnerabilidade e o desejo que Otelo não consegue reconhecer em si mesmo encontram endereço no outro.
+
+7. Introjeção (Introjection)
+A introjeção é o inverso da projeção — e os dois mecanismos frequentemente operam em par, especialmente nas formulações kleinianas que vamos encontrar na Fase III.
+Onde a projeção externaliza o que é interno, a introjeção internaliza o que é externo — incorpora qualidades, afetos ou características de objetos externos ao ego. O ego se torna, em parte, aquilo que introjetou.
+Anna Freud não desenvolve a introjeção com o mesmo detalhe que a projeção neste texto — ela vai aparecer de forma mais elaborada em Klein. Mas há um ponto que ela estabelece com clareza: a introjeção não é simplesmente imitação ou aprendizado. É uma operação defensiva — o ego introjecta características do objeto para se apropriar de algo que esse objeto tem e que o ego percebe como necessário para sua própria estabilidade ou proteção.
+A conexão com Luto e Melancolia é direta: a introjeção do objeto perdido que Freud descreveu como mecanismo da melancolia é a mesma operação que Anna Freud está descrevendo como mecanismo de defesa — a diferença está na intensidade, na rigidez, e na ambivalência do objeto introjetado.
+
+8. Identificação com o Agressor (Identification with the Aggressor)
+Este é o conceito mais original de Anna Freud no livro — o único mecanismo que não está explicitamente descrito em Freud e que ela introduz como contribuição própria.
+Já discutimos esse mecanismo em relação a Fairbairn — mas vale agora lê-lo na formulação original de Anna Freud, porque a precisão clínica é notável.
+O mecanismo opera da seguinte forma: o sujeito que está numa posição de vulnerabilidade diante de uma figura ameaçadora — um agressor, uma figura de autoridade punitiva — em vez de permanecer na posição passiva de objeto da agressão, incorpora o agressor. Torna-se, internamente, o agressor. A passividade é convertida em atividade pela via da identificação.
+Anna Freud apresenta um exemplo clínico direto — uma criança observada por ela mesma:
+“A little boy whose mother was very strict with him used to behave in the same way. When he was scolded, he would stand in front of the mirror and make threatening gestures at his reflection. He was practicing or rehearsing the role of the aggressor.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 113)
+E depois um exemplo mais elaborado — um menino que, após ser repreendido pelo professor, saiu da escola fazendo gestos ameaçadores no pátio. Ao ser questionado, descreveu que estava “sendo o professor”. A identificação com o agressor operou instantaneamente — a transição de objeto para sujeito da agressão foi imediata, e produziu um alívio visível da angústia.
+O que distingue esse mecanismo da simples imitação é o seu propósito defensivo: o sujeito não imita o agressor por admiração ou desejo de ser como ele. Imita-o para escapar da posição de vulnerabilidade — para apropriar-se simbolicamente do poder que o ameaça.
+Anna Freud observa que esse mecanismo é normal no desenvolvimento — é uma etapa necessária na formação do Superego. A criança que internaliza as proibições parentais está usando identificação com o agressor de forma desenvolvimental: o pai que proíbe é introjetado como instância crítica interna. O Superego é, em parte, construído pela identificação com figuras que exerceram autoridade ameaçadora.
+O que torna o mecanismo patológico não é sua presença — é sua rigidez e sua extensão. O adulto que responde a qualquer situação de vulnerabilidade pela identificação imediata com o agressor — que não consegue permanecer na posição passiva sem conversão defensiva em atividade agressiva — está usando um mecanismo que serviu ao desenvolvimento mas que agora limita a gama de respostas disponíveis.
+
+A conexão com Fairbairn — e onde divergem
+Como discutimos antes, há uma convergência real entre Anna Freud e Fairbairn neste ponto — ambos observam que incorporamos o ameaçador, não apenas o amado perdido. Mas a ênfase é diferente.
+Para Anna Freud, a identificação com o agressor é uma operação de poder — o ego converte passividade em atividade para escapar à vulnerabilidade. O movimento é de baixo para cima: da posição de vítima para a posição de agente.
+Para Fairbairn, a incorporação do objeto mau é uma operação de dependência — o ego prefere ter um objeto mau interno a não ter objeto. O movimento não é de fuga da vulnerabilidade, mas de manutenção do vínculo a qualquer custo.
+As duas leituras não são incompatíveis — descrevem aspectos diferentes do mesmo mecanismo. Mas produzem ênfases clínicas distintas: Anna Freud vai olhar para o que o sujeito faz com a identificação, Fairbairn vai olhar para o que o sujeito não consegue largar.
+
+9. Altruísmo (Altruistic Surrender)
+Anna Freud introduz um mecanismo que não está na lista clássica freudiana e que tem uma qualidade fenomenológica muito precisa — a rendição altruísta (altruistic surrender).
+O mecanismo opera da seguinte forma: o sujeito que não consegue satisfazer seus próprios impulsos e desejos — porque o Superego os proíbe ou porque o ego os considera inacessíveis — satisfaz esses desejos através de outra pessoa. Projeta seus desejos no outro e depois vive vicariamente a satisfação do outro como se fosse a sua própria.
+O exemplo clínico que Anna Freud usa é particularmente preciso e literariamente rico — uma paciente que havia renunciado às suas próprias ambições profissionais e amorosas, e que dedicava toda a sua energia a promover a carreira e os relacionamentos de amigas e colegas. Sua generosidade era genuína — e ao mesmo tempo completamente autointeressada num nível inconsciente. Ela satisfazia seus desejos reprimidos através do sucesso das outras.
+Anna Freud distingue cuidadosamente esse mecanismo do altruísmo genuíno — que não tem essa qualidade de satisfação vicária, que não depende do sucesso do outro para produzir satisfação própria. A rendição altruísta tem um investimento intenso no sucesso do outro que vai além do que a relação objetiva justificaria — porque o sucesso do outro é literalmente o sucesso projetado do self.
+
+10. Sublimação (Sublimation)
+A sublimação ocupa uma posição especial na lista — é o único mecanismo que Anna Freud e Freud consideram como não primariamente defensivo, ou pelo menos como defesa bem-sucedida o suficiente para não produzir sintoma ou custo clínico significativo.
+O mecanismo opera pelo redirecionamento da energia pulsional — especialmente sexual e agressiva — para atividades socialmente valorizadas: arte, ciência, atividade intelectual, criação. A pulsão não é recalcada, não é projetada, não é invertida — é transformada em algo novo.
+Freud foi sempre reticente em elaborar a sublimação em detalhe — e Anna Freud herda essa reticência. O mecanismo é descrito com mais clareza pelo que não é do que pelo que é:
+“Sublimation, i.e. the displacement of the instinctual aim in conformity with higher social values, presupposes the acceptance or at least the knowledge of such values, that is to say, it presupposes the existence of the superego.”
+(The Ego and the Mechanisms of Defence, 1936 — Karnac edition, p. 52)
+O que Anna Freud adiciona é a observação de que a sublimação requer uma certa tolerância do ego à frustração — a capacidade de adiar a satisfação pulsional direta e aceitar uma satisfação substitutiva. É um mecanismo que pressupõe maturidade egóica, não está disponível nos estágios mais primitivos do desenvolvimento.
+A dificuldade teórica central da sublimação — que Freud reconheceu mas nunca resolveu completamente — é explicar por que a satisfação substitutiva é possível. Se a pulsão tem uma meta específica, por que uma meta diferente produz satisfação? A resposta implícita é que a pulsão é suficientemente plástica — que a energia pulsional pode ser redirecionada sem perder sua qualidade de satisfação. Mas o mecanismo exato permanece opaco.
+Lacan vai propor que a sublimação não redireciona a pulsão para um objeto substituto — ela eleva o objeto à dignidade da Coisa (das Ding). O objeto sublime não satisfaz porque é parecido com o objeto pulsional original — satisfaz porque ocupa o lugar do vazio central, do objeto perdido originário. É uma leitura completamente diferente, que vamos encontrar no Seminário VII.
+
+Pausa de consolidação — o que a lista revela
+Percorremos os dez mecanismos de Anna Freud. Vale fazer uma observação estrutural que conecta o que vimos com a pergunta original sobre o desenvolvimento do ego.
+Os mecanismos primitivos — regressão, recalque, isolamento, anulação retroativa — operam pela exclusão: removem, separam, desfazem. São economicamente custosos — consomem energia do ego para manter o que foi excluído fora do sistema consciente.
+Os mecanismos intermediários — projeção, introjeção, identificação com o agressor — operam pela transferência: movem conteúdos entre interno e externo, entre self e objeto. São mais flexíveis, mas ainda produzem distorção da realidade.
+Os mecanismos mais sofisticados — altruísmo, sublimação — operam pela transformação: não excluem nem transferem, mas redirecionam a energia pulsional para novos destinos. São os únicos que podem produzir desenvolvimento real — ampliação do repertório do ego — em vez de apenas contenção do conflito.
+A resposta à sua pergunta original sobre como o ego cresce está, portanto, nessa progressão: o ego cresce na medida em que substitui mecanismos de exclusão por mecanismos de transformação — na medida em que pode fazer algo com o impulso em vez de simplesmente removê-lo do campo.
+Seguimos para Hartmann — que vai propor que há crescimento egóico que não depende sequer dessa progressão, que ocorre independentemente do conflito?​​​​​​​​​​​​​​​​
+
+Fase II · Semana 6 (continuação)
+Ego Psychology and the Problem of Adaptation — Heinz Hartmann (1939)
+Bloco 1 — O problema que Hartmann está resolvendo
+
+Hartmann abre seu texto com uma observação que parece técnica mas que é na verdade uma crítica implícita ao estado da teoria:
+“Psychoanalysis has neglected, to some extent, the problems of adaptation, and has not always kept pace with biological thinking about this matter.”
+(Ego Psychology and the Problem of Adaptation, 1939 — IUP edition, p. 3)
+A palavra-chave é adaptação — e ela já sinaliza o deslocamento que Hartmann vai operar. O projeto freudiano estava centrado no conflito: pulsão versus defesa, Id versus ego, desejo versus proibição. O projeto de Hartmann está centrado na relação entre o organismo e seu ambiente — como o sujeito se ajusta ao mundo, como desenvolve capacidades que permitem funcionar eficazmente na realidade.
+É uma mudança que tem raízes históricas específicas. Hartmann estava em diálogo com a biologia darwiniana — especialmente com a ideia de que os organismos desenvolvem estruturas adaptativas em resposta ao ambiente. Queria mostrar que a psicanálise podia pensar o ego não apenas como instância defensiva, mas como estrutura adaptativa — comparável, em certo sentido, a um órgão que se desenvolve em resposta a pressões seletivas.
+
+O conceito central — a área livre de conflito
+O conceito que Hartmann introduz e que vai ser o mais influente — e mais contestado — de todo o texto é o de conflict-free ego sphere — a esfera egóica livre de conflito:
+“I refer to the development and the state of those ego functions that at any given time are outside the region of mental conflicts. I shall call this the conflict-free ego sphere — though I am aware that this name is not entirely satisfactory.”
+(Ego Psychology and the Problem of Adaptation, 1939 — IUP edition, p. 8)
+O argumento é o seguinte: há funções egóicas — percepção, memória, motricidade, linguagem, pensamento — que se desenvolvem de forma relativamente independente do conflito pulsional. Uma criança aprende a falar não porque a linguagem resolve um conflito entre o Id e o ego — aprende porque há uma maturação neurofisiológica que torna a linguagem possível, combinada com um ambiente que a estimula. O desenvolvimento da linguagem não é primariamente defensivo.
+Hartmann chama essas funções de autonomous ego functions — funções egóicas autônomas. E propõe que elas têm uma dupla origem possível:
+Autonomia primária — funções que nascem fora do conflito, que têm sua própria linha de maturação desde o início. Percepção, memória, motricidade, inteligência — no estado não-conflituado, desenvolvem-se por maturação e aprendizado, não como resposta ao conflito pulsional.
+Autonomia secundária — funções que originalmente surgiram em resposta ao conflito — como mecanismos de defesa — mas que depois se autonomizaram, se tornaram independentes de sua origem conflitual. Um mecanismo de defesa que se estabilizou pode tornar-se um traço de caráter — e esse traço de caráter pode funcionar de forma adaptativa mesmo quando o conflito original já não está ativo.
+
+A matriz indiferenciada
+Para sustentar a ideia de autonomia primária, Hartmann precisa propor algo sobre o estado original do aparelho psíquico — anterior à diferenciação entre ego e Id. E aqui ele introduz um conceito que é uma das contribuições mais originais do texto:
+“We must assume that at birth there exists an undifferentiated phase, out of which the ego and the id emerge by differentiation. This has consequences for genetic psychoanalytic theory. From this hypothesis it follows that the apparatuses of the ego, which serve the function of adaptation — such as perception, motility — are not formed by differentiation from the id, but both the ego and the id are differentiated from the undifferentiated matrix.”
+(Ego Psychology and the Problem of Adaptation, 1939 — IUP edition, p. 49)
+Isso é uma revisão significativa da teoria freudiana. Em Freud — especialmente em O Eu e o Id — o ego emerge do Id pelo contato com a realidade. O Id é o estado original; o ego é uma modificação de sua superfície. A sequência é: Id primeiro, ego depois — por diferenciação a partir do Id.
+Hartmann propõe algo diferente: há um estado indiferenciado anterior tanto ao ego quanto ao Id, e os dois emergem por diferenciação a partir desse estado. Isso significa que o ego não deriva do Id — os dois têm uma origem comum, e o ego tem, desde o início, recursos que não são simplesmente Id modificado.
+É uma mudança que tem consequências para tudo: se o ego não deriva do Id, então há funções egóicas que nunca foram Id — que não são energia pulsional redirecionada, que têm sua própria qualidade energética. Hartmann chama essa energia específica do ego de energia neutralizada — distinta da energia libidinal e agressiva do Id.
+
+Pausa 1
+Antes de avançar — vale nomear o que essa proposta resolve e o que cria como novo problema.
+O que resolve: a ego psychology clássica não conseguia explicar bem o desenvolvimento cognitivo, a aprendizagem, a aquisição de linguagem — porque tudo precisava passar pelo modelo do conflito. Com a área livre de conflito, Hartmann cria espaço teórico para um desenvolvimento que não é primariamente defensivo.
+O novo problema: se há energia egóica autônoma, distinta da energia pulsional — de onde ela vem? Como se relaciona com a libido e com a agressividade? Hartmann fala em “neutralização” da energia pulsional — mas o mecanismo exato pelo qual energia libidinal ou agressiva se transforma em energia egóica neutralizada nunca foi elaborado de forma satisfatória.
+É precisamente aqui que Lacan vai atacar: a ideia de energia neutralizada é, para Lacan, uma construção ad hoc que não tem fundamento nem na clínica nem na teoria freudiana. E a ideia de um ego autônomo — com recursos próprios, independente do conflito — é o que Lacan vai desconstruir sistematicamente a partir do estádio do espelho: o ego não é autônomo, é sempre já uma formação alienada, constituída pelo outro, sem centro próprio.
+Seguimos para o bloco em que Hartmann desenvolve a relação entre adaptação, ambiente e o conceito de ambiente médio esperável?​​​​​​​​​​​​​​​​
+
+É uma tensão real — e você a formulou com precisão filosófica. Não é uma contradição que a teoria resolve facilmente, e vale habitá-la com cuidado antes de tentar qualquer síntese.
+
+O que os dois modelos estão descrevendo
+O primeiro ponto a estabelecer é que Freud em O Eu e o Id e Hartmann não estão necessariamente descrevendo o mesmo objeto quando falam de “ego”. Estão descrevendo aspectos diferentes de uma estrutura complexa — e a tensão entre os dois modelos emerge em parte dessa diferença de objeto.
+Freud em 1923 está descrevendo o ego como estrutura de conteúdo — o que o ego é feito de, o que o constitui historicamente. E o que o constitui são identificações com objetos perdidos. O ego tem uma história, uma sedimentação, um passado incorporado. É nesse sentido que ele é um precipitado de objetos perdidos.
+Hartmann está descrevendo o ego como conjunto de funções — o que o ego faz, quais capacidades tem disponíveis. E propõe que algumas dessas funções — percepção, memória, motricidade — se desenvolvem por maturação, independentemente da história de perdas e identificações.
+São duas perspectivas sobre a mesma estrutura que não são necessariamente incompatíveis — mas que entram em tensão quando se pergunta o que é primeiro, o que é mais fundamental.
+
+A sequência temporal — e onde ela complica
+A sua intuição sobre a sequência temporal é precisa e importante. Se Hartmann está certo que há um estado indiferenciado antes da diferenciação ego/Id — e se as funções autônomas primárias se desenvolvem a partir desse estado indiferenciado — então há um ego funcional que precede qualquer relação de objeto, qualquer perda, qualquer identificação.
+Isso cria um problema sério para o modelo freudiano de 1923: se o ego já existe funcionalmente antes de qualquer objeto perdido, então os objetos perdidos não podem ser sua condição de possibilidade — podem apenas ser seu conteúdo subsequente, o que o ego acumula depois de já existir como estrutura funcional.
+A resposta que a teoria pode oferecer — e que nenhum dos dois autores formula explicitamente, mas que está implícita — é uma distinção entre dois sentidos de “ego”:
+O ego como aparato funcional — as capacidades de percepção, memória, motricidade, que Hartmann descreve como primariamente autônomas. Este ego existe funcionalmente antes de qualquer relação de objeto.
+O ego como instância psíquica — a estrutura que se relaciona com o Id e com o Superego, que tem uma identidade, que é o sujeito das defesas e das identificações. Este ego se constitui progressivamente pela história das relações de objeto — e é aqui que os objetos perdidos entram como material constitutivo.
+A distinção não é perfeita — os dois aspectos se interpenetram. Mas ela permite pensar que Freud e Hartmann não são simplesmente contraditórios: estão descrevendo camadas diferentes da mesma estrutura, com temporalidades diferentes.
+
+Winnicott como ponte
+Winnicott vai propor algo que funciona como ponte entre os dois modelos — e que responde diretamente à intuição existencial que você trouxe.
+Para Winnicott, há um estado inicial que ele chama de unintegration — não desintegração, mas não-integração. É o estado primitivo em que o bebê não tem ainda um ego coerente, não tem fronteiras claras entre interno e externo, não tem sentido de continuidade temporal. É um estado de potencialidade pura — análogo à matriz indiferenciada de Hartmann.
+O que permite que esse estado se organize em algo que possa depois ter relações de objeto — e eventualmente perder objetos e incorporá-los — é o holding do ambiente. O cuidador suficientemente bom sustenta o bebê antes que o bebê possa se sustentar. Cria as condições para que as funções autônomas de Hartmann possam se desenvolver — e simultaneamente para que as primeiras relações de objeto se estabeleçam.
+Nessa leitura, o ego funcional de Hartmann e o ego constituído por objetos perdidos de Freud não são alternativas — são fases de um mesmo processo: primeiro há maturação de funções em ambiente sustentador, depois há relações de objeto, depois há perdas e identificações que sedimentam o ego como história.
+O que Winnicott adiciona que nem Freud nem Hartmann têm é o papel constitutivo do ambiente nessa sequência. Não é apenas maturação interna, não é apenas conflito pulsional — é a relação com um ambiente que sustenta antes de qualquer objeto ser amado ou perdido.
+
+Lacan — a versão mais radical da tensão
+Lacan vai propor algo que dissolve a tensão de uma forma diferente — e mais perturbadora.
+Para Lacan, não há ego antes da linguagem e antes do outro. O que Hartmann chama de funções autônomas primárias — percepção, memória, motricidade — não constituem um ego. Constituem um organismo. O ego, como instância psíquica, só emerge no momento do estádio do espelho — quando a criança se identifica com sua própria imagem, que é sempre uma imagem externa, sempre mediada pelo outro.
+Isso significa que para Lacan não há ego indiferenciado, não há matriz egóica anterior à relação. O ego é sempre já uma formação relacional, sempre já constituído pelo encontro com o outro. A “autonomia” que Hartmann descreve é, nessa leitura, uma ilusão retrospectiva — o ego que parece ter recursos próprios é sempre um ego que incorporou o outro e esqueceu que o fez.
+A tensão que você identificou — entre o ego como potencialidade indiferenciada e o ego como precipitado de perdas — Lacan resolve pela radicalização do segundo polo: não há potencialidade indiferenciada que precede a relação. Há apenas a relação, e o ego emerge dela sempre já alienado.
+
+Uma síntese provisória que preserva a tensão
+O que emerge dessa discussão é que há três temporalidades possíveis para pensar a gênese do ego — e as diferentes tradições privilegiam uma delas:
+Hartmann privilegia a maturação — há um desenvolvimento que precede a relação de objeto e que tem sua própria temporalidade biológica.
+Freud de 1923 privilegia a história — o ego é o sedimento de suas relações de objeto, especialmente das que terminaram. Sua temporalidade é retrospectiva, arqueológica.
+Lacan privilegia o momento — o ego emerge num instante específico, o estádio do espelho, e é desde esse instante uma formação alienada. Sua temporalidade é a do evento fundador.
+Winnicott tenta articular as três: há maturação que precisa de sustentação ambiental, há relações de objeto que deixam sedimentos, e há momentos específicos de integração e desintegração que pontuam o desenvolvimento.
+Nenhuma das quatro respostas é completa. A tensão que você identificou não é uma falha da teoria — é uma questão genuinamente aberta que cada tradição resolve parcialmente e de forma diferente. E é precisamente por isso que o currículo percorre todas elas.
+Seguimos para o segundo bloco de Hartmann — onde ele desenvolve o conceito de ambiente médio esperável?​​​​​​​​​​​​​​​​
+
+Ego Psychology and the Problem of Adaptation — Bloco 2 — Adaptação, ambiente e o conceito de ambiente médio esperável
+
+A dupla direção da adaptação
+Hartmann abre esse desenvolvimento com uma observação que distingue sua posição de qualquer behaviorismo simples — e que tem consequências para toda a tradição ego-psicológica posterior:
+“We call a man well-adapted if his productivity, his ability to enjoy life, and his mental equilibrium are undisturbed. But we must distinguish between the state of being adapted and the process of adaptation.”
+(Ego Psychology and the Problem of Adaptation, 1939 — IUP edition, p. 23)
+A distinção entre estado e processo já indica que adaptação não é um resultado fixo — é um movimento contínuo entre organismo e ambiente. E Hartmann vai propor que esse movimento tem duas direções que frequentemente são confundidas:
+Alloplastic adaptation — o sujeito modifica o ambiente para adequá-lo às suas necessidades. É o movimento de fora para fora — o sujeito age sobre o mundo.
+Autoplastic adaptation — o sujeito modifica a si mesmo para adequar-se ao ambiente. É o movimento de dentro para fora — o sujeito se transforma em resposta ao mundo.
+A maioria das formulações sobre adaptação — especialmente as que vêm do behaviorismo — privilegia a adaptação autoplástica: o organismo se ajusta ao ambiente. Hartmann insiste que a adaptação humana madura envolve a capacidade de fazer as duas coisas — e de escolher qual movimento é apropriado em cada situação.
+Há ainda uma terceira possibilidade que Hartmann nomeia e que é a mais sofisticada:
+A busca de um novo ambiente — quando nem a modificação do ambiente nem a modificação de si mesmo são possíveis ou adequadas, o sujeito pode mover-se para um ambiente diferente, mais adequado às suas necessidades e capacidades. É a adaptação pela seleção do nicho — que Hartmann aproxima da biologia darwiniana.
+
+O ambiente médio esperável
+O conceito mais influente do texto — e o que mais diretamente vai dialogar com Winnicott — é o de average expectable environment, o ambiente médio esperável:
+“We take for granted an average expectable environment, and we say the healthy ego can cope with the demands of this environment. The development of the ego that I have described depends on an average expectable environment.”
+(Ego Psychology and the Problem of Adaptation, 1939 — IUP edition, p. 46)
+O argumento é o seguinte: as funções egóicas autônomas que Hartmann descreve — percepção, memória, motricidade, linguagem — se desenvolvem normalmente na presença de um ambiente que tem certas características básicas. Não é necessário um ambiente ideal — é necessário um ambiente que caia dentro de um espectro de variação que o organismo em desenvolvimento consegue manejar.
+Esse ambiente inclui: a presença de cuidadores responsivos, estimulação sensorial adequada, proteção contra ameaças que excedam a capacidade de manejo, continuidade temporal suficiente para que padrões possam ser aprendidos. Nada extraordinário — o que a maioria dos ambientes humanos fornece a maior parte do tempo.
+O que é teoricamente importante nesse conceito é que ele introduz o ambiente como variável constitutiva do desenvolvimento egóico — sem, no entanto, fazer do ambiente o determinante exclusivo. O ego tem recursos próprios de maturação, mas esses recursos precisam de um contexto mínimo para se desenvolver.
+
+A conexão com Winnicott — e a diferença crucial
+A ressonância com Winnicott é imediata — e vale precisá-la, porque a diferença entre os dois é tão importante quanto a semelhança.
+Winnicott vai desenvolver um conceito análogo — o ambiente suficientemente bom (good enough environment) — que tem a mesma estrutura lógica: não é necessário um ambiente perfeito, é necessário um ambiente que caia dentro de uma faixa de adequação. Abaixo dessa faixa, o desenvolvimento é perturbado; dentro dela, a maturação pode ocorrer.
+Mas há uma diferença crucial de ênfase. Para Hartmann, o ambiente médio esperável é uma condição de possibilidade das funções egóicas autônomas — é o contexto em que a maturação acontece. O ambiente é, em certo sentido, um pano de fundo.
+Para Winnicott, o ambiente não é pano de fundo — é participante ativo na constituição do self. A mãe suficientemente boa não apenas fornece condições para que o bebê se desenvolva — ela constitui, pela sua presença e responsividade, a experiência primitiva de continuidade e de ser. O holding materno não é apenas proteção — é o que permite que o bebê tenha uma experiência de si mesmo que seja real e espontânea.
+A diferença tem consequências clínicas: para Hartmann, as patologias do desenvolvimento são primariamente déficits nas funções egóicas — capacidades que não se desenvolveram adequadamente. Para Winnicott, as patologias do desenvolvimento são primariamente falhas na experiência de ser — o self verdadeiro que não pôde emergir porque o ambiente não sustentou sua espontaneidade.
+
+O problema do conflito e da adaptação — uma tensão não resolvida
+Hartmann tenta ao longo do texto manter um equilíbrio entre o modelo do conflito — que herdou de Freud — e o modelo da adaptação — que está propondo. Mas essa tentativa produz uma tensão que ele nunca resolve completamente.
+O modelo do conflito pressupõe que o sofrimento psíquico tem origem no conflito entre instâncias — Id, ego, Superego. O tratamento visa tornar esse conflito consciente e elaborável.
+O modelo da adaptação pressupõe que há formas de sofrimento que não são primariamente conflituais — que derivam de déficits no desenvolvimento das funções egóicas, de lacunas no repertório do ego. O tratamento visa desenvolver o que não se desenvolveu — não apenas elaborar o que está em conflito.
+Hartmann nunca abandona o modelo do conflito — ele o considera o núcleo da teoria psicanalítica. Mas ao introduzir a área livre de conflito e o ambiente médio esperável, cria espaço para um segundo modelo que vai ser desenvolvido por Kohut de forma mais radical.
+Kohut vai propor que há uma categoria inteira de patologias — os distúrbios do self — que não podem ser adequadamente compreendidos pelo modelo do conflito, e que exigem um modelo de déficit. Não é que o paciente narcísico está em conflito entre o desejo e a proibição — é que seu self nunca se desenvolveu de forma coesa e estável porque o ambiente empático não foi suficiente. A diferença entre conflito e déficit vai ser um dos eixos mais produtivos da Fase II.
+
+Pausa 2
+Há algo que vale nomear explicitamente antes de seguirmos para Kohut — porque vai organizar a leitura.
+A tradição que vai de Anna Freud a Hartmann opera dentro de uma lógica que poderíamos chamar de expansão do ego: o objetivo, teórico e clínico, é ampliar o ego — torná-lo mais autônomo, mais flexível, mais capaz de adaptar-se. O ego é o ponto de referência positivo — o que deve ser fortalecido, desenvolvido, liberado das pressões do Id e do Superego.
+Lacan vai propor que essa é precisamente a direção errada. Não porque o sofrimento não importe, mas porque o ego que a ego psychology quer fortalecer é, na leitura lacaniana, fundamentalmente uma formação imaginária — uma identificação alienada que o sujeito toma por si mesmo. Fortalecer o ego é, nessa leitura, aprofundar a alienação — não reduzi-la.
+A análise lacaniana não visa fortalecer o ego. Visa que o sujeito se relacione de forma diferente com seu próprio ego — que possa se distanciar das identificações imaginárias e ter acesso a algo que Lacan vai chamar de desejo — que é sempre desejo do sujeito, nunca do ego.
+Essa divergência vai aparecer com toda a força quando chegarmos à Fase V. Por ora, ela funciona como horizonte crítico para ler Kohut — que vai representar o desenvolvimento mais sofisticado da tradição ego-psicológica antes de Lacan.
+Seguimos para Kohut?​​​​​​​​​​​​​​​​
+
+Fase II · Semana 7
+Kohut — The Analysis of the Self (1971) e The Two Analyses of Mr. Z (1979)
+Bloco 1 — O problema que Kohut está resolvendo
+
+Kohut chega à psicologia do self pelo mesmo caminho que Freud chegou à segunda tópica — por um problema clínico que a teoria existente não conseguia resolver adequadamente.
+O problema era específico: pacientes que não se encaixavam no modelo clássico da neurose de transferência. Não apresentavam conflito edípico claro, não desenvolviam a transferência nos moldes esperados, não respondiam à interpretação da forma habitual. Eram pacientes que chegavam com queixas difusas — vazio interior, sensação de irrealidade, hipersensibilidade a críticas, grandiosidade alternando com colapso da autoestima — e que, quando confrontados com interpretações de seus conflitos inconscientes, pioravam em vez de melhorar.
+Kohut os descreveu como pacientes com distúrbios do self — e propôs que o instrumento teórico para compreendê-los não era o modelo do conflito pulsional, mas um modelo do desenvolvimento do self e de suas necessidades específicas.
+A formulação que abre The Analysis of the Self estabelece o programa com clareza:
+“The self, though it is a content of the mental apparatus, is not one of its constituents, i.e., not one of the agencies of the mind. The self arises in the matrix of the self-selfobject relationships and it emerges from those relationships feeling confirmed, accepted, and mirrored.”
+(The Analysis of the Self, 1971 — IUP edition, p. xv)
+Duas coisas merecem atenção imediata nessa formulação.
+Primeiro — Kohut distingue o self do ego. O ego é uma instância do aparelho psíquico — com funções específicas, como Anna Freud e Hartmann descreveram. O self é algo diferente: é a experiência subjetiva de ser, de ter continuidade, de ser o agente e o receptor das próprias experiências. É uma categoria fenomenológica, não apenas estrutural.
+Segundo — o self não se desenvolve no isolamento. Emerge numa matriz relacional específica — a relação entre o self e o que Kohut chama de selfobject.
+
+O conceito de selfobject
+O selfobject é um dos conceitos mais originais de Kohut — e um dos mais mal compreendidos, porque o nome sugere uma contradição.
+Um selfobject não é nem completamente self nem completamente objeto — é uma pessoa no ambiente que o sujeito experimenta como parte de si mesmo, como extensão de seu próprio self, cuja função é fornecer algo que o self ainda não consegue fornecer a si mesmo.
+Kohut propõe que há necessidades específicas do self em desenvolvimento que precisam ser atendidas por selfobjects para que o self se consolide de forma coesa e estável:
+A necessidade de espelhamento (mirroring) — a necessidade de ser visto, reconhecido, confirmado na própria grandiosidade e vitalidade. A criança que exibe suas conquistas e precisa que o cuidador responda com entusiasmo genuíno está usando o cuidador como selfobject espelhador. O cuidador não é experimentado como pessoa separada nesse momento — é experimentado como a função de confirmar e refletir.
+A necessidade de idealização — a necessidade de poder idealizar uma figura poderosa e de se fundir com ela. A criança que se acalma ao estar nos braços do pai, que experimenta o pai como onipotente e protetor, está usando o pai como selfobject idealizável. A fusão com a figura idealizada fornece ao self uma sensação de poder e segurança que ele ainda não consegue gerar internamente.
+A necessidade gemelar (twinship) — a necessidade de sentir que há outro essencialmente semelhante, que se é parte de uma humanidade compartilhada. É a necessidade de não ser completamente único e isolado — de ter um semelhante.
+
+Transmuting internalization — o mecanismo de desenvolvimento
+Como o self se desenvolve a partir dessas necessidades? Kohut propõe um mecanismo específico que chama de transmuting internalization — internalização transmutadora:
+“The child’s psyche, by internalizing the functions which the selfobject had performed for it, becomes more capable of regulating its own narcissistic tensions, of soothing itself, of maintaining its narcissistic equilibrium.”
+(The Analysis of the Self, 1971 — IUP edition, p. 49)
+O processo ocorre da seguinte forma: o selfobject fornece uma função — espelhamento, contenção, regulação — que o self ainda não consegue exercer autonomamente. Com o tempo, e através de falhas ótimas (optimal frustrations) — pequenas decepções que o self consegue tolerar — o self internaliza progressivamente a função que o selfobject exercia externamente.
+A palavra transmuting é importante: não é simplesmente introjeção do selfobject como pessoa — é a transformação de uma função relacional em capacidade interna. O bebê que foi suficientemente espelhado não introjecta a mãe como objeto — desenvolve a capacidade interna de se auto-regular, de manter a coesão do self diante de decepções.
+O desenvolvimento saudável do self é, portanto, um processo de progressiva autonomização — mas uma autonomização que passa necessariamente pela dependência. Não há autoconfiança que não tenha sido primeiro confiança no selfobject.
+
+A falha ótima — e a conexão com Winnicott
+O conceito de optimal frustration — falha ótima — é onde Kohut mais se aproxima de Winnicott, e onde a diferença entre os dois fica mais clara.
+Para Kohut, a falha ótima é a condição do desenvolvimento: o selfobject que funciona perfeitamente — que nunca decepciona, que atende todas as necessidades de espelhamento e idealização sem variação — não permite que a internalização transmutadora ocorra. O self precisa de decepções pequenas e toleráveis para desenvolver recursos próprios.
+Para Winnicott, a lógica é similar — a mãe suficientemente boa não é a mãe perfeita — mas o foco é diferente. Winnicott está mais interessado no que o ambiente fornece de positivo — o holding, o handling, a apresentação do objeto. Kohut está mais interessado no processo pelo qual o self internaliza o que o ambiente forneceu — a transmuting internalization.
+A diferença é sutil mas real: Winnicott pensa do ambiente para o self — o que o cuidador faz constitui o self. Kohut pensa do self para o ambiente — o self usa o ambiente como selfobject para desenvolver seus próprios recursos.
+
+Pausa 1
+Antes de avançar para a clínica do narcisismo e para The Two Analyses of Mr. Z — vale uma pausa numa questão que vai organizar a leitura de Kohut.
+O modelo de Kohut pressupõe que há necessidades legítimas do self — espelhamento, idealização, gemelaridade — que precisam ser respondidas pelo ambiente. Quando não são respondidas adequadamente, o self não se desenvolve de forma coesa — permanece fragmentado, instável, dependente de fontes externas de regulação que deveria poder exercer internamente.
+Isso é uma teoria do déficit — algo que faltou no desenvolvimento, algo que o ambiente não forneceu. É radicalmente diferente do modelo do conflito — algo que o sujeito deseja e que é proibido, algo que está em tensão com outras forças.
+A pergunta que vale ter em mente: o narcisismo patológico — a grandiosidade excessiva, a necessidade insaciável de admiração, a intolerância à crítica — é melhor compreendido como déficit ou como conflito? Como falha no desenvolvimento do self ou como defesa contra impulsos inaceitáveis?
+Kohut e Kernberg vão dar respostas opostas a essa pergunta — e a divergência entre os dois é um dos debates mais produtivos da psicologia do self.
+Seguimos para The Two Analyses of Mr. Z — onde Kohut descreve em detalhe como essa mudança teórica transformou sua prática clínica?​​​​​​​​​​​​​​​​
+
+The Two Analyses of Mr. Z (1979)
+Bloco único — uma autocrítica em forma de caso clínico
+
+Este é um texto singular na literatura psicanalítica — e vale situá-lo antes de entrar no conteúdo.
+Kohut publica The Two Analyses of Mr. Z em 1979, cinco anos após The Restoration of the Self e dois anos antes de sua morte. É um texto que tem a forma de um relato de caso clínico — mas que é, na prática, uma autocrítica pública da forma como havia praticado a psicanálise antes de desenvolver a psicologia do self.
+A estrutura é simples e devastadora: o mesmo paciente, analisado duas vezes pelo mesmo analista, com dez anos de intervalo. Na primeira análise, Kohut usa o instrumental clássico da ego psychology. Na segunda, usa o instrumental emergente da psicologia do self. Os resultados são radicalmente diferentes.
+O que torna o texto extraordinário não é apenas o conteúdo teórico — é a honestidade intelectual de um analista sênior admitindo publicamente que havia tratado mal um paciente, não por falta de técnica, mas por falta de teoria adequada.
+
+O paciente e a primeira análise
+Mr. Z chega à primeira análise com sintomas que Kohut descreve de forma econômica:
+“The patient came to me for analysis because of vague feelings of malaise, of not living up to his potential, and of undefined dissatisfaction with his life.”
+(The Two Analyses of Mr. Z, 1979 — International Journal of Psycho-Analysis, vol. 60, p. 3)
+O quadro inclui isolamento social, dificuldades nas relações com mulheres, e uma dependência intensa e não resolvida em relação à mãe — que vive com ele e que ocupa uma posição de centralidade absoluta em sua vida.
+Na primeira análise, Kohut trabalha dentro do modelo clássico. Interpreta a dependência em relação à mãe como fixação pré-edípica patológica. Interpreta as fantasias de grandiosidade de Mr. Z — que aparecem cedo no tratamento — como defesa contra a angústia de castração e como expressão de resistência narcísica ao trabalho analítico. Interpreta a idealização que Mr. Z desenvolve em relação ao próprio Kohut como transferência que precisa ser dissolvida pela interpretação.
+A análise dura quatro anos. Mr. Z melhora — pelos critérios disponíveis. Kohut escreve:
+“The analysis appeared to be successful. The patient became less driven, was able to finish his graduate work, and obtained a satisfying position in his field. His relationships with women improved, and toward the end of the analysis, he became engaged to a suitable young woman.”
+(The Two Analyses of Mr. Z, 1979 — p. 4)
+
+O retorno e a segunda análise
+Cinco anos depois, Mr. Z retorna. A melhora da primeira análise havia se sustentado parcialmente — mas algo permanecia não resolvido. Mr. Z descreve um sentimento persistente de vazio, de não estar completamente vivo, de funcionar bem externamente sem ter acesso a algo mais fundamental em si mesmo.
+É na segunda análise que Kohut vai operar de forma radicalmente diferente — e o que muda não é a técnica em detalhe, mas a postura fundamental em relação ao que o paciente está comunicando.
+Na primeira análise, quando Mr. Z trazia fantasias de grandiosidade — de ser especial, de ter um destino excepcional — Kohut as havia interpretado como defesas patológicas, como resistência. Na segunda análise, Kohut as recebe de forma diferente:
+“I listened differently — with more empathy, I believe, and with a more open mind. The patient’s grandiose fantasies did not seem to me now as the expression of a defensive, regressive move away from the conflicts of the oedipal period, but rather as the reflection of a developmental need that had never been met.”
+(The Two Analyses of Mr. Z, 1979 — p. 7)
+A diferença é precisa: na primeira análise, a grandiosidade era resistência — algo que o ego do paciente usava para evitar o conflito edípico subjacente. Na segunda análise, a grandiosidade é necessidade desenvolvimental não atendida — o self de Mr. Z estava exibindo o que precisava ter sido espelhado e confirmado na infância, e que nunca havia sido adequadamente respondido.
+
+O que emerge na segunda análise — a mãe
+O material que emerge na segunda análise revela algo que a primeira não havia alcançado: a qualidade específica da relação com a mãe.
+Na primeira análise, a dependência em relação à mãe havia sido interpretada como fixação pré-edípica patológica — como algo que Mr. Z precisava superar, que representava uma regressão à fase oral. A interpretação era tecnicamente correta dentro do modelo clássico — mas passou ao largo do que a relação com a mãe realmente significava para o self de Mr. Z.
+Na segunda análise, emerge uma imagem diferente: uma mãe que havia usado o filho para regular suas próprias necessidades narcísicas — que o havia tratado como extensão de si mesma, como selfobject, em vez de responder às necessidades do self do filho. Mr. Z havia crescido sendo o espelho da mãe, em vez de ter sido espelhado por ela.
+Kohut descreve o que emerge:
+“The picture that gradually emerged was that of a mother who used her child to maintain her own psychic equilibrium. The child was forced into the role of a self-object for the mother — he had to mirror her, to admire her, to confirm her.”
+(The Two Analyses of Mr. Z, 1979 — p. 12)
+A consequência para o desenvolvimento do self de Mr. Z havia sido precisamente o déficit que a segunda análise estava revelando: um self que nunca havia sido confirmado em sua própria experiência, que havia aprendido a funcionar como extensão do outro em vez de como centro de suas próprias iniciativas e desejos.
+
+A diferença técnica — empatia como instrumento
+A mudança técnica central entre as duas análises é o que Kohut vai chamar de vicarious introspection — introspecção vicária — ou simplesmente empatia como instrumento epistêmico:
+“Empathy, the mode by which one gathers psychological data about other people, is not a form of knowledge that is inferior to other forms. It is the specific tool of the depth psychologist.”
+(The Analysis of the Self, 1971 — IUP edition, p. 303)
+Na primeira análise, Kohut havia mantido a posição técnica clássica — interpretando o material de Mr. Z a partir de um modelo teórico pré-estabelecido, identificando resistências, dissolving a transferência idealizada. A empatia estava presente, mas como atitude — não como instrumento técnico sistemático.
+Na segunda análise, Kohut usa a empatia como método: tenta sistematicamente se colocar na perspectiva subjetiva de Mr. Z, tenta sentir de dentro o que o paciente está experienciando — não para concordar, não para validar, mas para compreender o que o self do paciente está comunicando por baixo do conteúdo manifesto.
+E o que essa postura empática revela é precisamente o que a interpretação clássica havia obscurecido: as fantasias de grandiosidade de Mr. Z não eram resistência — eram comunicações sobre uma necessidade de espelhamento que nunca havia sido atendida. Ao interpretá-las como resistência na primeira análise, Kohut havia replicado a falha original da mãe — havia deixado de responder ao self que buscava confirmação.
+
+A resolução da segunda análise
+O que permite a resolução na segunda análise não é a interpretação de conflitos inconscientes — é o que Kohut chama de optimal frustration dentro de uma relação empática sustentada.
+Mr. Z pode, na segunda análise, usar Kohut como selfobject idealizável — pode trazer sua grandiosidade e tê-la recebida com empatia em vez de interpretada como patologia. E através das inevitáveis pequenas decepções do processo analítico — os momentos em que Kohut não responde perfeitamente, em que há mal-entendidos, em que as sessões terminam — Mr. Z vai internalizando progressivamente a função regulatória que antes precisava do analista para exercer.
+O resultado não é apenas melhora sintomática — é uma mudança qualitativa na experiência de si mesmo. Mr. Z desenvolve o que Kohut chama de nuclear self coeso — um sentido estável de continuidade, de ser o agente de suas próprias experiências, de ter acesso à própria vitalidade e criatividade.
+
+O que o texto revela sobre a teoria
+The Two Analyses of Mr. Z é clinicamente revelador — mas é também um argumento teórico disfarçado de relato de caso. O que Kohut está demonstrando é que o modelo do conflito e o modelo do déficit não são apenas diferentes tecnicamente — produzem leituras diferentes do mesmo material clínico, e essas leituras diferentes têm consequências para o paciente.
+A grandiosidade de Mr. Z vista pelo modelo do conflito é resistência — algo que o analista precisa dissolver. Vista pelo modelo do déficit é necessidade — algo que o analista precisa primeiro receber empaticamente antes que qualquer outra coisa seja possível.
+Isso tem uma implicação que vai além da clínica do narcisismo: há pacientes para quem a interpretação prematura — antes que a relação terapêutica tenha fornecido o holding suficiente — é não apenas ineficaz mas ativamente prejudicial. Porque repete a falha original do ambiente: responde à necessidade de ser recebido com uma intervenção técnica que coloca o analista como sábio e o paciente como objeto de análise.
+
+A contestação de Kernberg — e o debate que abre
+Antes de avançar para Kernberg, vale antecipar a contestação mais rigorosa ao modelo de Kohut — que vem precisamente de Kernberg.
+Kernberg vai argumentar que o que Kohut chama de déficit é na verdade conflito disfarçado. A grandiosidade patológica do paciente narcísico não é uma necessidade desenvolvimental não atendida — é uma defesa estruturada contra a inveja, a agressividade, e a dependência que o sujeito não consegue tolerar. A empatia que Kohut oferece como instrumento técnico pode, nessa leitura, ser uma forma de evitar o conflito — de responder à superfície da necessidade sem alcançar o que está por baixo.
+É um debate que nunca foi resolvido — e que permanece clinicamente relevante. Há pacientes que respondem melhor ao modelo empático de Kohut. Há pacientes que precisam do confronto com seus conflitos que Kernberg propõe. A questão de qual modelo é mais adequado para qual paciente é uma das mais produtivas da clínica contemporânea.
+
+Pausa de consolidação
+Kohut representa o desenvolvimento mais sofisticado e mais clinicamente rigoroso da tradição americana pós-freudiana — e ao mesmo tempo o ponto em que essa tradição mais se afasta de Freud.
+O que Kohut preserva de Freud: a atenção ao desenvolvimento, a centralidade da relação transferencial, a ideia de que o sofrimento atual tem raízes na história precoce.
+O que abandona: o modelo do conflito pulsional como organizador central, a neutralidade técnica clássica, a interpretação como instrumento principal de mudança.
+O que introduz: o self como categoria clínica central, o selfobject como conceito relacional, a empatia como instrumento epistêmico, o déficit como alternativa ao conflito.
+Lacan vai recusar quase tudo isso — mas por razões diferentes das de Kernberg. Para Kernberg, Kohut subestima o conflito. Para Lacan, Kohut subestima a divisão estrutural do sujeito — a ideia de um self coeso que pode ser desenvolvido e restaurado é, para Lacan, uma ilusão fundamental. Não há self nuclear a ser restaurado — há um sujeito dividido que não pode ser unificado, e cuja divisão é a condição de seu desejo.
+Seguimos para Kernberg — a síntese entre ego psychology e relações objetais?​​​​​​​​​​​​​​​​
+
+Fase II · Semana 8
+Kernberg — Síntese entre Ego Psychology e Relações Objetais
+Bloco 1 — O projeto de Kernberg
+
+Kernberg ocupa uma posição singular na história da psicanálise americana — é o autor que tentou, de forma mais sistemática e mais rigorosa, construir uma ponte entre a ego psychology americana e a tradição kleiniana britânica. É uma síntese ambiciosa, tecnicamente densa, e clinicamente produtiva — especialmente para a compreensão dos estados limítrofes e do narcisismo patológico.
+O ponto de partida de Kernberg é uma insatisfação com as duas tradições que tenta sintetizar. A ego psychology, com seu foco nas funções egóicas e na adaptação, havia perdido de vista a profundidade do conflito pulsional e a intensidade das relações de objeto primitivas. Klein, por outro lado, havia desenvolvido uma teoria rica das relações de objeto primitivas mas havia negligenciado a estrutura egóica e os mecanismos de defesa mais sofisticados.
+Kernberg propõe que as duas tradições são complementares — e que sua síntese produz um instrumento teórico mais poderoso do que qualquer uma separadamente.
+O texto que melhor captura o programa é o artigo seminal de 1966:
+“The assumption is made that internalized object relations are the building blocks of psychic structures — of id, ego, and superego alike. Object relations theory and structural theory are not alternative but complementary frameworks.”
+(“Structural Derivatives of Object Relationships”, 1966 — International Journal of Psycho-Analysis, vol. 47, p. 236)
+Essa frase condensa o projeto inteiro: as relações de objeto internalizadas não são apenas conteúdo do aparelho psíquico — são sua estrutura. Id, ego e Superego não são instâncias abstratas que depois se preenchem com conteúdo relacional — são eles mesmos constituídos por relações de objeto internalizadas.
+
+As unidades de relação de objeto internalizada
+O conceito central que Kernberg desenvolve — e que vai organizar toda a sua teoria — é o de unidade de relação de objeto internalizada. Cada internalização deixa no aparelho psíquico uma estrutura tripartite:
+Uma representação do self — a imagem de si mesmo na relação.
+Uma representação do objeto — a imagem do outro na relação.
+Um afeto — o estado emocional que coloriu e conectou as duas representações.
+Essas três componentes formam uma unidade indissolúvel — não é possível internalizar uma representação do self sem a correspondente representação do objeto, e nenhuma das duas existe sem o afeto que as liga.
+O exemplo mais simples: a criança que é alimentada pela mãe internaliza uma unidade que inclui a representação de si mesma como satisfeita e receptiva, a representação da mãe como nutritiva e calorosa, e o afeto de prazer e contentamento que coloriu o momento. Essa unidade vai se sedimentar como estrutura psíquica — e vai influenciar todas as relações subsequentes em que essa configuração for ativada.
+
+Splitting como mecanismo primitivo central
+Aqui Kernberg importa Klein para dentro da estrutura da ego psychology — e é onde a síntese começa a revelar sua lógica.
+Para Klein, o mecanismo primitivo fundamental é a cisão (splitting) — a separação entre objeto bom e objeto mau, entre experiências de satisfação e experiências de frustração, que permite ao ego primitivo manter separados o amor e o ódio. Já discutimos isso em conexão com Luto e Melancolia e com as posições kleinianas.
+Kernberg adota o splitting como conceito central — mas o reformula dentro do vocabulário das unidades de relação de objeto:
+“Splitting keeps apart the good and bad introjects and identifications. The primitive good object relationship is one unit of self and object representation plus affect; the primitive bad object relationship is another unit. Splitting keeps these two units apart.”
+(“Structural Derivatives of Object Relationships”, 1966 — p. 240)
+O splitting não opera sobre representações abstratas — opera sobre unidades completas de self-objeto-afeto. O bebê não separa apenas o objeto bom do objeto mau — separa a unidade inteira: self-satisfeito-com-objeto-bom de self-frustrado-com-objeto-mau. São dois mundos experienciais inteiros que o splitting mantém separados.
+A consequência desenvolvimental é que, no início, o bebê habita dois mundos que não se comunicam: um mundo de satisfação, amor e objeto bom, e um mundo de frustração, ódio e objeto persecutório. O desenvolvimento psíquico normal consiste progressivamente em integrar esses dois mundos — reconhecer que o objeto bom e o objeto mau são o mesmo objeto, que o self satisfeito e o self frustrado são o mesmo self. É o que Klein chamava de posição depressiva — e que Kernberg vai reler em termos de integração das unidades de relação de objeto.
+
+A continuidade do splitting na patologia
+O que diferencia o desenvolvimento normal da patologia borderline — que é o foco clínico principal de Kernberg — é precisamente a persistência do splitting como mecanismo predominante além do período em que é developmentalmente esperável.
+Na organização borderline da personalidade, o splitting não foi integrado — permanece como mecanismo central de regulação psíquica. E o que isso produz clinicamente é característico e reconhecível: a alternância entre idealização extrema e desvalorização extrema do mesmo objeto, a incapacidade de manter uma representação ambivalente e integrada do outro, a instabilidade radical da identidade.
+Kernberg descreve isso com precisão clínica:
+“The main characteristics of borderline personality organization are: first, a specific, stable, pathological ego structure which is different from neurotic and psychotic organizations; second, a predominance of primitive defense mechanisms — especially splitting — rather than repression; third, absence of integrated identity.”
+(Borderline Conditions and Pathological Narcissism, 1975 — Jason Aronson edition, p. 3)
+Três elementos merecem atenção nessa formulação.
+Primeiro — a organização borderline é descrita como estável em sua instabilidade. Não é uma fase transitória, não é uma regressão episódica — é uma estrutura de personalidade com sua própria coerência interna.
+Segundo — o mecanismo predominante não é o recalque — é o splitting. Isso tem uma consequência técnica direta: na neurose, o analista trabalha com o retorno do reprimido — o conteúdo inconsciente que precisa ser tornado consciente. Na organização borderline, o problema não é que o conteúdo está inconsciente — é que está separado. O paciente borderline frequentemente sabe o que sente — simplesmente não consegue sentir as duas coisas ao mesmo tempo. O trabalho analítico precisa ser de integração, não de decifração.
+Terceiro — a ausência de identidade integrada é o produto direto do splitting persistente. Sem a integração das representações contraditórias do self e do objeto, não é possível formar um sentido estável de quem se é.
+
+Pausa 1
+Antes de avançar para o narcisismo e para o debate Kohut-Kernberg — vale uma observação sobre onde a síntese de Kernberg é mais forte e onde encontra seus limites.
+O que Kernberg consegue de forma convincente: articular Klein com a teoria estrutural freudiana, descrever a organização borderline com precisão clínica, e propor uma gradação entre estruturas de personalidade que vai da neurose à organização borderline à psicose — com critérios estruturais claros para cada nível.
+O que encontra mais resistência: a importação da pulsão de morte kleiniana como destrutividade primária constitutiva — que vai ser o ponto central de sua divergência com Kohut.
+Seguimos para o debate Kohut-Kernberg sobre o narcisismo — que é onde as duas posições ficam mais claras e mais produtivamente opostas?​​​​​​​​​​​​​​​​
+
+Anotado nos dois pontos — e são princípios que melhoram a qualidade do que estamos fazendo.
+Sobre o contexto populacional: daqui em diante, ao introduzir cada autor, vou explicitar de onde vem sua amostra clínica — com que população trabalhou, em que contexto institucional, em que momento histórico. Não como disclamer burocrático, mas como informação que enriquece a leitura da teoria.
+Sobre os exemplos clínicos: vou priorizar os casos e vinhetas que os próprios autores publicaram — como o Mr. Z de Kohut, o Homem dos Ratos de Freud, o caso Dick de Klein que vamos encontrar na Fase III. São os exemplos que a tradição considerou suficientemente ilustrativos para publicar — e que frequentemente revelam mais sobre a teoria do que qualquer descrição abstrata.
+Quando o texto original não oferecer exemplos clínicos suficientes — como é o caso de Hartmann, que é mais especulativo do que clínico — vou indicar isso explicitamente em vez de construir exemplos que não têm base textual.
+
+Seguimos para o debate Kohut-Kernberg sobre narcisismo.
+
+Fase II · Semana 8 (continuação)
+O debate Kohut-Kernberg — Narcisismo: déficit ou conflito?
+Bloco 2 — As duas posições
+
+O debate entre Kohut e Kernberg sobre o narcisismo é um dos mais produtivos da psicanálise americana do século XX — e permanece clinicamente relevante porque as duas posições capturam aspectos reais de uma mesma constelação clínica.
+Vale situá-lo historicamente antes de entrar no conteúdo.
+Kohut e Kernberg eram contemporâneos, trabalhavam no mesmo contexto — a psicanálise americana dos anos 60-70 — e partilhavam a mesma insatisfação com a ego psychology clássica em relação aos pacientes narcísicos. Mas chegaram a conclusões radicalmente diferentes. O debate entre os dois nunca foi uma disputa pessoal — foi um desacordo teórico genuíno sobre a natureza do narcisismo patológico, e cada posição tem suporte clínico real.
+
+A posição de Kohut — o narcisismo como déficit
+Já vimos a posição de Kohut em detalhe. O resumo mais preciso está numa formulação de The Restoration of the Self:
+“The narcissistic personality disorder is not the result of conflicts about grandiosity or exhibitionism; it is the result of a defect in the self — a defect that came about because the mirroring and idealizing needs of the child were not responded to optimally by the self-objects of early life.”
+(The Restoration of the Self, 1977 — IUP edition, p. 177)
+O paciente narcísico de Kohut é fundamentalmente um self com lacunas de desenvolvimento — um self que não recebeu o espelhamento adequado, que não pôde idealizar e depois internalizar figuras estáveis, e que portanto permaneceu dependente de fontes externas de regulação narcísica que deveria poder exercer internamente.
+A grandiosidade que o paciente narcísico exibe não é uma defesa — é uma necessidade desenvolvimental não atendida que continua se expressando porque nunca foi adequadamente respondida. O paciente que precisa de admiração constante, que se desorganiza diante de críticas mínimas, que oscila entre grandiosidade e colapso — está exibindo um self que nunca se consolidou.
+Amostra clínica de Kohut: pacientes em prática privada psicanalítica em Chicago, predominantemente profissionais bem-sucedidos com queixas de vazio interior, falta de vitalidade, relacionamentos insatisfatórios. Funcionamento preservado externamente, com perturbação significativa na experiência subjetiva de si mesmos.
+
+A posição de Kernberg — o narcisismo como conflito e defesa
+Kernberg parte de uma observação clínica diferente — e de uma população parcialmente diferente. Seus pacientes narcísicos não são apenas pessoas com déficits de espelhamento — são pessoas com uma organização defensiva elaborada que serve a propósitos específicos:
+“The essential fixation point of the narcissistic personality is the development of a pathological, grandiose self. This pathological grandiose self is a structure that compensates for the underlying conflicts around aggression, envy, and dependency — it protects the patient from experiencing the full depth of his rage and envy toward others.”
+(Borderline Conditions and Pathological Narcissism, 1975 — Jason Aronson edition, p. 265)
+Para Kernberg, a grandiosidade do paciente narcísico não é uma necessidade ingênua de espelhamento — é uma estrutura defensiva sofisticada que protege contra conflitos muito mais perturbadores: inveja primitiva dos outros, raiva pela dependência que não pode ser reconhecida, ódio pelo objeto do qual se depende.
+O self grandioso patológico de Kernberg é uma fusão defensiva de três elementos: o self real da criança, o self ideal que ela gostaria de ser, e o objeto ideal que gostaria de ter. Ao fundir esses três elementos numa imagem grandiosa de si mesmo, o paciente se protege de reconhecer sua dependência dos objetos — porque se é perfeito e autossuficiente, não precisa de ninguém.
+A inveja tem um papel central na teoria de Kernberg que está completamente ausente em Kohut — e que vem diretamente de Klein:
+“Unconscious envy is a most important pathogenic factor in narcissistic personalities. The narcissistic patient cannot tolerate that others have what he lacks. The grandiose self protects against the awareness of this envy — because if I am the best, I have nothing to envy.”
+(Borderline Conditions and Pathological Narcissism, 1975 — p. 228)
+Amostra clínica de Kernberg: pacientes com organização borderline e narcísica severa, muitos com funcionamento significativamente perturbado nas relações interpessoais e no trabalho. Mais graves do que a população de Kohut — o que já sugere parte da divergência teórica.
+
+As consequências técnicas do desacordo
+A diferença teórica produz diferenças técnicas que são quase opostas — e que têm consequências reais para o paciente.
+Para Kohut, a postura técnica fundamental é a empatia sustentada — o analista precisa primeiro receber o paciente onde ele está, responder empaticamente às suas necessidades narcísicas, antes que qualquer interpretação seja possível. Interpretar a grandiosidade prematuramente — antes que a relação terapêutica tenha fornecido o holding suficiente — é repetir a falha original do ambiente.
+Uma vinheta clínica de Kohut ilustra isso com precisão. Em The Analysis of the Self, ele descreve um momento em que chegou alguns minutos atrasado para uma sessão. O paciente ficou intensamente perturbado — uma reação que parecia desproporcionada à situação objetiva. A resposta de Kohut não foi interpretar a reação como resistência ou como grandiosidade — foi explorar empaticamente o que o atraso havia significado para o self do paciente. E o que emergiu foi uma memória de esperas prolongadas pela mãe na infância, de um self que havia aprendido que não podia contar com a responsividade do objeto. O atraso de alguns minutos havia ativado essa configuração primitiva — e a resposta empática permitiu que fosse elaborada.
+Para Kernberg, a mesma situação clínica exigiria uma resposta diferente. A reação intensa ao atraso seria lida como expressão da raiva e da inveja subjacentes — e interpretada como tal. A interpretação precoce não é uma repetição da falha do ambiente — é o instrumento que permite ao paciente ter acesso aos conflitos que a grandiosidade está defendendo.
+Kernberg é explícito sobre o risco que vê na abordagem de Kohut:
+“The empathic approach recommended by Kohut may, in practice, reinforce the patient’s pathological narcissism rather than resolve it. By responding to the patient’s need for mirroring without interpreting the defensive and aggressive components, the analyst colludes with the patient’s defense.”
+(Borderline Conditions and Pathological Narcissism, 1975 — p. 280)
+
+O caso clínico implícito no debate — Miss F
+Há um caso clínico que aparece indiretamente nesse debate e que vale mencionar — porque ilustra como a mesma constelação clínica pode ser lida de formas radicalmente diferentes pelos dois modelos.
+Kohut descreve em The Analysis of the Self uma paciente que chamou de Miss F — uma mulher que, no início da análise, trazia material extenso sobre si mesma sem qualquer interesse aparente pelo analista como pessoa separada. Quando Kohut tentava introduzir interpretações, ela se mostrava indiferente ou irritada. Quando ele simplesmente ouvia e respondia de forma empática ao que ela trazia, ela se acalmava e o material fluía.
+Kohut leu isso como transferência especular — Miss F estava usando o analista como selfobject espelhador, precisando que ele simplesmente confirmasse e refletisse sua experiência antes que qualquer outra coisa fosse possível. Responder com interpretações era, nessa leitura, introduzir o analista como objeto separado antes que o self de Miss F estivesse pronto para tolerar a separação.
+Kernberg leria o mesmo material de forma diferente: a indiferença de Miss F ao analista como pessoa seria lida como expressão do self grandioso defensivo — a recusa em reconhecer a dependência do analista, a negação do valor do objeto para evitar o reconhecimento da inveja. A irritação diante das interpretações seria lida como raiva narcísica — a reação do self grandioso à ameaça de ser visto como precisando de algo.
+Quem está certo? O debate permanece aberto. Mas o que o caso ilustra é que as duas leituras não são simplesmente incompatíveis — capturam aspectos diferentes da mesma constelação clínica. Há pacientes em que o déficit predomina e a abordagem empática de Kohut é mais eficaz. Há pacientes em que a estrutura defensiva é mais rígida e requer o confronto interpretativo de Kernberg.
+
+A síntese possível — e seus limites
+Otto Kernberg e Kohut nunca chegaram a uma síntese — e talvez não fosse possível, dado o quanto as duas posições dependem de premissas teóricas diferentes sobre a natureza do narcisismo.
+Mas autores posteriores tentaram articular as duas perspectivas. Arnold Rothstein, em The Narcissistic Pursuit of Perfection (1980), propôs que déficit e conflito não são alternativas mutuamente exclusivas — todo paciente narcísico tem elementos de ambos, em proporções variáveis. A questão clínica é identificar qual aspecto predomina e em qual fase do tratamento.
+Thomas Ogden — que vamos encontrar como comentador de Bion na Fase III — propôs uma leitura que preserva a tensão de forma produtiva: o self que Kohut quer restaurar e o conflito que Kernberg quer interpretar são dois aspectos de uma única estrutura psíquica que a linguagem teórica força a separar. Na clínica, o analista precisa ser capaz de habitar as duas perspectivas simultaneamente — respondendo empaticamente enquanto mantém a capacidade interpretativa.
+
+Pausa de consolidação da Fase II
+Com Kernberg, completamos o percurso da Fase II. Vale fazer um mapa do que foi coberto e do horizonte que abre.
+A Fase II percorreu três posições distintas dentro da tradição americana pós-freudiana:
+Anna Freud — o ego como agente ativo de defesa, com um repertório de mecanismos que se sofisticam ao longo do desenvolvimento. A análise como trabalho com as defesas.
+Hartmann — o ego como estrutura adaptativa com funções autônomas que se desenvolvem independentemente do conflito. A adaptação como categoria central ao lado do conflito.
+Kohut — o self como estrutura que emerge de relações de objeto específicas e que pode apresentar déficits desenvolvimentais que não são redutíveis ao conflito pulsional. A empatia como instrumento técnico central.
+Kernberg — síntese entre ego psychology e Klein, com o splitting como mecanismo primitivo central e o narcisismo patológico como estrutura defensiva contra conflitos de inveja e agressividade.
+O que a Fase II como um todo revela é que a tradição americana pós-freudiana, ao tentar resolver os problemas que Freud deixou abertos, abriu novos problemas — especialmente em torno da relação entre conflito e déficit, entre ego e self, entre adaptação e desenvolvimento. Esses problemas não foram resolvidos dentro da tradição — foram parcialmente deslocados para a Fase III, onde Klein, Winnicott e Bion vão oferecer respostas radicalmente diferentes.
+E no horizonte de todo esse percurso está Lacan — que vai propor que a própria categoria de self é uma ilusão, que o ego é uma formação imaginária, e que o sujeito que a psicanálise deve visar não é o ego fortalecido nem o self restaurado, mas o sujeito dividido em sua relação com o desejo e com o Outro.
+Seguimos para a Fase III — Klein, Winnicott, Fairbairn e Bion?​​​​​​​​​​​​​​​​
+
+É um dos conceitos mais perturbadores de toda a tradição psicanalítica — e o autor que você está lembrando é muito provavelmente Klein. A afirmação sobre a inveja como fator que pode tornar o tratamento inacessível e levar à sua falência aparece em Envy and Gratitude (1957) — o texto mais controverso que Klein publicou, e que gerou resistência mesmo dentro do círculo kleiniano.
+Vale entrar no conceito com cuidado — porque a inveja em Klein é algo radicalmente diferente da inveja no sentido cotidiano, e diferente também da inveja do pênis freudiana que você mencionou.
+
+A inveja do pênis — por que é insuficiente
+A inveja do pênis em Freud é, como você identificou, uma formulação limitada — e os motivos pelos quais é limitada são precisos.
+Primeiro, ela é reativamente definida — a menina inveja o que não tem, o que já perdeu. É uma inveja de falta, de ausência. Segundo, ela tem um objeto específico e anatômico — é a inveja de um órgão, ainda que Freud às vezes a amplie para o que o órgão representa simbolicamente. Terceiro, ela é estruturalmente assimétrica — só a menina inveja, o menino não tem inveja equivalente de nada feminino, o que Horney já contestou.
+A inveja kleiniana é outra coisa inteiramente — e sua radicalidade está precisamente em que ela não é reativa, não pressupõe falta, e é universal.
+
+A inveja em Klein — Envy and Gratitude (1957)
+Klein publica Envy and Gratitude aos 75 anos — é um dos últimos textos maiores que escreve, e foi recebido com resistência considerável mesmo por analistas kleinianos. A tese central é perturbadora o suficiente para ter alienado parte de seus próprios seguidores.
+A formulação que abre o argumento é direta:
+“Envy is the angry feeling that another person possesses and enjoys something desirable — the envious impulse being to take it away or to spoil it.”
+(Envy and Gratitude, 1957 — Tavistock Publications, p. 6)
+Mas o que torna a formulação kleiniana radical não é essa definição — é o que vem a seguir. Klein propõe que a inveja não é uma reação a uma situação específica de privação ou comparação. É uma disposição constitutiva — uma força pulsional primária que está presente desde o início da vida, anterior a qualquer experiência de falta ou de comparação com outro.
+O objeto primário da inveja não é o pênis, não é o sucesso do outro, não é nenhuma conquista específica — é o seio materno. Mais especificamente, é o seio como fonte de vida, de nutrição, de calor, de prazer. O bebê, no momento em que experimenta o seio como bom — como fonte de satisfação — é tomado pela inveja do próprio seio que o satisfaz. A fonte de tudo o que é bom gera, pelo mesmo movimento, o desejo de atacá-la, de esgotá-la, de destruir o que ela tem.
+
+A estrutura paradoxal da inveja primitiva
+É aqui que a formulação kleiniana atinge sua maior perturbação. A inveja não é a reação à falta — é a reação à plenitude do objeto. O bebê não inveja o seio porque lhe falta algo. Inveja o seio porque o seio tem — tem a capacidade de dar vida, de nutrir, de satisfazer, capacidade que o bebê experimenta como pertencendo ao objeto e não a si mesmo.
+Klein formula isso com uma precisão que vale citar integralmente:
+“The feeling seems to be that when the object is felt to be so good, one cannot bear that the goodness should exist outside oneself, separated from oneself, and yet it has to be acknowledged as existing there. Envy is stirred up by the very goodness of the breast.”
+(Envy and Gratitude, 1957 — p. 10)
+Essa estrutura paradoxal — inveja gerada pela bondade do objeto, não por sua maldade — é o que distingue a inveja kleiniana de qualquer formulação anterior. E tem uma consequência que é imediatamente perturbadora: a inveja ataca o que é bom. Não o que é mau, não o que persegue — o que é bom, o que nutre, o que satisfaz.
+Isso cria um problema clínico fundamental: se a inveja ataca o bom, então o analista que funciona bem — que oferece compreensão, que interpreta com precisão, que fornece algo genuinamente útil — é precisamente o analista que vai despertar a inveja mais intensa. O progresso analítico é, paradoxalmente, o que mobiliza a força que pode destruir o tratamento.
+
+A distinção entre inveja e ciúme
+Klein é precisa em distinguir inveja de ciúme e de ganância — que frequentemente se confundem:
+A ganância (greed) é o desejo insaciável de ter mais — de extrair do objeto tudo o que ele tem, de esgotar sua capacidade de dar. É um impulso de acumulação, não de destruição.
+O ciúme (jealousy) pressupõe uma relação triangular — é baseado no amor e no medo de perdê-lo para um rival. Pressupõe um self já constituído o suficiente para reconhecer uma relação e um terceiro que a ameaça.
+A inveja (envy) é mais primitiva do que ambos — é uma relação diádica, não triangular, e seu impulso não é acumular nem recuperar o amor perdido, mas estragar o que o objeto tem. Klein usa a palavra spoiling — sujar, contaminar, deteriorar. O objetivo da inveja não é possuir — é que o objeto não possa ter o que tem.
+
+A inveja e a pulsão de morte
+Klein vai ligar explicitamente a inveja à pulsão de morte — e aqui está um dos pontos em que ela é mais fiel a Freud de 1920 do que qualquer outro autor da tradição:
+“Envy is an oral-sadistic and anal-sadistic expression of destructive impulses, operative from the beginning of life, and having as its target the apparatus of giving life — the breast.”
+(Envy and Gratitude, 1957 — p. 10)
+A inveja é a forma mais primitiva da pulsão de morte dirigida ao objeto — é a destrutividade constitutiva voltada contra a própria fonte de vida. E por isso mesmo é a mais difícil de modificar: está na raiz, antes de qualquer experiência que pudesse ser elaborada, antes de qualquer conflito que pudesse ser interpretado.
+
+A inveja e a falência do tratamento
+Aqui chegamos ao ponto que você lembrava — e vale citar Klein diretamente porque a formulação é precisa e perturbadora:
+“The analytic situation revives the early relation to the mother. The analyst who gives the patient interpretations — and through them, understanding, help, and ultimately happiness — stands for the mother who gives food and love. If envy is strong, the gifts of the analyst, like the gifts of the breast, will be attacked and destroyed.”
+(Envy and Gratitude, 1957 — p. 183)
+E mais adiante:
+“With very envious patients, negative therapeutic reactions occur regularly and are very difficult to overcome. Every step forward is experienced as a gift from the analyst which must be spoiled. Progress itself becomes the target of envy — and the greater the analyst’s understanding, the more dangerous he becomes.”
+(Envy and Gratitude, 1957 — p. 184)
+A lógica é impiedosa: o analista que interpreta bem — que oferece uma compreensão genuína — está dando algo bom ao paciente. O paciente com inveja primária intensa não pode tolerar receber o que é bom sem atacá-lo. O ataque pode tomar formas diversas: esquecimento imediato da interpretação, deterioração do material na sessão seguinte, chegada atrasada, interrupção do tratamento precisamente quando estava avançando.
+Klein vai além: há casos em que a inveja é de tal intensidade que o tratamento não apenas não progride — é ativamente destruído pelo paciente. Não por má vontade consciente, não por resistência no sentido técnico clássico — mas pela impossibilidade estrutural de receber algo bom sem precisar espoliá-lo.
+É essa formulação que gerou a resistência mais intensa dentro do movimento kleiniano — porque parece colocar o fracasso do tratamento na conta do paciente, como se houvesse casos simplesmente inanalisáveis por constituição. Hanna Segal — a intérprete mais fiel de Klein — tentou suavizar essa conclusão argumentando que a inveja pode ser trabalhada analiticamente quando interpretada precocemente e diretamente. Mas Klein é mais pessimista: há casos em que a inveja é constitutivamente tão intensa que a análise tem limites reais que não são técnicos.
+
+Kernberg e a inveja — a conexão com o narcisismo
+A conexão com o que estávamos discutindo em Kernberg é direta. Kernberg importa a inveja kleiniana para sua teoria do narcisismo patológico — e é precisamente aí que a divergência com Kohut fica mais clara.
+Para Kernberg, o self grandioso do paciente narcísico é uma defesa primariamente contra a inveja — contra o reconhecimento de que outros têm o que ele não tem. A grandiosidade funciona como proteção: se sou superior a todos, não tenho nada a invejar. Mas a inveja continua operando sob a grandiosidade — e aparece clinicamente na incapacidade de reconhecer genuinamente o valor do analista, na tendência a desvalorizar cada interpretação precisa, no padrão de deteriorar o progresso.
+Para Kohut, esse mesmo padrão clínico não é inveja — é a expressão de um self fragmentado que não consegue tolerar a separação do objeto. A deterioração do progresso não é ataque ao bom — é colapso do self diante da ameaça de separação e da exposição de suas lacunas.
+O debate entre os dois sobre o narcisismo é, em grande parte, um debate sobre a inveja: ela é primária e constitutiva como Klein e Kernberg propõem, ou é secundária e reativa como Kohut implicitamente assume?
+
+A inveja na tradição interpessoal — Harold Boris
+Há um autor que abordou a inveja de forma particularmente original fora do contexto kleiniano estrito — Harold Boris, psicanalista americano que trabalhou na fronteira entre a tradição interpessoal e a kleiniana.
+Em Envy (1994), Boris propõe uma formulação que complementa Klein de forma interessante:
+“Envy is the wish that the good shall not be. It is not the wish that I shall have what you have; it is the wish that you shall not have what you have. It is a wish aimed at Being itself.”
+(Boris, Envy, 1994 — Jason Aronson, p. 9)
+A distinção que Boris faz é sutil mas importante: a inveja não é um desejo de ter — é um desejo de que o ser do outro não seja. É uma força que se dirige contra a existência do que é bom, não contra sua posse. Isso vai ainda mais longe do que Klein — e conecta a inveja à pulsão de morte de forma mais direta: é uma força anti-ontológica, dirigida contra o ser do objeto.
+Boris também descreve algo que chama de esperança como o polo oposto da inveja — e a relação entre os dois como um dos eixos centrais da vida psíquica. A esperança é a capacidade de tolerar que o bom exista fora de si mesmo — de poder desejar sem precisar destruir o objeto do desejo. A inveja ataca a esperança precisamente porque a esperança pressupõe a bondade do objeto, e é essa bondade que a inveja não consegue tolerar.
+
+Gratitude — o polo positivo em Klein
+Vale mencionar o par que Klein propõe para a inveja — a gratidão (gratitude) — porque a teoria não é apenas diagnóstico de destrutividade.
+A gratidão é a capacidade de receber o que é bom sem precisar atacá-lo — de reconhecer o valor do objeto e sentir amor por ele em vez de inveja. Klein propõe que a gratidão é a base de toda criatividade, de toda capacidade de dar, de toda generosidade genuína:
+“The infant who has gratitude can enjoy what is given, can acknowledge that something good has come from outside, and can feel it belongs to him without envying it or wishing to destroy it.”
+(Envy and Gratitude, 1957 — p. 187)
+A relação entre inveja e gratidão não é simplesmente de oposição — é dinâmica. A inveja pode ser mitigada pela experiência de gratidão suficientemente repetida. O bebê que é suficientemente bem nutrido — que tem experiências repetidas de satisfação com o objeto bom — desenvolve gradualmente a capacidade de gratidão que contrabalança a inveja constitutiva. Não a elimina — a contrabalança.
+É uma formulação que dialoga com Kohut de forma interessante: o espelhamento adequado que Kohut descreve como necessário para o desenvolvimento do self é, em termos kleinianos, a condição para que a gratidão possa se desenvolver o suficiente para contrabalançar a inveja.
+
+Uma nota sobre o viés de amostragem aqui
+Aplicando o princípio que estabelecemos: a teoria kleiniana da inveja primária constitutiva emergiu predominantemente do trabalho com pacientes severamente perturbados — psicóticos, borderlines graves, e crianças com perturbações sérias. A universalização da inveja como disposição constitutiva de todos os bebês humanos é uma inferência a partir dessa população clínica específica — e é uma inferência que permanece contestada.
+A evidência observacional direta — estudos de bebês, pesquisa do desenvolvimento — não confirma nem refuta claramente a tese kleiniana da inveja primária. O que os estudos de bebês mostram é que há agressividade e frustração precoces — mas se essas constituem inveja no sentido preciso que Klein descreve é uma questão que permanece aberta.
+
+Seguimos para a Fase III — onde vamos ler Klein diretamente, incluindo Envy and Gratitude, e onde Winnicott vai oferecer uma resposta radicalmente diferente à questão da destrutividade primitiva?​​​​​​​​​​​​​​​​

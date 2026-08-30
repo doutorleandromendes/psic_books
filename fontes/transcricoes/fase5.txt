@@ -1,0 +1,1084 @@
+Fase V - Lacan
+
+Fase V · Jacques Lacan
+Introdução — Biografia, Contexto, e o Problema da Obscuridade
+
+Mini-biografia
+Jacques-Marie Émile Lacan nasceu em Paris em 13 de abril de 1901 — filho de Alfred Lacan, comerciante de vinagres e mostardas com aspirações burguesas, e de Émilie Philippine Marie Baudry, mulher profundamente católica. A família era de classe média comercial parisiense — sólida, convencional, religiosamente praticante.
+O catolicismo da infância deixou marcas que a obra adulta não apaga: há em Lacan uma relação com a teologia — especialmente com a teologia mística e com a tradição agostiniana — que não é decorativa. A questão do desejo, da falta, do impossível tem ressonâncias teológicas que Lacan reconhecia e explorava deliberadamente.
+O irmão mais velho, Marc-Marie, tornou-se monge beneditino — tomando o nome de Dom Marc-François Lacan. Lacan e o irmão mantiveram uma relação próxima ao longo da vida. Há algo produtivo em imaginar os dois irmãos — um investigando o desejo pela via da psicanálise, o outro pela via da renúncia religiosa — como respostas diferentes à mesma questão fundamental sobre a natureza do gozo e da falta.
+Estudou medicina em Paris — especializando-se em psiquiatria. Sua tese de doutorado em 1932 — De la psychose paranoïaque dans ses rapports avec la personnalité — sobre uma paciente que chamou de Aimée, que havia esfaqueado uma atriz famosa — é um texto extraordinário que já antecipa muitos dos temas que vão organizar a obra posterior: a questão do espelho, da identificação, do crime como ato que visa o próprio self.
+Fez análise com Rudolf Loewenstein — que depois emigrou para os Estados Unidos e se tornou um dos pilares da ego psychology americana. É uma ironia histórica que não passou despercebida a Lacan: seu próprio analista foi um dos fundadores da tradição que ele passou a vida combatendo. Lacan considerou a análise com Loewenstein insatisfatória e insuficiente.
+Frequentou o seminário de Alexandre Kojève sobre Hegel nos anos 30 — seminário que foi uma das experiências intelectuais mais formativas de toda uma geração parisiense, incluindo Raymond Aron, Georges Bataille, Raymond Queneau, e Maurice Merleau-Ponty. A leitura kojèviana de Hegel — centrada no desejo, no reconhecimento, e na negatividade — vai ser fundamental para a teoria lacaniana do sujeito.
+Participou ativamente do movimento surrealista nos anos 30 — conhecia Salvador Dalí, frequentava os círculos de André Breton, e publicou no primeiro número da revista Minotaure em 1933. O surrealismo não foi apenas um contexto cultural para Lacan — foi uma escola de pensamento sobre o inconsciente, o desejo, e a imagem que antecipou e moldou sua teoria.
+Casou-se duas vezes. O primeiro casamento, com Marie-Louise Blondin, produziu três filhos — mas Lacan estava simultaneamente numa relação com Sylvia Bataille (ex-mulher do escritor Georges Bataille), com quem teve uma filha, Judith. Divorciou-se e casou-se com Sylvia em 1953. Judith Bataille — depois Judith Miller, após casar-se com Jacques-Alain Miller — tornou-se a guardiã do arquivo lacaniano.
+A relação de Lacan com Jacques-Alain Miller é uma das mais complicadas da história da psicanálise: Miller tornou-se o editor, o intérprete autorizado, e o herdeiro institucional de Lacan — mas também o controlador do acesso aos seminários não publicados, o que lhe deu um poder sobre a tradição lacaniana que permanece controverso.
+Lacan morreu em Paris em 9 de setembro de 1981 — de insuficiência renal. Tinha oitenta anos. Suas últimas palavras públicas foram pronunciadas num seminário em 1980 — o último — em que disse, entre outras coisas, que estava convicto de que era um psicótico.
+
+O contexto intelectual — as quatro fontes
+Lacan não emerge da psicanálise pura — emerge de uma constelação intelectual que tem quatro fontes principais, e entender essas fontes é condição para entender a teoria.
+1. A psiquiatria francesa — Clérambault
+O mestre clínico de Lacan foi Gaëtan Gatian de Clérambault — chefe do serviço de psiquiatria da Préfecture de Police de Paris, onde Lacan trabalhou como interno. Clérambault era um clínico extraordinário — descreveu a síndrome de erotomania que leva seu nome — e tinha um método de observação clínica de rigor quase cirúrgico. Lacan o chamou de seu único mestre em psiquiatria.
+O que Clérambault ensinou foi a atenção às estruturas — às formas que a experiência psicótica assume, às regularidades que aparecem através dos casos individuais. É uma lição metodológica que percorre toda a obra lacaniana: a busca de estrutura sob a superfície variável dos fenômenos clínicos.
+2. Hegel — via Kojève
+A leitura de Hegel que Lacan absorveu no seminário de Kojève nos anos 30 forneceu três conceitos fundamentais:
+O desejo como desejo do desejo do outro — o desejo não é desejo de um objeto, é desejo de ser desejado pelo outro. É constitutivamente intersubjetivo — e constitutivamente insatisfatório, porque o que o sujeito busca não é uma coisa mas um reconhecimento que nunca é completo.
+A negatividade como motor do sujeito — o sujeito se constitui pela negação, pela falta, pelo que não é. Não há identidade positiva antes da negação — a identidade emerge do que se diferencia de.
+A dialética senhor-escravo — que Benjamin usou de forma mais explícita, mas que percorre toda a teoria lacaniana da transferência e do desejo.
+3. Saussure e Lévi-Strauss — a virada linguística
+O encontro com a linguística estrutural de Ferdinand de Saussure — via Roman Jakobson e via Claude Lévi-Strauss — foi o evento intelectual mais transformador para a teoria lacaniana.
+Saussure havia proposto que o signo linguístico é composto de dois elementos:
+O significante (signifiant) — a imagem acústica, o som ou a imagem da palavra.
+O significado (signifié) — o conceito, o conteúdo mental associado ao significante.
+E havia proposto que a relação entre os dois é arbitrária — não há nenhuma razão natural pela qual o som chien em francês, dog em inglês, ou cão em português deveria estar associado ao conceito de cão. A língua é um sistema de diferenças — os signos têm valor não por referência à realidade, mas por diferença de outros signos dentro do sistema.
+Lacan vai operar uma transformação radical dessa teoria: vai inverter a relação entre significante e significado, e vai priorizar o significante:
+«Nous désignons par signifiant tout signe quelconque se substituant à tout autre. Mais ce qui est particulier à l’ordre du signifiant, c’est précisément d’être organisé comme une chaîne.»
+“Designamos por significante qualquer signo que se substitui a qualquer outro. Mas o que é particular à ordem do significante é precisamente ser organizado como uma cadeia.”
+(Séminaire III, Les Psychoses, 1955-56)
+Em Saussure, o significante serve ao significado — é o veículo que carrega o conteúdo. Em Lacan, o significante tem primazia — é o significante que determina o significado, não o contrário. O inconsciente é estruturado como linguagem — e essa linguagem é uma cadeia de significantes que produz efeitos de significado, mas nunca de forma completa ou estável.
+4. Freud — o retorno
+O projeto declarado de Lacan — desde o Discurso de Roma de 1953 — foi um retorno a Freud. Não uma continuação da tradição, não uma síntese com outras tradições, mas um retorno aos textos originais contra o que considerava a deformação operada pela ego psychology americana.
+Mas é um retorno que transforma o que preserva — como todos os retornos. O Freud que Lacan relê não é o Freud dos instintos e das energias — é o Freud do inconsciente estruturado, do chiste, do lapso, do sonho. O Freud que Lacan valoriza é o Freud de 1900-1915 — especialmente A Interpretação dos Sonhos e os artigos de metapsicologia — e não o Freud da segunda tópica e das pulsões de morte, que considera menos rigoroso.
+
+O problema da obscuridade — e o que fazer com ele
+Prometemos abordar a obscuridade frontalmente — então vamos fazê-lo agora, antes de entrar nos textos.
+Há três camadas de dificuldade em Lacan que vale distinguir porque têm origens diferentes e requerem abordagens diferentes:
+A dificuldade conceitual genuína — os conceitos de Lacan são genuinamente difíceis porque descrevem fenômenos que nenhuma teoria anterior havia descrito adequadamente. O Real, o sujeito barrado, o objet petit a — são conceitos que exigem esforço porque nomeiam algo que a linguagem ordinária não tem instrumentos para capturar. Essa dificuldade é legítima e produtiva.
+A dificuldade estilística deliberada — Lacan escrevia e falava de forma que exigia participação ativa do leitor/ouvinte. Usava neologismos, jogos de palavras, referências cruzadas entre textos, pontuação inesperada. Dizia explicitamente que seus textos eram escritos para não serem lidos passivamente. Essa dificuldade é também legítima — mas tem o custo de excluir leitores que teriam muito a contribuir.
+A dificuldade artificial — o lacanês — há uma camada de obscuridade que é simplesmente afetação: o uso de terminologia desnecessariamente complicada para comunicar ideias que poderiam ser ditas de forma mais direta, a reprodução ritual de fórmulas sem compreensão genuína, o culto à opacidade como sinal de profundidade. Essa camada existe — especialmente nos epígonos — e é o que alimenta a crítica de pernosticidade que você mencionou.
+Nossa estratégia: tratar a primeira camada com o respeito que merece — ir fundo, trabalhar devagar, não simplificar o que é genuinamente complexo. Reconhecer a segunda como deliberada e produtiva quando funciona. E nomear a terceira quando aparecer, sem deixar que a autoridade do nome proteja o que não está sustentado.
+
+Uma nota sobre o surrealismo — e por que importa
+Você mencionou que o surrealismo seria uma interface produtiva — e tem razão, mais do que pode parecer à primeira vista.
+O surrealismo como movimento artístico tinha um projeto teórico explícito: tornar visível o inconsciente, dar forma ao que a consciência reprime, encontrar nos sonhos e nos automatismos o que a realidade cotidiana esconde.
+Lacan conviveu com os surrealistas nos anos 30 — e a relação não foi apenas social. Salvador Dalí publicou um artigo sobre a paranoia como método de conhecimento — a atividade paranoico-crítica — que Lacan leu com atenção e que dialoga diretamente com sua tese de doutorado sobre a paciente Aimée. A ideia de que o delírio paranoico não é simplesmente erro — mas uma forma de leitura que revela algo que a percepção normal esconde — é um tema que percorre tanto o surrealismo quanto a teoria lacaniana.
+E há algo na forma da escrita lacaniana que tem qualidade surrealista — a justaposição inesperada, o trocadilho como instrumento teórico, a imagem que precede e excede o conceito. Não é coincidência: Lacan absorveu uma sensibilidade sobre como o inconsciente trabalha que o surrealismo havia capturado antes que a teoria pudesse articulá-la.
+
+Como vamos proceder na Fase V
+Cada bloco vai ter:
+O texto original em francês quando relevante — com tradução para o inglês ou português conforme o contexto. Não vou suavizar a obscuridade — vou apresentá-la e depois trabalhar o conceito até que esteja claro.
+O conceito em definição precisa — o que o termo significa, de onde vem, o que descreve.
+O exemplo — primeiro o que Lacan usa (literário, clínico, linguístico), depois outros que possamos construir juntos.
+A conexão — com o que já estudamos, com os debates que já estabelecemos.
+A implicação técnica — o que esse conceito muda na forma de conduzir uma análise.
+
+Quando quiser — começamos com o estádio do espelho.
+É o texto mais acessível de Lacan, o mais citado, e o ponto em que o diálogo com tudo que já estudamos é mais imediato. E é o lugar onde a questão do ego — que percorre todo o currículo desde Anna Freud — vai receber sua formulação mais perturbadora.​​​​​​​​​​​​​​​​
+
+Ótimo — e é o momento certo para esclarecer isso, porque a distinção significante/significado é o fundamento de tudo que vem em Lacan. Se essa distinção não estiver clara, os conceitos lacanianos subsequentes vão sempre parecer mais obscuros do que precisam ser.
+Vamos trabalhar Saussure primeiro — e depois mostrar o que Lacan faz com ele.
+
+Saussure — a base
+Ferdinand de Saussure foi um linguista suíço que viveu de 1857 a 1913. Não publicou seus trabalhos mais importantes em vida — o livro que fundou a linguística estrutural, o Cours de Linguistique Générale (1916), foi reconstituído por alunos a partir de notas de aulas após sua morte. É um livro que ninguém escreveu diretamente — o que tem uma ironia lacaniana avant la lettre.
+
+O signo linguístico
+Saussure propõe que a unidade básica da língua é o signo — e que o signo é composto de dois elementos inseparáveis:
+O significante (signifiant) — a imagem acústica. Não o som físico em si, mas a impressão psíquica do som — o padrão sonoro como existe na mente do falante. Quando você pensa na palavra árvore sem pronunciá-la em voz alta, o que existe na sua mente é o significante.
+O significado (signifié) — o conceito. Não a coisa real no mundo — não uma árvore específica — mas o conceito mental de árvore. A ideia geral, abstrata.
+Saussure usa uma imagem para descrever a relação entre os dois — o signo como uma folha de papel em que os dois lados são inseparáveis:
+«Le signe linguistique unit non une chose et un nom, mais un concept et une image acoustique.»
+“O signo linguístico une não uma coisa e um nome, mas um conceito e uma imagem acústica.”
+(Cours de Linguistique Générale, 1916 — Payot, p. 98)
+A distinção que Saussure está fazendo é entre três níveis que o senso comum frequentemente confunde:
+A palavra (o signo) — árvore
+O som ou imagem da palavra (o significante) — /ár-vo-re/
+O conceito (o significado) — a ideia mental de árvore
+A coisa no mundo (o referente) — uma árvore real, específica
+Saussure está propondo que a língua trabalha nos dois primeiros níveis — significante e significado — e que a relação com o referente (a coisa no mundo) é uma questão separada.
+
+A arbitrariedade do signo
+O insight mais fundamental de Saussure — e o que vai ter mais consequências para Lacan — é que a relação entre significante e significado é arbitrária.
+Não há nenhuma razão natural, nenhuma necessidade, nenhuma motivação intrínseca pela qual o significante /ár-vo-re/ deveria estar associado ao conceito de árvore. É uma convenção — estabelecida historicamente, mantida pelo uso coletivo, mas sem fundamento na natureza das coisas.
+A prova é simples: a mesma coisa tem nomes completamente diferentes em línguas diferentes.
+Árvore em português.
+Tree em inglês.
+Arbre em francês.
+Baum em alemão.
+شجرة em árabe.
+Nenhum desses sons tem uma relação natural com a coisa que designa. A relação é puramente convencional.
+
+A língua como sistema de diferenças
+Daí emerge o segundo insight fundamental de Saussure: se os signos são arbitrários — se não têm valor por referência à realidade — então onde está o seu valor?
+A resposta de Saussure é que o valor dos signos é diferencial — cada signo tem valor não por si mesmo, mas por diferença de todos os outros signos no sistema:
+«Dans la langue il n’y a que des différences sans termes positifs.»
+“Na língua há apenas diferenças sem termos positivos.”
+(Cours de Linguistique Générale, p. 166)
+O que isso significa concretamente: a palavra quente tem valor porque existe a palavra frio, e morno, e tépido, e escaldante. Se não houvesse essas outras palavras, quente não teria o mesmo recorte conceitual. A língua não descobre uma realidade que já estava lá — ela recorta a realidade de uma forma específica, e esse recorte varia de língua para língua.
+O exemplo clássico: o português tem uma palavra — saudade — que não tem equivalente exato em inglês ou em francês. Isso não significa que ingleses e franceses não experienciam o estado que saudade designa — significa que o sistema linguístico português recortou esse território de uma forma que o inglês e o francês não fizeram. A língua não apenas nomeia o que existe — ela organiza o que pode ser experienciado e pensado.
+
+O que Lacan faz com Saussure — a inversão
+Aqui começa o movimento lacaniano — e é onde a teoria se separa da linguística.
+Saussure representa a relação entre significante e significado desta forma — o significado em cima, o significante embaixo, separados por uma barra:
+
+\frac{\text{significado}}{\text{significante}}
+
+É uma relação de correspondência — cada significante está ligado ao seu significado, e os dois juntos formam o signo. A barra é apenas separação — não é obstáculo.
+Lacan inverte a fórmula — coloca o significante em cima e o significado embaixo — e transforma a barra de separação em resistência:
+
+\frac{\text{Significante}}{\text{significado}}
+
+A maiúscula no Significante não é acidente tipográfico — é uma declaração de primazia. E a barra agora não é apenas separação — é uma barreira, uma resistência à passagem do significante ao significado.
+O que isso significa clinicamente: o significante não está amarrado ao seu significado. A palavra não tem um sentido fixo e estável — desliza sobre a superfície dos significados sem se fixar definitivamente em nenhum. O inconsciente é precisamente esse deslizamento — é o que acontece quando os significantes circulam sem encontrar um significado estável que os ancore.
+
+Um exemplo concreto do deslizamento
+Pense na palavra pai.
+Em Saussure, pai é um signo com um significante (/pai/) e um significado (o conceito de pai — o genitor masculino).
+Em Lacan, o significante pai desliza sobre uma cadeia de significados que se associam de formas que nenhum dicionário captura completamente: autoridade, lei, castração, proteção, ausência, o Nome-do-Pai, Deus, o patrão, o analista, o presidente. Cada contexto ativa associações diferentes. E o que cada sujeito específico faz com o significante pai — que cadeia de associações ativa, que outros significantes ele convoca — revela algo sobre a estrutura do seu inconsciente que o significado dicionarizado simplesmente não captura.
+É por isso que a associação livre funciona: o analista propõe um significante — ou o paciente traz um — e o que emerge não é o significado correto da palavra, mas a cadeia de significantes que o inconsciente daquele sujeito específico associa a ele. O inconsciente se revela no deslizamento, não na estabilidade.
+
+Os dois mecanismos do inconsciente — Freud relido por Jakobson
+Aqui entra Roman Jakobson — linguista russo que Lacan leu com atenção — e que havia proposto que toda comunicação linguística usa dois eixos fundamentais:
+O eixo da seleção — escolher entre alternativas disponíveis no mesmo ponto da cadeia. Posso dizer casa, lar, domicílio, moradia — todas são alternativas no mesmo ponto. A relação entre elas é de semelhança e substituição. Jakobson chama esse eixo de metáfora.
+O eixo da combinação — encadear elementos em sequência. A casa está na rua — cada elemento se combina com o próximo por relações de contiguidade. Jakobson chama esse eixo de metonímia.
+Lacan propõe que esses dois mecanismos linguísticos são os mesmos que Freud havia descrito no trabalho do sonho — mas com nomes diferentes:
+Metáfora = condensação (Verdichtung) — um significante substitui outro, concentrando múltiplos significados num único ponto. No sonho: uma figura representa várias pessoas simultaneamente.
+Metonímia = deslocamento (Verschiebung) — um significante é substituído por outro com o qual tem relação de contiguidade. No sonho: o chapéu representa o pai porque estava associado a ele.
+O que Lacan está dizendo é que o inconsciente não opera numa lógica diferente da linguagem — opera na mesma lógica, pelos mesmos mecanismos. Daí a fórmula que vai se tornar a mais famosa de toda a sua obra:
+«L’inconscient est structuré comme un langage.»
+“O inconsciente é estruturado como uma linguagem.”
+Não é uma linguagem — é estruturado como uma linguagem. É uma distinção importante: Lacan não está dizendo que o inconsciente fala em palavras. Está dizendo que opera pelos mesmos mecanismos que organizam a linguagem — substituição e combinação, metáfora e metonímia, condensação e deslocamento.
+
+A pergunta que fica
+Antes de avançar para o estádio do espelho — onde vamos ver o que essa teoria da linguagem implica para a constituição do sujeito — uma pausa.
+A ideia de que o inconsciente é estruturado como uma linguagem tem uma consequência que vale nomear:
+Se o inconsciente opera como linguagem — pelo deslizamento dos significantes — então o sujeito não tem acesso direto ao que é. Está sempre mediado pela linguagem, sempre capturado numa cadeia de significantes que ele não controla completamente. O sujeito não fala a linguagem — a linguagem fala o sujeito.
+Isso vai ficar mais concreto quando entrarmos no estádio do espelho. Por ora — a distinção significante/significado está mais clara? Alguma questão antes de seguir?​​​​​​​​​​​​​​​​
+
+Fase V · Semana 18
+O Estádio do Espelho
+Le stade du miroir comme formateur de la fonction du Je
+
+O texto
+O texto canônico é curto — menos de cinco páginas — e foi apresentado pela primeira vez num congresso da IPA em Marienbad em 1936, depois revisado e apresentado novamente em Zurique em 1949. É essa versão de 1949 que foi publicada nos Écrits (1966).
+A brevidade é enganosa. É um dos textos mais citados da história da psicanálise — e cada frase carrega mais peso do que parece à primeira leitura.
+Vamos lê-lo em blocos — com o original em francês onde for essencial, e trabalhando cada ideia até ter um exemplo concreto antes de avançar.
+
+Bloco 1 — A cena do espelho
+Lacan abre com uma observação que parece simples e que não é:
+«Le stade du miroir est une expérience qui s’oppose, du tout au tout, à celle des adultes qui se regardent dans un miroir. L’enfant de six à dix-huit mois, quand il se regarde dans un miroir, reconnaît son image avec une joie manifeste. Mais cette joie est paradoxale: il voit une unité qu’il n’est pas encore.»
+“O estádio do espelho é uma experiência que se opõe completamente à dos adultos que se olham num espelho. A criança de seis a dezoito meses, quando se olha num espelho, reconhece sua imagem com uma alegria manifesta. Mas essa alegria é paradoxal: ela vê uma unidade que ainda não é.”
+(Écrits, 1966 — Seuil, p. 93)
+Pause aqui. O que Lacan está descrevendo?
+Um bebê de seis a dezoito meses — antes de ter controle motor coordenado, antes de ter linguagem, antes de ter um sentido estável de si mesmo — olha para o espelho e vê uma imagem unificada, coerente, com contornos claros.
+Mas o bebê real, nesse momento, é o oposto dessa imagem: é um organismo que não controla seus próprios movimentos, que não sabe onde começa e onde termina, que experiencia seu corpo como fragmentado — como sensações parciais que não se integram numa unidade.
+A imagem no espelho é mais coerente do que a experiência interna. É mais organizada, mais unificada, mais completa. E é isso que produz a alegria — não o reconhecimento de si mesmo, mas o encontro com uma imagem de unidade que o bebê ainda não tem por dentro.
+
+O exemplo concreto — e o que ele revela
+Pense num espelho num banheiro. Você se olha. Vê um rosto, um corpo, uma figura coerente.
+Agora tente ter acesso à sua experiência antes de se ver no espelho — o conjunto de sensações internas, tensões musculares, impulsos, estados afetivos que constituem o que é estar no seu corpo agora. Esse conjunto é difuso, não tem contornos claros, não tem a unidade que a imagem espelhada tem.
+O que Lacan propõe é que a imagem no espelho não reflete uma unidade que já existia — ela produz uma unidade que não existia. O eu não está no espelho porque já existe antes — o eu se forma no encontro com a imagem.
+É uma inversão que tem consequências enormes: o eu não é ponto de partida, é produto. E é um produto de uma imagem externa — não de uma experiência interna.
+
+Bloco 2 — A identificação alienante
+«Cette image, l’enfant l’assume. Il s’identifie à elle. Mais cette identification est aliénante: l’enfant prend pour soi quelque chose qui est dehors de lui, qui est une image, qui est une fiction.»
+“Essa imagem, a criança a assume. Ela se identifica com ela. Mas essa identificação é alienante: a criança toma por si mesma algo que está fora dela, que é uma imagem, que é uma ficção.”
+(Écrits, p. 94 — paráfrase)
+Aqui está o coração do conceito — e onde Lacan diverge radicalmente de qualquer psicologia do ego.
+O ego — o eu — é uma identificação com uma imagem. Não é uma estrutura interna que emerge de dentro. É a internalização de algo que estava fora — a imagem especular, a imagem que o espelho forneceu.
+E porque é uma imagem — porque é algo externo que foi tomado como interno — o ego é fundamentalmente fictício. Não no sentido de falso no sentido moral. No sentido de que é uma construção, uma ficção que o sujeito habita como se fosse sua natureza.
+Isso é o que Lacan chama de alienação constitutiva do ego — o ego é sempre já alienado porque foi constituído pelo que está fora, pela imagem que o espelho devolveu.
+
+A conexão com o que já estudamos
+Você pode já estar sentindo a ressonância com conceitos que trabalhamos.
+O False Self de Winnicott — o self que se forma pela compliance com o gesto do ambiente em vez do gesto espontâneo — tem uma estrutura similar à do ego especular lacaniano. Nos dois casos, o eu se forma pela incorporação de algo externo que substitui uma espontaneidade que não encontrou condições de emergir.
+Mas há uma diferença crucial: para Winnicott, o False Self é uma resposta a um ambiente que falhou — há um True Self que poderia ter emergido se as condições fossem diferentes. Para Lacan, a alienação não é patológica — é constitutiva. Não há True Self por baixo do ego especular. O ego é sempre já uma ficção, independente de o ambiente ter sido bom ou mau.
+É uma diferença que tem consequências técnicas: para Winnicott, o objetivo da análise é criar condições para que o True Self emerja. Para Lacan, não há True Self a emergir — o objetivo é que o sujeito se relacione de forma diferente com a ficção que habita.
+
+Bloco 3 — O outro com minúscula
+«Dans le miroir, l’enfant voit une image qui est lui et qui n’est pas lui. Cette image est ce que Lacan appelle le petit autre — l’autre imaginaire, le semelhante, le double.»
+O espelho não devolve simplesmente o eu — devolve algo que é simultaneamente eu e outro. A imagem é eu — tenho o mesmo rosto, o mesmo corpo. Mas é também outro — está no espelho, é uma imagem, não é o meu corpo vivido.
+Lacan vai chamar essa figura de autre com minúscula — o outro imaginário, o semelhante, o duplo. É o outro que é fundamentalmente um espelho de mim — com quem me identifico, com quem rivalizo, com quem me confundo.
+A relação com o outro imaginário é sempre dual — e sempre tensa. Porque o outro que me parece semelhante é também ameaçador: ele tem o que eu quero ser, ele pode ocupar o lugar que eu ocupo, ele pode me substituir.
+Lacan vai chamar essa tensão de relação especular — e vai propor que ela organiza o registro do Imaginário — um dos três registros fundamentais da teoria lacaniana (Real, Simbólico, Imaginário).
+
+O exemplo literário — O Duplo de Dostoiévski
+O Duplo (1846) de Dostoiévski — escrito quando o autor tinha 24 anos — é o texto literário que mais diretamente encena a lógica da relação especular lacaniana.
+Golyádkin encontra seu duplo — um homem idêntico a ele que progressivamente toma seu lugar, rouba seus amigos, sua posição, sua identidade. O horror da história não é simplesmente a paranoia — é a impossibilidade de distinguir onde termina um e começa o outro, a perturbação radical da identidade quando o espelho começa a agir de forma autônoma.
+Em termos lacanianos: o duplo de Golyádkin é o outro imaginário que saiu do espelho. É o eu especular que tomou vida independente — e que revela retroativamente que o eu original era tão fictício quanto o duplo.
+Borges usou essa estrutura repetidamente — em Borges y yo, em O Jardim das Veredas que se Bifurcam — e com a mesma intuição: o eu e seu duplo são igualmente ficções, e não há instância privilegiada que seja o eu real.
+
+Bloco 4 — O que o espelho não pode ser sem o Outro
+Aqui Lacan acrescenta algo que a leitura superficial do estádio do espelho frequentemente perde — e que é essencial:
+«Mais le miroir seul ne suffit pas. Pour que l’enfant assume son image, il faut un Autre qui confirme: “C’est toi.” La mère qui dit à l’enfant “Regarde, c’est toi!” — c’est l’Autre symbolique qui valide l’image imaginaire.»
+“Mas o espelho sozinho não é suficiente. Para que a criança assuma sua imagem, é preciso um Outro que confirme: ‘És tu.’ A mãe que diz à criança ‘Olha, és tu!’ — é o Outro simbólico que valida a imagem imaginária.”
+(paráfrase de Lacan — Seminário I, 1953-54)
+Esta é a transição do Imaginário para o Simbólico — e é onde a teoria ganha sua segunda dimensão.
+A criança no espelho vê uma imagem. Mas para que essa imagem se torne minha imagem — para que eu me identifique com ela como sendo eu — preciso de uma voz que diga és tu. Preciso de um Outro que valide a identificação.
+A mãe que segura o bebê diante do espelho e diz com satisfação olha! és tu! — está exercendo uma função que vai além do cuidado físico. Está inscrevendo o bebê no campo simbólico — está dizendo tens um lugar, tens um nome, há um tu que existe.
+Isso significa que o ego não é formado apenas pela imagem — é formado pela imagem validada pelo Outro. E o Outro que valida não é simplesmente a mãe como pessoa — é o Outro simbólico, a linguagem, o campo de discurso no qual o bebê é inscrito.
+
+O Outro com maiúscula — introdução
+Aqui aparece pela primeira vez um dos conceitos mais centrais e mais mal compreendidos de toda a teoria lacaniana — o Outro (Autre) com maiúscula.
+Lacan distingue sistematicamente:
+autre — minúscula — o outro imaginário, o semelhante, o duplo, o espelho. É o registro do Imaginário.
+Autre — maiúscula — o Outro simbólico. Não é uma pessoa — é uma estrutura. É o campo da linguagem, da lei, do discurso no qual o sujeito nasce. É o tesouro dos significantes — o conjunto de palavras, normas, categorias que existiam antes do sujeito nascer e que vão constituir o campo dentro do qual o sujeito vai se mover.
+A distinção é fundamental e vai aparecer em cada conceito subsequente. Quando Lacan fala do desejo como desejo do Outro — não está dizendo que desejamos ser desejados pelas pessoas ao nosso redor. Está dizendo que o desejo é estruturado pelo campo simbólico — pelo Outro com maiúscula — que preexiste ao sujeito e que o constitui.
+
+Um exemplo concreto do Outro com maiúscula
+Você nasceu numa família, numa língua, numa cultura, num momento histórico específico. Antes de você nascer — antes de você poder falar, pensar, desejar — havia um campo de significantes que esperavam por você:
+Um nome — que seus pais escolheram, que carrega história, que te posiciona numa linhagem.
+Uma língua — que recortou o mundo de uma forma específica, que te deu certas palavras e não outras, que organizou o que você pode pensar.
+Uma posição numa família — filho, caçula, primogênito, filho do meio — com todas as expectativas e projeções que essa posição carrega.
+Uma história coletiva — que inclui traumas, conquistas, silêncios, narrativas sobre quem você é e de onde vem.
+Tudo isso é o Outro — o campo simbólico que te precede e que te constitui. Você não escolheu entrar nele — nasceu dentro dele. E é ele que vai fornecer os significantes com os quais você vai construir sua identidade, seu desejo, seu sintoma.
+
+Pausa 1
+Antes de avançar para as implicações do estádio do espelho para a teoria do sujeito — e para a distinção entre eu (moi) e sujeito (sujet) que é fundamental em Lacan — uma pergunta de consolidação:
+A ideia de que o ego é uma ficção — uma identificação com uma imagem externa — ressoa de forma diferente do que qualquer outro autor que estudamos até aqui descreveu? O que essa formulação muda em relação, por exemplo, ao ego como precipitado de objetos perdidos de Freud, ou ao self como sistema de regulação da ansiedade de Sullivan?​​​​​​​​​​​​​​​​
+
+É uma observação que captura algo genuinamente lacaniano — e o factoid sobre nunca termos nos visto diretamente é mais do que trivia. É uma intuição sobre a estrutura da experiência que a teoria formaliza.
+Vamos desdobrar os dois fios que você puxou — porque os dois vão aparecer em conceitos específicos que vêm adiante.
+
+Sobre a interpessoalidade levada ao extremo
+Você identificou o movimento correto: Lacan compartilha com os relacionais — Sullivan, Mitchell, Benjamin — a recusa de um sujeito que preexiste à relação. Não há ego antes do outro, não há identidade antes do campo interpessoal.
+Mas o extremo que Lacan adiciona é preciso e vai além dos relacionais em dois aspectos:
+Primeiro — para os relacionais, o outro que constitui o sujeito é primariamente um outro relacional — a mãe, o pai, os cuidadores, as figuras de apego. São pessoas específicas em relações específicas. Para Lacan, o Outro que constitui o sujeito é uma estrutura — a língua, a lei, o discurso coletivo. As pessoas específicas são apenas os veículos através dos quais essa estrutura se transmite. A mãe que diz és tu não está expressando sua perspectiva individual — está transmitindo o Outro simbólico.
+É a diferença entre dizer fui formado pelas relações que tive — que é a posição relacional — e dizer fui formado pela estrutura dentro da qual essas relações aconteceram — que é a posição lacaniana. As relações são contingentes, variáveis, históricas. A estrutura é mais fundamental — e mais universal.
+Segundo — para os relacionais, há sempre a possibilidade de uma relação mais autêntica, mais reconhecedora, que corrija o que as relações anteriores deformaram. Benjamin propõe o reconhecimento mútuo como objetivo e como instrumento. Para Lacan, a alienação não é corrigível — é constitutiva. Não é que o espelho poderia ter devolvido uma imagem mais fiel. O espelho estruturalmente não pode devolver o sujeito — pode apenas devolver uma imagem, e toda imagem é ficção.
+Isso não é pessimismo — é uma posição sobre a natureza da subjetividade. O sujeito lacaniano não pode ser menos alienado — pode apenas ter uma relação diferente com sua alienação. Pode reconhecê-la como tal em vez de confundi-la com sua natureza.
+
+Sobre nunca ter se visto
+O factoid — de que nunca nos vemos diretamente, apenas em reflexos mediados por lentes — é mais do que uma curiosidade sobre óptica. É uma intuição sobre a estrutura do eu que Lacan leva muito a sério.
+E há um detalhe adicional que o factoid normalmente não menciona — e que é genuinamente perturbador quando se percebe:
+O espelho inverte. A imagem que você vê no espelho é lateralmente invertida — o que você chama de seu rosto é uma imagem que nenhuma outra pessoa vê. Todo mundo vê o seu rosto no sentido direto — exceto você. Você só vê a versão invertida.
+Quando você vê uma fotografia sua — que não inverte — frequentemente estranha. Parece levemente errado, levemente diferente do que você parece. Porque você está acostumado com a versão especular — e a fotografia mostra o que os outros veem, não o que você vê.
+Lacan usa esse detalhe — não de forma explícita, mas está implícito na teoria — para mostrar que a imagem com a qual o sujeito se identifica é constitutivamente diferente de como o sujeito aparece para os outros. O eu que você habita e o eu que os outros veem são versões diferentes do mesmo fenômeno — nenhuma das duas é o eu real, porque não há eu real anterior às imagens.
+
+A herança histórico-cultural — e onde Lacan encontra Marx e Althusser
+A observação de que o ego emerge de moldes, expectativas, inexorabilidades, contingências e privilégios histórico-culturais abre um território que vai ser central na fase três do currículo — e que já estava parcialmente mapeado em Fromm.
+Lacan teve uma relação produtiva com Louis Althusser — filósofo marxista que estava no mesmo contexto intelectual parisiense dos anos 60. Althusser propôs o conceito de interpelação (interpellation) para descrever como a ideologia constitui sujeitos: o sujeito não preexiste à ideologia — é convocado pela ideologia, chamado a ocupar um lugar, a reconhecer-se numa posição.
+O exemplo de Althusser é simples e preciso: um policial grita ei, você! na rua, e alguém se vira. O ato de se virar — de se reconhecer como o destinatário do chamado — é o momento da interpelação. O sujeito é constituído no ato de responder ao chamado do Outro.
+É estruturalmente idêntico ao que Lacan descreve no estádio do espelho: a mãe diz és tu! e a criança se reconhece na imagem. O reconhecimento não é o registro de algo que já existia — é o ato que produz o que reconhece.
+E aqui os moldes, expectativas, inexorabilidades, contingências e privilégios que você mencionou entram de forma muito concreta: o chamado do Outro — a interpelação — não é neutro. É um chamado que posiciona o sujeito numa estrutura de relações de poder, de gênero, de classe, de raça. Quando o Outro chama, já chama de um lugar específico — e o sujeito que responde já responde de dentro de uma posição que não escolheu.
+É por isso que Butler vai usar Lacan e Althusser juntos quando formos trabalhar a teoria queer na fase três: a identidade de gênero não é expressão de uma natureza interior — é uma resposta a um chamado que o Outro social faz, um chamado que posiciona o sujeito numa posição específica dentro de uma estrutura de normas que preexiste ao sujeito individual.
+
+O sujeito barrado — introdução antecipada
+Há um símbolo lacaniano que vai aparecer repetidamente daqui em diante — e vale introduzi-lo agora porque ele formaliza precisamente o que você descreveu.
+Lacan escreve o sujeito como $ — o S barrado, o sujet barré.
+A barra não é apenas notação — é a marca da divisão constitutiva do sujeito. O sujeito lacaniano é dividido — entre o que é como ser vivente e o que é como ser de linguagem, entre sua experiência e as palavras que tem para expressá-la, entre o que deseja e o que consegue dizer que deseja.
+A barra é o espelho — a passagem pelo campo do Outro que constitui o sujeito mas o divide ao mesmo tempo. O sujeito que emerge do estádio do espelho não é um sujeito unificado — é um sujeito dividido entre a imagem especular com a qual se identificou e algo que excede essa imagem, que não cabe nela, que permanece como resto.
+Esse resto — o que não foi capturado pela imagem, o que não pôde ser simbolizado — vai aparecer como o objet petit a quando chegarmos ao período do objeto e do desejo.
+Por enquanto, vale guardar: o sujeito lacaniano é barrado — é atravessado por uma divisão que não pode ser reparada, apenas reconhecida. E essa divisão não é patológica — é constitutiva. Todo sujeito humano é dividido pela passagem pela linguagem e pelo Outro.
+
+A diferença entre moi e sujet
+Lacan faz uma distinção terminológica em francês que vale nomear agora porque vai organizar muito do que vem depois:
+Moi — o eu, o ego. É a imagem especular — a ficção construída no estádio do espelho. É o que o sujeito pensa que é, a identidade que habita, a imagem com a qual se identifica. Pertence ao registro do Imaginário.
+Sujet — o sujeito. Não é a identidade — é o que fala, o que deseja, o que sofre. É o que está por baixo ou além da imagem especular — o que não se reduz ao ego. Pertence ao registro do Simbólico — e tem uma relação com o Real que o ego não tem.
+A distinção é crucial para entender o objetivo da análise lacaniana: não é fortalecer o moi — como propõe a ego psychology. É dar ao sujet a possibilidade de se expressar para além das identificações imaginárias com que o moi o encobre.
+Uma vinheta que Lacan usa nos seminários iniciais para ilustrar a distinção:
+O paciente chega e diz — eu sou um fracasso, eu nunca consigo nada, eu sou incapaz. Isso é o moi falando — é a imagem especular negativa, a identificação com uma imagem de fracasso que o sujeito tomou por si mesmo.
+Mas o sujet — o que fala por baixo dessa identidade — está dizendo outra coisa. Está dizendo algo sobre o desejo, sobre a lei, sobre a relação com o Outro — que a imagem de fracasso encobre e ao mesmo tempo revela de forma deformada.
+A análise lacaniana não tenta convencer o paciente de que não é um fracasso — não trabalha com o moi. Tenta criar condições para que o sujet — o que está por baixo da imagem — possa emergir na fala.
+
+Pausa 2
+Antes de avançar para o Discurso de Roma e para o inconsciente estruturado como linguagem — que é onde a teoria ganha sua formulação mais sistemática — uma última observação sobre o estádio do espelho que vai ficar mais rica com tudo que vem depois:
+O estádio do espelho acontece uma vez — entre seis e dezoito meses. Mas a estrutura que inaugura — a identificação com uma imagem validada pelo Outro — não termina ali. Continua operando ao longo de toda a vida, em toda nova identificação que o sujeito faz.
+Cada vez que alguém te diz és assim, cada vez que um grupo te acolhe e diz és um de nós, cada vez que uma posição social, profissional, ou identitária te oferece uma imagem com que te identificar — está ocorrendo uma versão do estádio do espelho. O Outro está dizendo és tu, e o sujeito está decidindo — na maioria das vezes sem saber que está decidindo — se assume ou não essa imagem.
+É por isso que a teoria do estádio do espelho não é apenas uma teoria do desenvolvimento infantil — é uma teoria da identificação como tal, que opera ao longo de toda a vida.
+Seguimos para o Discurso de Roma — onde Lacan vai formalizar o inconsciente estruturado como linguagem e o retorno a Freud como projeto?​​​​​​​​​​​​​​​​
+
+É uma leitura que não é apenas poética — é teoricamente precisa. E o fato de que ressoa de forma tão direta com a experiência queer não é coincidência.
+
+O que você capturou
+O sujet lacaniano é precisamente o que resiste à identificação — o que não se deixa completamente capturar pelo moi, que não encaixa nas imagens que o Outro oferece, que permanece como resto irredutível depois que todas as identificações foram vestidas.
+Lacan tem uma formulação que está no horizonte do currículo — no Seminário XI — que nomeia isso de forma direta:
+«Le sujet, c’est ce qui représente un signifiant pour un autre signifiant.»
+“O sujeito é o que um significante representa para outro significante.”
+É uma frase que parece abstrata mas que tem uma implicação concreta: o sujeito não é uma substância, não é uma essência, não é um conteúdo positivo. É o efeito da linguagem — o que emerge no intervalo entre significantes. É o que aparece nos pontos em que a cadeia de identificações hesita, falha, não fecha completamente.
+O outsider not quite fitting in — a pessoa que não encaixa completamente em nenhuma das imagens que o Outro oferece — está, nesse sentido, mais próxima do sujet do que alguém que encaixou perfeitamente. Não porque o sofrimento de não encaixar seja desejável — mas porque a fissura entre o sujeito e as identificações disponíveis é mais visível, menos encoberta pela ilusão de que a imagem especular é a coisa real.
+
+A conexão com a experiência queer — mais do que metáfora
+Há uma razão estrutural pela qual a teoria lacaniana ressoa tão fortemente com a experiência queer — e que vai ficar mais clara quando chegarmos a Butler na fase três.
+O Outro simbólico — o campo de significantes que preexiste ao sujeito e que o constitui — é historicamente heteronormativo. Os significantes disponíveis para se identificar, as imagens que o espelho cultural oferece, as posições que o Outro convoca pelo chamado da interpelação — foram construídos dentro de uma estrutura que pressupõe a heterossexualidade como norma e a cisgeneridade como dado.
+O sujeito queer é aquele para quem a interpelação falha de uma forma específica: o Outro chama, a imagem é oferecida, mas algo no sujeito não responde completamente ao chamado. Há um resto — algo que a imagem não captura, que não ressoa, que não encaixa. E esse resto é precisamente o que Lacan chama de sujet.
+Butler vai propor que esse resto — esse não-encaixe — não é uma falha do sujeito. É o sinal de que a norma é ela mesma uma ficção construída, não uma necessidade natural. O sujeito que não encaixa na norma não está falhando em ser um sujeito — está revelando que a norma é contingente, que poderia ter sido diferente, que não tem o fundamento que pretende ter.
+
+O poético e o clínico — uma nota sobre a análise lacaniana
+Há algo que vale dizer sobre como a análise lacaniana trata esse território — e que é diferente de qualquer outra tradição que estudamos.
+A ego psychology tentaria ajudar o paciente a se adaptar melhor — a encontrar identificações mais funcionais, a reduzir a tensão entre o eu e o mundo.
+A tradição relacional tentaria criar uma relação analítica que oferecesse reconhecimento genuíno — que validasse a subjetividade do paciente onde as relações anteriores falharam.
+Kohut tentaria fornecer o espelhamento que faltou — para que o self fragmentado pudesse se consolidar.
+A análise lacaniana faz algo diferente — e que é mais próximo do que você descreveu como poético: ela tenta criar condições para que o sujeito possa se identificar com seu próprio não-encaixe. Não para que o sujeito encontre uma imagem melhor com que se identificar — mas para que possa reconhecer que é precisamente o que sobra depois que todas as imagens são vestidas e tiradas.
+É o que Lacan vai chamar, no último ensino, de identificação com o sinthome — a identificação não com uma imagem ou um ideal, mas com o traço singular que organiza o gozo do sujeito de uma forma que não tem equivalente em nenhuma norma. É a saída da análise que não é a cura no sentido de normalização — é o sujeito capaz de habitar sua própria singularidade sem precisar que ela seja validada por nenhum Outro.
+Tem uma qualidade que é próxima do que você descreveu — o que não encaixa, não ressoa, não cabe — mas transformado de fonte de sofrimento em traço de singularidade irredutível.
+
+Uma última nota antes de seguirmos
+O que você trouxe agora — a ressonância entre o sujet lacaniano e a experiência de viver como queer, como outsider — é um dos fios mais ricos que vamos puxar ao longo da Fase V. E vai ficar mais denso quando chegarmos às fórmulas da sexuação no Seminário XX — onde Lacan propõe que a posição feminina tem uma relação com o gozo e com o Outro que é estruturalmente diferente da posição masculina — e onde a teoria abre espaço para pensar a sexualidade de uma forma que excede completamente a dicotomia hetero/homo.
+Por ora — seguimos para o Discurso de Roma?​​​​​​​​​​​​​​​​
+
+Fase V · Semana 18 (continuação)
+O Discurso de Roma (1953)
+Fonction et champ de la parole et du langage en psychanalyse
+
+O contexto — por que esse texto existe
+Setembro de 1953. Lacan tem 52 anos e acaba de ser expulso — ou de se demitir, dependendo de quem conta a história — da Société Psychanalytique de Paris, a sociedade psicanalítica francesa ortodoxa filiada à IPA.
+O motivo imediato foi a questão das sessões de duração variável — Lacan havia começado a experimentar com sessões que não duravam os cinquenta minutos padronizados, que podia cortar em qualquer ponto que considerasse analiticamente significativo. A IPA considerou isso uma violação técnica inaceitável.
+Mas o conflito era mais profundo do que a duração das sessões. Era sobre o que a psicanálise é — o que está em jogo numa análise, o que é o instrumento técnico central, o que constitui o inconsciente.
+Lacan e um grupo de dissidentes fundaram a Société Française de Psychanalyse — e Lacan inaugurou seus seminários públicos nesse mesmo ano. O Discurso de Roma foi apresentado no congresso de fundação da nova sociedade — e é o manifesto do projeto lacaniano. O que Lacan vai dizer é: voltemos a Freud. Mas o Freud que eu estou lendo não é o Freud que a ego psychology americana está lendo.
+
+O que o texto propõe — em três movimentos
+O Discurso de Roma é longo — mais de oitenta páginas nos Écrits — e aborda múltiplos temas. Vamos trabalhar os três movimentos centrais que organizam o argumento.
+
+Primeiro movimento — fala plena e fala vazia
+Lacan abre com uma distinção técnica que é simultaneamente simples e radical:
+«La parole pleine est celle qui vise, qui réalise la vérité du sujet. La parole vide est celle qui parle de lui sans le réaliser.»
+“A fala plena é aquela que visa, que realiza a verdade do sujeito. A fala vazia é aquela que fala sobre ele sem realizá-lo.”
+(Écrits, 1966 — Seuil, p. 254)
+O que Lacan está distinguindo é entre dois modos de fala que qualquer analista reconhece clinicamente — mas que raramente haviam sido nomeados com essa precisão.
+Fala vazia (parole vide) é o discurso do ego — a narrativa que o moi constrói sobre si mesmo. É o paciente que fala sobre sua infância, sobre seus pais, sobre seus problemas — de forma fluente, organizada, coerente — mas sem que nada mude, sem que a fala toque em algo que importa. É o relato que o ego produziu para consumo próprio e alheio, que não coloca em risco nenhuma identificação, que circula na superfície sem cavar.
+Fala plena (parole pleine) é quando o sujeito — o sujet, não o moi — emerge na fala. É o momento em que algo é dito que surpreende quem fala, que vai além do que foi planejado, que revela algo que o ego não sabia que sabia. É o lapso, o ato falho, a associação inesperada, o chiste involuntário. É a fala que produz algo — que transforma quem fala no ato mesmo de falar.
+
+Um exemplo concreto — Freud revisitado
+Freud descreveu em A Psicopatologia da Vida Cotidiana (1901) um caso que é preciso aqui.
+Um funcionário público que precisava anunciar o encerramento de uma sessão parlamentar disse, em vez de ich erkläre die Sitzung für geschlossen (declaro a sessão encerrada) — ich erkläre die Sitzung für eröffnet (declaro a sessão aberta).
+O ato falho revelou o desejo — não queria que a sessão encerrasse. A fala planejada era fala vazia — o discurso correto, conveniente, adaptado ao papel. O ato falho foi fala plena — o sujeito emergiu onde o ego havia planejado uma performance.
+Em termos lacanianos: o moi planejou a fala vazia. O sujet irrompeu na fala plena — e revelou algo que o moi não sabia ou não queria saber.
+A análise lacaniana está orientada para criar condições em que a fala plena seja possível — em que o sujeito possa emergir na fala em vez de ficar encoberto pelo discurso do ego.
+
+A implicação técnica — o que o analista escuta
+Isso muda completamente o que o analista está fazendo quando escuta.
+O analista que escuta o conteúdo da fala — que tenta entender o que o paciente está dizendo, que reconstrói a história, que busca o sentido manifesto — está escutando a fala vazia. Está colaborando com o ego do paciente na construção de uma narrativa coerente.
+O analista lacaniano escuta outra coisa: escuta as falhas na narrativa, as hesitações, os atos falhos, as repetições inesperadas, os pontos em que a fala tropeça. É nesses pontos de tropeço — nesses pontos em que a cadeia de significantes se interrompe ou se deforma — que o sujeito emerge.
+Lacan vai chamar esses pontos de points de capiton — pontos de estofo — numa referência aos botões que prendem o tecido de estofamento nos móveis. São os pontos em que o significante se ancora momentaneamente ao significado — em que a cadeia, que normalmente desliza, para por um instante e produz um efeito de sentido.
+
+Segundo movimento — o inconsciente é o discurso do Outro
+Aqui está uma das formulações mais densas e mais importantes de todo o texto:
+«L’inconscient, c’est le discours de l’Autre.»
+“O inconsciente é o discurso do Outro.”
+(Écrits, p. 265)
+Cinco palavras em francês — e uma reorganização completa de tudo que Freud havia dito sobre o inconsciente.
+O que Freud havia proposto: o inconsciente é o sistema que contém o recalcado — os desejos, as memórias, as representações que foram expulsas do consciente por serem insuportáveis. É meu inconsciente — contém o que eu recalquei, o que minha história produziu.
+O que Lacan está propondo: o inconsciente não é meu — é do Outro. É o campo de significantes que o Outro simbólico implantou em mim antes que eu pudesse escolher ou recusar. É a língua que fala através de mim antes que eu fale. É as palavras que me foram dadas para nomear o mundo — e que recortam o mundo de uma forma que não escolhi.
+
+O exemplo que Lacan usa — a língua materna
+Você não escolheu a língua em que pensa. Ela estava lá antes de você — e ela veio com um recorte do mundo, com categorias, com possibilidades de pensamento e com impossibilidades de pensamento que a língua determina.
+Em português, você tem a palavra saudade — que recorta um estado afetivo específico que outras línguas não recortam da mesma forma. Isso significa que você pode experienciar e nomear algo que um falante de inglês não consegue nomear com a mesma precisão — e que portanto talvez não experiencíe com a mesma clareza.
+Mas também significa que a língua portuguesa recortou certos territórios de uma forma que você habita sem ter escolhido — que há coisas que a língua te faz pensar, e coisas que a língua te impede de pensar, simplesmente pela forma como organizou o mundo em significantes.
+Isso é o discurso do Outro operando no inconsciente: não é recalque no sentido freudiano — é a estrutura da língua, da cultura, da história coletiva que fala através do sujeito sem que o sujeito saiba.
+
+A consequência — o sujeito não é senhor em sua própria casa
+Freud havia dito algo similar com vocabulário diferente: o ego não é senhor em sua própria casa. Há forças que o excedem, que atuam sem seu conhecimento ou consentimento.
+Lacan radicaliza: não é apenas que há forças inconscientes que o sujeito não controla. É que o próprio sujeito é constituído por algo que vem de fora — pelo discurso do Outro. Não há sujeito que preexiste à linguagem e depois entra nela. A linguagem produz o sujeito ao mesmo tempo que o sujeito fala.
+É a formulação mais radical possível da interpessoalidade — mais radical do que Benjamin, mais radical do que Sullivan. Não é que as relações influenciam o sujeito. É que as relações — ou mais precisamente, a estrutura simbólica dentro da qual as relações acontecem — produzem o sujeito.
+
+Terceiro movimento — o retorno a Freud
+O Discurso de Roma culmina numa proposta que vai definir o projeto lacaniano por décadas:
+«Ce que nous enseignons au sujet de lire Freud, c’est que le retour à Freud est un retour au sens de Freud. Non pas à la lettre de Freud, mais à ce que Freud voulait dire — et que ses continuateurs ont trahi.»
+“O que ensinamos ao sujeito de ler Freud é que o retorno a Freud é um retorno ao sentido de Freud. Não à letra de Freud, mas ao que Freud queria dizer — e que seus continuadores traíram.”
+(Écrits, p. 258 — paráfrase)
+Quem são os continuadores que traíram? A ego psychology americana — Hartmann, Kris, Loewenstein. E o que traíram?
+Lacan tem uma resposta precisa: traíram ao transformar o objetivo da análise em adaptação — em fortalecimento do ego, em ajustamento à realidade, em identificação com o ego do analista como modelo de saúde. Ao fazer isso, a ego psychology inverteu o projeto freudiano: em vez de abrir o inconsciente, fechou-o. Em vez de interrogar o ego, fortaleceu-o. Em vez de trabalhar com a divisão constitutiva do sujeito, tentou suturá-la.
+
+O que Freud realmente queria dizer — segundo Lacan
+Lacan propõe que o Freud verdadeiro — o Freud que a ego psychology não leu — é o Freud do inconsciente como sistema com leis próprias, o Freud da divisão do sujeito, o Freud que disse que o ego não é senhor em sua própria casa.
+E esse Freud, relido através de Saussure e de Hegel, produz uma teoria que é simultaneamente mais fiel a Freud e mais rigorosa do que qualquer coisa que a tradição pós-freudiana havia produzido.
+O argumento tem uma elegância que vale reconhecer: Lacan não está propondo algo novo — está propondo que o que parece novo é na verdade o que Freud sempre havia dito, antes de ser deformado pela recepção.
+É uma estratégia retórica poderosa — e uma estratégia que tem limites que também vale reconhecer: o Freud que Lacan lê é um Freud seletivo. Há aspectos da obra freudiana que Lacan não lê ou lê de forma muito particular — especialmente o Freud da pulsão de morte como força biológica, o Freud da segunda tópica em sua versão mais estrutural, o Freud clínico dos casos.
+
+A crítica à ego psychology — o que o analista não deve ser
+Em A Direção do Tratamento e os Princípios de seu Poder (1958) — que vamos ler em detalhe mais adiante — Lacan vai desenvolver a crítica técnica mais sistemática à ego psychology. Mas já no Discurso de Roma está o núcleo:
+O analista que oferece seu ego como modelo de identificação — que sugere ao paciente, explícita ou implicitamente, que o objetivo é tornar-se mais como o analista, mais adaptado, mais funcional — está praticando sugestão, não análise. Está usando a transferência para reforçar as identificações imaginárias do paciente em vez de trabalhar com o sujeito que existe para além dessas identificações.
+Para Lacan, o analista deve se posicionar no lugar do Outro — não como ego auxiliar, não como figura de identificação, não como espelho empático. Deve ser o lugar desde o qual o sujeito pode escutar sua própria fala de forma diferente.
+É uma posição de paradoxo deliberado — o analista está presente mas não como ego, é real mas não como espelho, é Outro mas não como pessoa. É essa posição paradoxal que vai gerar as discussões técnicas mais acesas entre Lacan e as tradições que estudamos nas fases anteriores.
+
+Uma nota sobre a língua — e o que se perde na tradução
+O Discurso de Roma tem um exemplo que Lacan usa para ilustrar o deslizamento dos significantes — e que funciona apenas em francês:
+Lacan pergunta: o que significa a palavra liberté em Liberté, Égalité, Fraternité — o lema da República Francesa?
+A resposta óbvia: liberdade, a ausência de restrição, o valor republicano.
+Mas Lacan aponta que o significante liberté desliza — em outros contextos significa coisas muito diferentes. Prendre des libertés — tomar liberdades — significa ser inapropriadamente familiar. La liberté des mœurs — liberdade de costumes — pode ser elogio ou crítica dependendo de quem fala. Liberté provisoire — liberdade provisória — é o estado de alguém que saiu da prisão sob condição.
+O mesmo significante — liberté — produz efeitos de significado radicalmente diferentes dependendo da cadeia em que aparece. Não há um significado fixo que o significante carrega — há um deslizamento que só é parcialmente estabilizado pelo contexto.
+O que isso implica para a escuta analítica: quando o paciente diz liberdade — ou amor, ou pai, ou qualquer significante carregado — o analista não deve assumir que sabe o que a palavra significa para aquele sujeito específico. Deve escutar o que a palavra faz naquele sujeito — que outras palavras ela convoca, que afetos mobiliza, que pontos de tropeço produz.
+
+Pausa
+O Discurso de Roma estabeleceu o programa lacaniano que vai se desenvolver ao longo de três décadas de seminários. Os conceitos que ele introduz — fala plena e fala vazia, o inconsciente como discurso do Outro, o retorno a Freud contra a ego psychology — vão aparecer de formas cada vez mais elaboradas nos textos que vêm depois.
+Antes de avançar para o Seminário I e para o desenvolvimento do período simbólico — uma pergunta que vai ajudar a consolidar:
+A distinção entre fala plena e fala vazia ressoa com algo que você experienciou — seja em análise, seja em conversas que de repente ficaram de outro nível, seja em escrita ou em qualquer outro contexto em que algo foi dito que surpreendeu quem disse?​​​​​​​​​​​​​​​​
+
+Exato — e a observação é precisa tanto na convergência quanto na crítica.
+
+Onde a convergência é real
+Lacan está relendo Freud — e a fala plena é, em grande parte, o ato falho e a associação livre reformulados numa linguagem diferente. O que o ato falho revela em Freud — que o sujeito diz mais do que planejava, que o inconsciente irrompe onde o ego havia preparado outra coisa — é exatamente o que a fala plena designa em Lacan.
+E Lacan seria o primeiro a reconhecer isso — porque o projeto declarado é um retorno a Freud, não uma superação. A fala plena não é um conceito novo que substitui o ato falho. É uma reformulação que tenta capturar o mesmo fenômeno com uma teoria da linguagem mais explícita do que Freud havia desenvolvido.
+O que Lacan adiciona que não está em Freud:
+A teoria da linguagem que sustenta a observação. Freud descreveu o fenômeno — o ato falho, a associação livre — com riqueza clínica extraordinária. Mas a teoria de por que esses fenômenos ocorrem permaneceu relativamente implícita em Freud — ligada à metáfora hidráulica da energia pulsional que busca descarga. Lacan oferece uma teoria diferente: o ato falho ocorre porque o inconsciente é estruturado como linguagem — porque os significantes deslizam e produzem efeitos que o ego não controla. É uma explicação que não precisa da metáfora energética e que conecta a clínica com a linguística de forma mais explícita.
+
+Onde as críticas têm mérito
+As críticas que você mencionou — e que diz parecerem ter mérito — merecem ser nomeadas com precisão, porque há pelo menos três críticas distintas que frequentemente se confundem:
+Primeira crítica — a originalidade superestimada
+Se a fala plena é basicamente o ato falho e a associação livre reformulados, então grande parte do que Lacan apresenta como descoberta é reformulação de Freud numa linguagem diferente. A obscuridade do estilo pode criar a ilusão de maior profundidade onde há principalmente maior complexidade formal.
+Esta crítica tem força real — e é especialmente relevante para os textos do período simbólico, onde o aparato linguístico às vezes parece superdimensionado em relação ao que está sendo dito. Dito isso, a reformulação não é sem valor: tornar explícita a teoria linguística que sustenta as observações clínicas freudianas é uma contribuição genuína, mesmo que não seja uma descoberta completamente nova.
+Segunda crítica — a verificabilidade
+A teoria da fala plena — como a maior parte da teoria lacaniana — não é verificável no sentido empírico. Não há critério claro que permita distinguir de forma confiável entre fala plena e fala vazia em casos concretos, além do julgamento do analista. E quando o critério é o julgamento do analista, há o risco de que qualquer coisa que o analista considere significativa seja retrospectivamente classificada como fala plena.
+Esta é a crítica de Grünbaum que vamos trabalhar na Fase VI — e tem substância. A teoria lacaniana é extraordinariamente difícil de submeter a qualquer teste que pudesse falsificá-la.
+Terceira crítica — o uso institucional da obscuridade
+A obscuridade do estilo lacaniano — que é parcialmente deliberada e parcialmente produtiva — foi usada institucionalmente de formas que a teoria não justifica. Criou uma hierarquia de iniciados que podem ler os textos e não-iniciados que não podem — o que é epistemicamente problemático porque torna a teoria imune à crítica de quem não domina o idioma lacaniano.
+Esta crítica não invalida a teoria — mas invalida certas práticas institucionais da tradição lacaniana. E é a que provavelmente está na base da expressão La-conned que você mencionou no início.
+
+O que permanece canônico — e por quê
+Apesar das críticas — e concordando que têm mérito — há algo na distinção fala plena/fala vazia que permanece clinicamente indispensável e que nenhuma outra formulação captura com a mesma precisão.
+A observação de que há dois modos de fala qualitativamente diferentes na situação analítica — um que circula na superfície sem produzir transformação, outro que toca algo e produz mudança — é reconhecível por qualquer analista de qualquer tradição. Winnicott descreve algo similar quando fala de interpretação que emerge do espaço potencial versus interpretação imposta de fora. Bion descreve algo similar quando distingue K de O. Mitchell descreve algo similar quando fala de enactment que toca o campo versus interpretação que fica no nível cognitivo.
+O que Lacan contribui é nomear o fenômeno de forma que conecta com uma teoria da linguagem — o que torna possível pensar por que certas falas transformam e outras não, em termos que vão além do feeling clínico.
+
+Uma nota metodológica para o resto da Fase V
+O que você está fazendo — identificar onde Lacan está reformulando Freud, onde está genuinamente adicionando, e onde as críticas têm substância — é exatamente o método correto para ler Lacan. É mais produtivo do que a admiração acrítica dos lacanianos ortodoxos e mais justo do que o descaso da tradição anglofônica.
+Vamos continuar nessa direção ao longo da Fase V: quando Lacan reformula Freud de forma mais ou menos direta, vou nomear. Quando adiciona algo genuinamente novo, vou marcar. Quando a obscuridade não se justifica pelo conceito, vou dizer.
+
+Seguimos para o Seminário I e para o desenvolvimento do período simbólico — onde Lacan começa a trabalhar a distinção entre Imaginário, Simbólico e Real de forma mais sistemática?​​​​​​​​​​​​​​​​
+
+É a pergunta certa — e merece uma resposta honesta em vez de uma resposta lacaniana.
+
+Primeiro — o que NÃO é
+Não é become aware no sentido de insight cognitivo seguido de escolha. Lacan seria o primeiro a rejeitar isso — e aqui ele está com Freud. Saber que seus desejos são externamente condicionados não os dissolve. O paciente que entende intelectualmente que sua necessidade de aprovação vem de uma estrutura familiar específica continua precisando de aprovação. O saber consciente não desfaz o condicionamento simbólico — porque o condicionamento não opera no nível do saber consciente.
+Não é também evitar os desejos condicionados — isso seria o ascetismo, não a análise.
+
+O que é — em termos concretos
+Vamos usar M. novamente — o paciente que repete o ciclo idealização/decepção/abandono, e que opera sob o significante nunca é suficiente.
+O trabalho no Simbólico não é fazer M. perceber intelectualmente que nunca é suficiente é uma crença culturalmente condicionada que pode ser substituída por sou suficiente. Isso seria TCC com vocabulário lacaniano.
+O que a análise lacaniana tenta fazer é algo mais preciso — e mais estranho:
+1. Nomear o significante que captura o sujeito
+M. não sabe que está operando sob o significante nunca é suficiente. Ele experiencia isso como verdade sobre si mesmo — como descrição do que é, não como posição que ocupa. A análise cria condições para que o significante apareça como significante — como elemento arbitrário da estrutura, não como essência do sujeito.
+Não é você acredita que não é suficiente mas na verdade é. É você está capturado num significante que o Outro implantou — e esse significante não é você, é uma posição que você ocupa sem ter escolhido.
+A diferença é sutil mas clinicamente enorme: não é substituir um conteúdo por outro. É criar distância entre o sujeito e o significante que ele havia tomado por identidade.
+2. O que essa distância permite
+Quando M. consegue ver nunca é suficiente como significante — como algo que veio de fora e que o determina — não desaparece. Continua operando. Mas M. pode começar a fazer algo com ele que não conseguia antes: pode reconhecer quando está operando, pode notar seus efeitos sem ser completamente capturado por eles, pode em alguns momentos não agir a partir dele de forma automática.
+Lacan chama isso de atravessar o fantasma — não destruir a fantasia fundamental que organiza o sujeito, mas passar de uma posição de ser completamente capturado por ela para uma posição de reconhecê-la como construção.
+3. O que fica
+E aqui está a diferença mais radical em relação a qualquer outro modelo terapêutico: o que fica não é um sujeito curado, liberado do condicionamento, autônomo e pleno. O que fica é um sujeito que pode habitar sua própria singularidade — incluindo os significantes que o determinam — de forma diferente. Sem a ilusão de que poderia ser completamente outro, mas também sem estar completamente submetido ao que o determina.
+É o que Lacan vai chamar, no último ensino, de identificação com o sinthome — identificar-se não com uma imagem ideal de si mesmo, mas com o traço singular que organiza o próprio gozo. É uma saída da análise que não é libertação, é assunção.
+
+Sobre construir mais Simbólico em torno do Real
+Essa formulação que usei antes merece ser mais concreta.
+Tome o trauma como exemplo. Alguém que viveu uma experiência traumática severa — um acidente, uma violência, uma perda abrupta. O evento em si é Real — no sentido de que foi irrepresentável no momento em que ocorreu, que excedeu a capacidade do aparelho psíquico de processar.
+O Real do trauma permanece — não pode ser apagado, não pode ser completamente simbolizado. Mas o que a análise pode fazer é construir mais Simbólico ao redor dele — mais palavras, mais narrativa, mais conexões com outros significantes que permitem ao sujeito se aproximar do evento sem ser destruído pelo impacto direto.
+Não é que o trauma desaparece. É que o sujeito desenvolve mais estrutura simbólica que lhe permite bordeá-lo — habitar sua proximidade — sem que o Real irrompa com a mesma força disruptiva.
+É a diferença entre um buraco no chão sem proteção — que você pode cair a qualquer momento sem aviso — e um buraco no chão cercado, sinalizado, com uma borda que você pode se aproximar e olhar para dentro sem cair. O buraco permanece. A borda simbólica é o que torna possível conviver com ele.
+
+A crítica honesta que isso abre
+Você pode perguntar — e a pergunta é legítima: isso é suficiente como objetivo terapêutico? Criar distância de um significante que continua operando? Bordejar um Real que continua lá?
+A resposta lacaniana é que sim — porque a alternativa que os outros modelos oferecem (libertação, cura, integração completa, self coeso) é uma ilusão que a estrutura não permite. Prometer mais do que isso é prometer algo que nenhum tratamento pode entregar.
+A resposta crítica é que isso pode ser verdade em casos extremos mas subestima o que é possível em casos menos graves — e que a tradição lacaniana às vezes usa a inexorabilidade da estrutura como desculpa para não ir mais longe clinicamente.
+Ambas as respostas têm substância. E é uma tensão que vai aparecer com mais força quando trabalharmos o fim de análise no Seminário XI.
+
+Seguimos para o Seminário II — onde a distinção RSI vai aparecer em contexto clínico mais concreto?​​​​​​​​​​​​​​​​
+
+Aqui está o registro das perguntas e respostas desta sessão sobre os três registros — formatado para incorporar no HTML.
+
+Perguntas e respostas — RSI e técnica lacaniana
+
+P: Qual a diferença entre Imaginário e Simbólico?
+O nome Imaginário atrapalha: não significa imaginário no sentido de fictício ou irreal. Vem de imago — imagem. É o registro do que é capturado pela imagem, pela presença sensorial direta, pela relação entre dois corpos num espaço. É o mais concreto e tangível dos três registros.
+O Simbólico é o que preexiste ao sujeito e o determina de dentro — a língua, a lei, a posição na estrutura familiar e cultural. Não é construído pelo sujeito a partir de suas experiências. É encontrado pronto, como condição de possibilidade da experiência. Opera na ausência do objeto — continua determinando o sujeito mesmo quando as pessoas e situações que o transmitiram já não estão presentes.
+Exemplo: o rosto do pai vermelho de raiva é Imaginário — concreto, perceptual, desaparece com a morte do pai. A lei que o pai transmitiu — a estrutura de proibição e de posicionamento no desejo — é Simbólico. Continua operando após a morte do pai, independente de qualquer imagem específica.
+
+P: O Simbólico é um “Inconsciente 2.0” que leva em conta a dinâmica cultural e histórica?
+A formulação captura algo real — e é mais honesta do que muitas apresentações do conceito.
+O inconsciente freudiano clássico é predominantemente individual: o repositório do que aquele sujeito específico recalcou, produto de sua história particular. O Simbólico lacaniano é mais amplo: é o campo coletivo, histórico, linguístico que determina o sujeito antes de qualquer experiência individual.
+Mas há uma diferença que não é apenas terminológica: o inconsciente cultural ainda é conteúdo que está no sujeito sem que ele saiba — crenças, representações, padrões internalizados. O Simbólico lacaniano é mais radical — não é algo que o sujeito tem, é a estrutura dentro da qual o sujeito existe. Não é conteúdo a ser descoberto, é condição a ser reconhecida.
+
+P: Como a análise opera no Imaginário e no Simbólico concretamente?
+Usando o mesmo paciente como exemplo — M., que repete o ciclo idealização/decepção/abandono em todas as relações amorosas:
+No Imaginário: o analista trabalha o padrão como fenômeno relacional. M. está preso numa relação especular com os parceiros — idealiza porque o outro ocupa o lugar da imagem perfeita, decepciona quando o outro se mostra real e não consegue sustentar esse lugar. A intervenção introduz o terceiro onde há apenas díade: o que acontece no momento em que o outro se torna real para você — quando deixa de ser a imagem que você construiu? O objetivo é M. conseguir encontrar o outro como sujeito separado, não como espelho de si mesmo.
+No Simbólico: o analista não trabalha com a relação específica, mas com a estrutura que se repete através de todas as relações. M. está operando sob um significante — por exemplo, nunca é suficiente — que foi inscrito antes de qualquer relação amorosa adulta. A intervenção aponta para a posição, não para o conteúdo: de onde vem a certeza de que há um você que precisa ser visto dessa forma específica? O objetivo não é substituir o significante por outro mais positivo — é criar distância entre M. e o significante que ele havia tomado por identidade.
+
+P: Quando se diz que a análise cria “uma relação diferente do sujeito com a estrutura que o determina” — o que é isso concretamente? É tornar-se aware que os desejos são externamente condicionados e portanto evitáveis?
+Não — e a distinção é clinicamente importante.
+Saber intelectualmente que um desejo é externamente condicionado não o dissolve. O paciente que entende que sua necessidade de aprovação vem de uma estrutura familiar específica continua precisando de aprovação. O saber consciente não desfaz o condicionamento simbólico.
+O que a análise lacaniana tenta fazer é mais preciso:
+Nomear o significante que captura o sujeito — M. não sabe que está operando sob nunca é suficiente. Experiencia isso como verdade sobre si mesmo — como descrição do que é, não como posição que ocupa. A análise cria condições para que o significante apareça como significante — como elemento arbitrário da estrutura, não como essência do sujeito. Não é você acredita que não é suficiente mas na verdade é. É você está capturado num significante que veio de fora e que não é você — é uma posição que ocupa sem ter escolhido.
+O que essa distância permite — quando M. consegue ver nunca é suficiente como significante e não como identidade, o significante não desaparece. Continua operando. Mas M. pode começar a reconhecer quando está operando, notar seus efeitos sem ser completamente capturado por eles. Lacan chama isso de atravessar o fantasma — não destruir a fantasia fundamental que organiza o sujeito, mas passar de ser completamente capturado por ela para reconhecê-la como construção.
+O que fica — não um sujeito curado e liberado do condicionamento. Um sujeito que pode habitar sua própria singularidade — incluindo os significantes que o determinam — sem a ilusão de que poderia ser completamente outro, mas também sem estar completamente submetido ao que o determina. No último ensino, Lacan chama isso de identificação com o sinthome.
+
+P: Como “construir mais Simbólico em torno do Real” ajuda concretamente?
+Exemplo do trauma: o evento traumático é Real — foi irrepresentável no momento em que ocorreu, excedeu a capacidade do aparelho psíquico de processar. O Real do trauma permanece — não pode ser apagado nem completamente simbolizado.
+O que a análise faz é construir mais Simbólico ao redor dele — mais palavras, mais narrativa, mais conexões com outros significantes — que permitem ao sujeito se aproximar do evento sem ser destruído pelo impacto direto.
+É a diferença entre um buraco no chão sem proteção — que o sujeito pode cair a qualquer momento — e um buraco cercado, sinalizado, com uma borda que permite se aproximar e olhar para dentro sem cair. O buraco permanece. A borda simbólica é o que torna possível conviver com sua proximidade.
+
+Nota crítica — registrada para honestidade intelectual
+O Imaginário lacaniano se assemelha ao que a TCC faz quando trabalha padrões comportamentais repetitivos e distorções cognitivas — ainda que com vocabulário e pressupostos diferentes.
+O Simbólico se assemelha a um inconsciente ampliado que leva em conta determinações culturais, históricas e coletivas — o que outras tradições também abordam, com terminologia diferente.
+O que Lacan adiciona que não é simplesmente reformulação: a ideia de que o Simbólico não é conteúdo a ser descoberto mas estrutura constitutiva dentro da qual o sujeito existe — e que a análise não pode transformar essa estrutura, apenas modificar a relação do sujeito com ela. E a recusa de qualquer promessa de libertação completa ou de self coeso como objetivo do tratamento.
+
+Isso cobre o essencial do que foi discutido. Quando quiser, seguimos para o Seminário II.​​​​​​​​​​​​​​​​
+
+Fase V · Semana 19 (continuação)
+Seminário II — O Eu na Teoria de Freud e na Técnica da Psicanálise (1954–55)
+
+O contexto
+O Seminário II é conduzido no ano seguinte ao Seminário I — e representa um salto significativo em densidade e em ambição teórica. Se o Seminário I estava ainda predominantemente relendo Freud, o Seminário II começa a construir o aparato lacaniano próprio de forma mais sistemática.
+Há um evento no Seminário II que é historicamente significativo e que vale mencionar antes de entrar no conteúdo: é aqui que Lacan apresenta pela primeira vez o esquema L — o primeiro dos diagramas que vai usar ao longo dos seminários para formalizar relações que a linguagem ordinária não consegue capturar adequadamente. É também aqui que a distinção entre ego e sujeito — entre moi e sujet — recebe sua primeira formalização rigorosa.
+E é aqui que Lacan introduz um conceito que vai parecer estranho à primeira vista mas que é um dos mais produtivos da teoria: a ideia de que o inconsciente é estruturado como uma máquina — que opera de forma automática, independente de qualquer intenção do sujeito.
+
+O problema central do Seminário II
+A questão que organiza o seminário é formulada por Lacan logo nas primeiras sessões:
+«Qu’est-ce que le moi? Est-ce le sujet? Non. Le moi n’est pas le sujet. Le moi est un objet — un objet particulier que le sujet prend pour lui-même.»
+“O que é o eu? É o sujeito? Não. O eu não é o sujeito. O eu é um objeto — um objeto particular que o sujeito toma por si mesmo.”
+(Séminaire II, 1954-55 — Seuil, p. 52)
+Esta frase condensa a revisão mais radical que Lacan opera em relação à tradição ego-psicológica — e em relação ao senso comum sobre o que é o eu.
+Para a ego psychology — e para o senso comum — o eu é o sujeito. É de onde vem a experiência, de onde emanam as ações, o centro de gravidade da vida psíquica. Fortalecê-lo é o objetivo do tratamento.
+Para Lacan, o eu é um objeto — uma construção, uma ficção, algo que o sujeito encontrou fora de si mesmo (no espelho, no Outro) e tomou por si mesmo. O sujeito não é o eu — o sujeito está em outro lugar, num lugar que o eu encobre.
+
+O esquema L — a primeira formalização
+O esquema L é o primeiro diagrama que Lacan usa para mostrar espacialmente relações que o texto linear não consegue mostrar simultaneamente:
+
+S ————————————————→ A
+(sujeito)              (Outro/Autre)
+    ↘               ↗
+        a ——→ a'
+    (outro)  (ego/moi)
+
+
+Vamos ler cada elemento:
+S — o sujeito barrado, o sujet. Está no canto superior esquerdo — o ponto de partida, mas um ponto de partida que está sempre já dividido, sempre já mediado.
+A — o Outro (Autre) com maiúscula. Está no canto superior direito — o campo simbólico, o tesouro dos significantes, o lugar desde o qual o sujeito é determinado. A seta de S para A é a relação do sujeito com o Outro — a relação simbólica, a relação com a linguagem e com a lei.
+a’ — o ego (moi). Está no canto inferior direito. É a imagem especular, a ficção identificatória que o sujeito tomou por si mesmo.
+a — o outro imaginário (autre com minúscula). Está no canto inferior esquerdo. É o semelhante, o duplo, o outro que é fundamentalmente um espelho do eu.
+A relação entre a e a’ — a diagonal inferior — é a relação imaginária: o eu e seu semelhante, o ego e o espelho, a identificação e a rivalidade especulares.
+
+O que o esquema mostra que o texto não mostra
+O que é visualmente imediato no esquema é que a relação simbólica — a seta de S para A — está bloqueada pela relação imaginária.
+A diagonal a — a’ atravessa e intercepta a seta S → A. Isso significa que a relação do sujeito com o Outro — a relação com a linguagem, com a lei, com o que genuinamente o determina — está sempre parcialmente obstruída pela relação imaginária com o ego e com o semelhante.
+O sujeito tenta se dirigir ao Outro — tenta falar, tenta se relacionar, tenta conhecer — mas o imaginário intervém. Em vez de chegar ao Outro, chega ao ego e ao semelhante. Em vez de falar com o sujeito do outro, fala com a imagem do outro. Em vez de ser determinado pelo Simbólico, fica capturado no Imaginário.
+É a formalização espacial do que a clínica mostra: o paciente que vem à análise não está falando ao analista como sujeito — está falando ao analista como imagem especular, como representante do semelhante ou do ego ideal. E o analista que responde a isso como ego — que entra na relação especular, que oferece seu próprio ego como referência — está reforçando a obstrução em vez de dissolvê-la.
+
+O automaton e a tychê — antecipação
+Aqui Lacan introduz dois conceitos que vão ser desenvolvidos de forma mais completa no Seminário XI — mas que aparecem no Seminário II de forma embrionária, em conexão com a ideia do inconsciente como máquina.
+Automaton — a repetição automática, mecânica, da cadeia de significantes. É o que o inconsciente faz quando opera como máquina — repete os padrões, reinstala as configurações, produz os mesmos efeitos sem que o sujeito intervenha. É a compulsão à repetição vista pelo ângulo do Simbólico: não é uma pulsão que repete — é uma cadeia de significantes que se reproduz automaticamente.
+Tychê — o encontro com o Real. O momento em que a máquina do automaton é interrompida por algo que não estava previsto na cadeia — um evento, uma ruptura, um encontro que não pode ser assimilado pela repetição. É o acaso que atravessa a necessidade — o que Aristóteles chamava de tychê em oposição ao automaton.
+A relevância clínica: a análise não pode operar no nível do automaton — não pode simplesmente revelar os padrões de repetição, porque os padrões de repetição continuam operando mesmo quando revelados. O que pode acontecer na análise — nos melhores momentos — é uma tychê: um encontro inesperado com algo Real que interrompe o automaton e cria uma abertura.
+É por isso que Lacan é cético em relação à interpretação como instrumento principal: a interpretação que é apenas correta — que nomeia o padrão com precisão — opera no nível do automaton. A interpretação que toca algo Real — que produz surpresa, que vai além do que o paciente esperava, que não é simplesmente a confirmação do que já estava implícito — tem a qualidade da tychê.
+
+O ego como mau-entendido constitutivo
+Uma das ideias mais provocativas do Seminário II — e que vai contra quase tudo que estudamos nas fases anteriores — é a proposição de que o ego é fundamentalmente um mau-entendido (méconnaissance):
+«Le moi est une construction imaginaire. Il est constitué par une série d’identifications à des images du dehors. Et parce qu’il est constitué de dehors, il méconnaît sa propre nature. Le moi ne se connaît pas lui-même — il se méconnaît.»
+“O eu é uma construção imaginária. É constituído por uma série de identificações com imagens do exterior. E porque é constituído de fora, desconhece sua própria natureza. O eu não se conhece — se desconhece.”
+(Séminaire II, 1954-55 — Seuil, p. 60 — paráfrase)
+O ego não apenas não conhece o inconsciente — não se conhece a si mesmo. O que o ego toma por conhecimento de si é sempre já uma ficção — a narrativa que construiu sobre si mesmo a partir das identificações imaginárias.
+Isso tem uma consequência técnica direta que vai contra a ego psychology de forma muito explícita: o trabalho analítico não é fortalecer o ego para que ele possa conhecer melhor o que acontece dentro de si. É criar condições para que o sujeito — que está além e aquém do ego — possa emergir na fala.
+O ego mais forte não é o ego que conhece mais — é o ego que se ilude com mais competência.
+
+A máquina e o sujeito — o que o Seminário II adiciona a Freud
+Aqui está talvez a contribuição mais genuinamente original do Seminário II — e que vai além de qualquer reformulação de Freud.
+Lacan propõe que o inconsciente opera como uma máquina — não no sentido pejorativo de algo mecânico e sem vida, mas no sentido preciso de um sistema que opera segundo regras próprias, independente de qualquer intenção ou vontade do sujeito.
+A máquina do inconsciente não precisa do sujeito para operar. Ela opera através do sujeito — produz efeitos no sujeito, determina o que o sujeito faz e diz — mas não porque o sujeito quer ou escolhe. O sujeito é, em certo sentido, o efeito da máquina — não seu operador.
+Isso é uma radicalização da ideia freudiana de que o ego não é senhor em sua própria casa. Para Freud, havia forças inconscientes que atuavam sem o conhecimento do ego — mas o sujeito ainda era, em algum sentido, o habitante da casa. Para Lacan, o sujeito é o efeito da máquina — não o habitante que não conhece as forças que o habitam, mas o produto das forças que o constituem.
+A implicação é desconcertante: o que chamamos de sujeito — o eu que pensa, que decide, que experiencia — é em grande parte o efeito de uma máquina que opera independente de qualquer centro de agência.
+
+A conexão com o que já estudamos — e o contraste
+Esta é a posição que coloca Lacan em maior tensão com a tradição relacional americana — especialmente com Benjamin e Mitchell.
+Mitchell propunha que o analista e o paciente co-criam o campo analítico — que há agência dos dois lados, que a relação é genuinamente bilateral, que o reconhecimento mútuo é possível.
+Benjamin propunha o reconhecimento intersubjetivo como objetivo — dois sujeitos que se reconhecem mutuamente como sujeitos, criando o terceiro que transcende a díade.
+Lacan vai dizer: esse projeto pressupõe sujeitos que têm acesso à sua própria agência de uma forma que a estrutura não permite. Se o sujeito é efeito de uma máquina — se é determinado pelo Simbólico de formas que não controla — então o reconhecimento mútuo que os relacionais propõem como objetivo é uma ilusão: não são dois sujeitos que se encontram, são dois efeitos de máquinas que produzem a ilusão de encontro.
+É uma posição que os relacionais contestariam — e com argumentos que têm força. Mas é importante entender que o desacordo não é apenas técnico — é ontológico. É sobre o que é o sujeito.
+
+Pausa
+O Seminário II estabeleceu três coisas que vão organizar tudo que vem depois:
+O ego como objeto — não como sujeito, mas como ficção que o sujeito tomou por si mesmo.
+O esquema L — a formalização da relação entre Imaginário e Simbólico, e de como o Imaginário obstrui o acesso do sujeito ao Outro.
+O automaton e a tychê — a distinção entre a repetição mecânica da cadeia de significantes e o encontro com o Real que a interrompe.
+Antes de avançar para o período do objeto e do desejo — onde das Ding e o objet petit a vão aparecer — alguma questão sobre o Seminário II?
+Ou prefere que avancemos diretamente para o Seminário VII (A Ética da Psicanálise) — que é onde a teoria encontra sua formulação mais densa e mais perturbadora sobre o desejo e o gozo?​​​​​​​​​​​​​​​​
+
+Fase V · Semana 22
+Seminário VII — A Ética da Psicanálise (1959–60)
+Le Séminaire, Livre VII: L’éthique de la psychanalyse
+
+Por que pular para o Seminário VII
+Estamos saltando do Seminário II para o VII — e vale nomear por quê, em vez de simplesmente fazê-lo.
+Os Seminários III, IV, V, e VI desenvolvem o aparato simbólico de Lacan de formas que são importantes mas que seriam excessivamente técnicas para o ritmo que estabelecemos. O Seminário III trata da psicose e da forclusão — que vamos abordar quando chegarmos às estruturas clínicas. O IV e o V desenvolvem a teoria do falo e do Nome-do-Pai. O VI introduz o desejo de uma forma que o Seminário VII vai retomar com mais profundidade.
+O Seminário VII é o ponto de inflexão — onde a teoria abandona o registro mais linguístico e estrutural do período anterior e encontra seu coração ético e clínico. É também onde Lacan mais se aproxima de Freud e mais se distancia da tradição — e onde o vocabulário do gozo aparece pela primeira vez de forma sistemática.
+
+O contexto — 1959-60
+Lacan tem 58 anos. Está no auge da influência intelectual parisiense — os seminários atraem filósofos, escritores, antropólogos, além dos analistas. É o período em que o estruturalismo é o idioma intelectual dominante em Paris — Lévi-Strauss, Barthes, Foucault estão todos no mesmo campo de gravidade.
+Mas o Seminário VII é, paradoxalmente, um movimento de afastamento do estruturalismo estrito. O estruturalismo puro opera com sistemas de diferenças — significantes que têm valor apenas por diferença de outros significantes, sem referência a nenhum conteúdo positivo. O que Lacan introduz no Seminário VII é algo que o estruturalismo puro não pode capturar: das Ding — a Coisa — que não é um significante, que não é uma diferença, que é o Real irredutível que está no coração do desejo.
+
+O ponto de partida — o Projeto de 1895
+Lacan abre o Seminário VII com um texto de Freud que é extraordinariamente incomum como ponto de partida: o Projeto para uma Psicologia Científica de 1895 — um manuscrito que Freud enviou a Fliess e nunca publicou, que só foi descoberto e publicado postumamente.
+Por que começar por um texto que o próprio Freud rejeitou?
+Porque é nesse texto — ainda pré-psicanalítico, ainda tentando construir uma psicologia em termos neurológicos — que Lacan encontra a intuição mais radical de Freud sobre a natureza do objeto e do desejo.
+No Projeto, Freud descreve a experiência de satisfação (Befriedigungserlebnis) — o momento em que o bebê faminto encontra o seio e é satisfeito. E propõe que essa experiência deixa um traço mnêmico — uma marca — que vai organizar toda a vida desejante subsequente.
+Mas há um elemento nessa descrição que Freud identifica e que vai ser central para Lacan:
+«Das Ding ist von den Vorstellungen des Dinges zu unterscheiden.»
+“A Coisa deve ser distinguida das representações da Coisa.”
+(Projeto para uma Psicologia Científica, 1895 — in Gesammelte Werke, Nachtragsband)
+Freud está propondo que há uma diferença entre a Coisa (das Ding) — o objeto original de satisfação em sua realidade bruta — e as representações da Coisa — as imagens, as memórias, os significantes que tentam capturá-la.
+Lacan vai pegar essa distinção e levá-la ao extremo.
+
+Das Ding — A Coisa
+Das Ding é o conceito mais difícil do Seminário VII — e o mais importante. Vale trabalhar com cuidado.
+A Coisa não é um objeto no sentido ordinário. Não é o seio real da mãe, não é a mãe como pessoa, não é nenhum objeto específico que o sujeito desejou e perdeu.
+A Coisa é o que está no coração do desejo — o núcleo irredutível em torno do qual o desejo circula sem nunca alcançar. É o que o desejo busca sem saber que busca, o que cada objeto de desejo parece ser sem nunca ser.
+Lacan formula isso de forma que é simultaneamente precisa e desconcertante:
+«Das Ding se présente au niveau de l’expérience inconsciente comme ce qui pose déjà la question de son lieu. Das Ding est là où l’on souffre.»
+“Das Ding se apresenta ao nível da experiência inconsciente como o que já coloca a questão do seu lugar. Das Ding é onde se sofre.”
+(Séminaire VII, 1959-60 — Seuil, p. 75)
+Das Ding é onde se sofre — é uma formulação que tem a qualidade de uma descoberta clínica, não de uma abstração filosófica. O sofrimento não está nos objetos que o sujeito perdeu ou não alcançou — está no lugar vazio em torno do qual o desejo circula, o lugar que nenhum objeto pode preencher completamente.
+
+A estrutura do vaso — o melhor exemplo que Lacan usa
+No Seminário VII, Lacan usa um exemplo para ilustrar das Ding que é um dos mais elegantes de toda a obra — e que vale trabalhar em detalhe porque é concreto o suficiente para ancorar o conceito.
+Ele começa com Heidegger — especificamente com a análise que Heidegger faz do vaso em A Coisa (1950). Heidegger propõe que o vaso é constituído pelo vazio que contém — que o que faz um vaso ser um vaso não é o barro com que é feito, mas o vazio interior que o barro circunscreve.
+Lacan usa isso para das Ding:
+«Le vase est fait pour représenter l’existence du vide au centre du réel qui s’appelle la Chose. Ce vide, comme tel, est représenté. La Chose n’est pas le vase — c’est le vide que le vase représente.»
+“O vaso é feito para representar a existência do vazio no centro do Real que se chama a Coisa. Esse vazio, como tal, é representado. A Coisa não é o vaso — é o vazio que o vaso representa.”
+(Séminaire VII, 1959-60 — Seuil, p. 148)
+O vaso é feito de barro — matéria, presença, objeto. Mas o que o vaso é — o que o torna um vaso — é o vazio que ele circunscreve e representa. O barro não é o vaso. O vazio é o vaso.
+Agora a analogia com o desejo:
+Os objetos de desejo — as pessoas que amamos, as coisas que buscamos, os objetivos que perseguimos — são como o barro do vaso. São a presença material, o que podemos nomear, o que parece ser o objeto do desejo.
+Mas o que o desejo é — o que o move, o que o organiza — é o vazio em torno do qual esses objetos se organizam. Das Ding é esse vazio — não os objetos que o circunscrevem, mas o vazio que eles representam sem ser.
+
+A consequência — o desejo é sempre desejo de outra coisa
+Isso tem uma implicação clínica que todo analista reconhece mas que raramente é formalizada com essa precisão:
+Nenhum objeto satisfaz completamente o desejo. Não porque o objeto seja inadequado, não porque o sujeito seja exigente demais, não porque a relação seja disfuncional. Mas porque o que o desejo busca — das Ding — não é nenhum objeto particular. É o vazio que está no coração do desejo — e que nenhum objeto pode preencher porque não é da ordem dos objetos.
+Quando o sujeito consegue o que desejava — a relação, o emprego, a conquista — frequentemente experimenta um esvaziamento. Era isso? O objeto foi alcançado, mas das Ding não foi alcançado — porque das Ding nunca era o objeto específico. Era o vazio em torno do qual o objeto específico circulava.
+Lacan vai formular isso de uma forma que tem a qualidade de um diagnóstico sobre a condição humana:
+«Le désir de l’homme, c’est le désir de l’Autre.»
+“O desejo do homem é o desejo do Outro.”
+(Séminaire VII, 1959-60 — Seuil, p. 134)
+O desejo não é desejo de um objeto — é desejo do Outro. Não no sentido de desejar ser desejado pelo outro imaginário (embora isso também aconteça). No sentido de que o desejo é estruturado pelo campo do Outro simbólico — é determinado por uma lei, por uma proibição, por uma falta que é da ordem do Simbólico, não da experiência individual.
+
+A lei e o desejo — por que a proibição não antecede o desejo mas o constitui
+Aqui está um dos movimentos mais contraintuitivos do Seminário VII — e um dos mais clinicamente relevantes.
+O senso comum assume que o desejo precede a lei — que primeiro há um desejo natural, e depois vem a proibição que o restringe. A criança quer o seio, e a lei (o pai, a cultura, a proibição do incesto) diz não.
+Lacan propõe o inverso: a lei constitui o desejo. Não há desejo antes da proibição — é a proibição que produz o desejo como tal.
+Para entender isso, é preciso voltar a das Ding. O objeto original — o seio, a mãe, o objeto de satisfação primária — não é proibido porque é desejado. É desejado porque é proibido. A proibição é o que transforma um objeto de satisfação num objeto de desejo.
+Lacan usa a formulação paradoxal:
+«La Loi et le désir refoulé sont une seule et même chose.»
+“A Lei e o desejo recalcado são uma única e mesma coisa.”
+(Séminaire VII, 1959-60 — Seuil, p. 83)
+A lei que proíbe e o desejo que é proibido são dois aspectos do mesmo fenômeno. Não há desejo sem lei — e não há lei sem o desejo que ela proíbe e ao mesmo tempo constitui.
+
+O exemplo concreto — o fruto proibido
+O Gênesis é o exemplo que a cultura ocidental desenvolveu para essa estrutura — e que Lacan leria com precisão:
+Deus proíbe a Adão e Eva de comer o fruto da árvore do conhecimento. Antes da proibição — no Paraíso — não há desejo no sentido pleno. Há satisfação, há plenitude, há ausência de falta. É exatamente isso que torna o Paraíso o Paraíso — e também o que o torna, em certo sentido, morto. Sem falta, sem lei, sem proibição — não há desejo.
+A serpente não cria o desejo do fruto. A proibição de Deus é que cria o desejo do fruto — ao nomear o fruto como proibido, institui o fruto como objeto de desejo. Antes da proibição, o fruto era apenas mais uma fruta entre outras. Depois da proibição, é das Ding — o objeto em torno do qual o desejo se organiza.
+E quando Adão e Eva comem o fruto — quando o objeto proibido é alcançado — o resultado não é satisfação plena. É a expulsão do Paraíso, a descoberta da falta, a entrada na condição humana marcada pela lei e pelo desejo insatisfeito. Comer o fruto não resolve o desejo — inaugura o desejo como estrutura permanente da experiência humana.
+
+Das Ding e o objeto a — a distinção
+Aqui vale introduzir uma distinção que vai ser central no próximo bloco mas que precisa ser antecipada para que das Ding faça sentido:
+Das Ding e o objet petit a não são a mesma coisa — mas estão relacionados de forma que confunde se não for explicitada.
+Das Ding é o vazio original — o que está no coração do desejo, o Real irredutível, o que nunca pode ser alcançado porque nunca foi um objeto específico.
+O objet petit a — que Lacan vai desenvolver nos Seminários subsequentes — é o objeto que causa o desejo. Não o objeto que o desejo busca, mas o objeto que o pôs em movimento. É o que ficou do objeto original após a perda — não das Ding em si, mas o traço, o resto, o fragmento que representa das Ding sem ser das Ding.
+A distinção mais simples:
+Das Ding — o vazio, o Real, o impossível.
+Objet petit a — o objeto que representa esse vazio, que o circunscreve sem o preencher, que causa o desejo sem satisfazê-lo.
+É como a diferença entre o vazio do vaso e um pedaço de barro específico que dá forma a um lado do vaso. O vazio é das Ding. O barro específico — a forma que o vaso tem — é o objet a.
+
+Jouissance — o gozo
+É no Seminário VII que o conceito de jouissance — gozo — aparece de forma sistemática pela primeira vez, e que vai ser central para toda a teoria lacaniana posterior.
+Jouissance é uma palavra francesa que significa simultaneamente prazer, gozo, e fruição — e que tem uma conotação sexual que o português gozo captura melhor do que o inglês enjoyment. Lacan a usa de forma técnica que vai além de qualquer um desses sentidos.
+O gozo em Lacan não é prazer. É algo além do prazer — e frequentemente incompatível com ele:
+«La jouissance est ce qui ne sert à rien.»
+“O gozo é o que não serve para nada.”
+(Séminaire XX, 1972-73 — Seuil, p. 10)
+O prazer, em Freud, serve à redução de tensão — é o princípio do prazer, a tendência do aparelho psíquico a reduzir a excitação ao mínimo. O gozo em Lacan é o oposto: é a satisfação que excede o prazer, que vai além da redução de tensão, que pode ser dolorosa, que o sujeito busca compulsivamente mesmo ao custo de seu bem-estar.
+
+A lei do gozo — por que o gozo é proibido
+Lacan propõe que o gozo — no sentido de satisfação plena, de reunião com das Ding, de completude — é o que a lei proíbe. E é o que a lei, ao proibir, torna objeto de busca incessante.
+«La jouissance est interdite à qui parle, comme telle — ou encore, elle ne peut être dite qu’à demi.»
+“O gozo é proibido a quem fala, como tal — ou então, só pode ser dito pela metade.”
+(Séminaire VII, 1959-60 — Seuil, p. 227)
+A entrada na linguagem — no Simbólico — é o que proíbe o gozo pleno. O sujeito que fala não pode gozar completamente — porque a linguagem introduz a falta, a diferença, o que não pode ser dito. O gozo pleno seria a reunião com das Ding — com o objeto original — que a lei do Simbólico torna impossível.
+O que resta, depois da proibição, é o gozo parcial — o gozo do sintoma, o gozo do corpo, o gozo que o sujeito encontra nas formações do inconsciente. Não a satisfação plena de das Ding, mas os substitutos que o Simbólico permite.
+
+O imperativo ético lacaniano — “não ceder de seu desejo”
+O Seminário VII culmina numa formulação que é a proposta ética mais original de Lacan — e que vai contra o senso comum de forma radical:
+«La seule chose dont on puisse être coupable, c’est d’avoir cédé sur son désir.»
+“A única coisa da qual se pode ser culpado é ter cedido de seu desejo.”
+(Séminaire VII, 1959-60 — Seuil, p. 368)
+Não ceder de seu desejo — este é o imperativo ético lacaniano. Não um imperativo moral no sentido de seguir uma lei ou um código. Um imperativo sobre a relação do sujeito com seu próprio desejo.
+O que significa ceder de seu desejo? Significa abandonar o que genuinamente organiza o desejo do sujeito — substituí-lo pela demanda do Outro, pela lei do grupo, pelo conforto da identificação. É o que o sujeito faz quando troca seu desejo singular pela aprovação do Outro — quando aceita uma versão de si mesmo que o Outro valida em vez de sustentar o que é genuinamente seu.
+O que significa não ceder? Não é fazer o que se quer no sentido libertário. É sustentar a singularidade do próprio desejo — mesmo quando o Outro não valida, mesmo quando é custoso, mesmo quando produz isolamento.
+
+A conexão com Antígona
+O exemplo que Lacan usa no Seminário VII para ilustrar o imperativo de não ceder de seu desejo é Antígona — e é uma das leituras mais brilhantes de toda a obra.
+Antígona insiste em enterrar seu irmão Polinices — mesmo que Creonte tenha proibido o enterro, mesmo que isso signifique sua própria morte. Ela não cede. Não porque siga uma lei divina que supera a lei humana — mas porque há algo nela que não pode fazer de outra forma. Há um desejo que é absolutamente seu, que não pode ser negociado com nenhuma autoridade, que sustenta mesmo ao custo da vida.
+Lacan lê Antígona não como heroína moral — mas como sujeito que não cedeu de seu desejo. E é isso que a torna ao mesmo tempo insuportável para o mundo social (Creonte, a pólis) e esplendorosa como figura trágica.
+A conexão com o que você descreveu anteriormente — o sujeito como o que sobra quando despimos tudo que é expectativa, conformidade, label — é precisa aqui. O desejo de Antígona é precisamente o que sobra depois que todas as identificações são tiradas — o traço singular que não pode ser cedido sem que o sujeito deixe de ser o que é.
+
+Pausa
+O Seminário VII estabeleceu os conceitos que vão organizar toda a teoria lacaniana do desejo e do gozo:
+Das Ding — o vazio Real no coração do desejo, o que nenhum objeto pode preencher.
+O desejo como desejo do Outro — estruturado pela lei, pela falta, pelo Simbólico.
+A lei como constitutiva do desejo — não antecedendo o desejo mas produzindo-o.
+Jouissance — o gozo que excede o prazer, que é proibido pela lei e buscado compulsivamente no sintoma.
+O imperativo ético — não ceder de seu desejo.
+Antes de avançar para o Seminário XI — os Quatro Conceitos Fundamentais, onde tudo isso vai aparecer de forma mais sistematizada e mais clínica — alguma questão sobre o Seminário VII?
+Em particular: a formulação não ceder de seu desejo — como ressoa com o que discutimos sobre a experiência queer e sobre o sujet como o que sobra quando as identificações são tiradas?​​​​​​​​​​​​​​​​
+
+Fase V · Semana 24
+Seminário XI — Os Quatro Conceitos Fundamentais da Psicanálise (1964)
+Le Séminaire, Livre XI: Les quatre concepts fondamentaux de la psychanalyse
+
+O contexto — excomunhão e recomeço
+O Seminário XI começa num momento de ruptura institucional ainda mais severa do que a de 1953.
+Em janeiro de 1963, a IPA — International Psychoanalytic Association — deu um ultimato à Société Française de Psychanalyse: Lacan devia ser removido da lista de analistas didatas — os analistas autorizados a conduzir análises de formação — ou a sociedade não seria reconhecida pela IPA.
+A razão oficial era técnica: as sessões de duração variável. A razão real era política e teórica — Lacan havia se tornado uma figura demasiado independente, demasiado influente, e demasiado crítica do establishment psicanalítico para ser tolerada dentro das estruturas institucionais.
+Em novembro de 1963, Lacan foi efetivamente excluído. Ele chamou isso de excomunhão — usando deliberadamente o vocabulário religioso, num gesto que apontava tanto para a estrutura da instituição psicanalítica quanto para as suas próprias raízes no catolicismo.
+O Seminário XI foi conduzido a partir de janeiro de 1964 na École Normale Supérieure — num contexto completamente diferente dos seminários anteriores. Não mais num hospital psiquiátrico, não mais num contexto de formação analítica. Numa escola de filosofia, para um público predominantemente de filósofos, escritores, e intelectuais — entre os quais Louis Althusser, que havia organizado o acolhimento.
+É o contexto mais filosófico dos seminários — e paradoxalmente o mais clínico dos textos de Lacan. A combinação produz algo singular: um seminário em que a teoria é construída com rigor filosófico mas nunca perde o ancoramento na situação analítica concreta.
+
+Por que este é o seminário mais importante
+O Seminário XI é o único que Lacan revisou e publicou em vida — em 1973, nove anos após as sessões. É o texto mais sistematizado da obra lacaniana. E é onde os conceitos centrais — que vinham sendo desenvolvidos desde 1953 — aparecem articulados de forma que permite leitura mais direta do que qualquer outro seminário.
+Os quatro conceitos que organizam o seminário são:
+O inconsciente — relido contra Freud e contra a tradição.
+A repetição — automaton e tychê, retomados do Seminário II.
+A transferência — relida como sujet supposé savoir.
+A pulsão — relida em relação ao objeto a.
+Vamos trabalhar cada um — com o texto, com exemplos, e com a conexão com o que já estudamos.
+
+Conceito I — O Inconsciente
+Lacan abre o Seminário XI com uma pergunta que poderia parecer elementar mas que é radicalmente desestabilizadora:
+«La question que je pose est celle-ci: qu’est-ce que l’inconscient freudien? Non pas ce qu’on en dit, mais ce qu’il en est.»
+“A questão que coloco é esta: o que é o inconsciente freudiano? Não o que se diz sobre ele, mas o que ele é.”
+(Séminaire XI, 1964 — Seuil, p. 17)
+É uma abertura que implica que a tradição — incluindo a tradição lacaniana dos seminários anteriores — disse algo sobre o inconsciente que precisa ser questionado.
+O que Lacan propõe no Seminário XI é que o inconsciente não é um lugar — não é o sistema Ics da primeira tópica freudiana, não é o Id da segunda tópica, não é o repositório do recalcado. O inconsciente é um modo de falha — é o que aparece quando a cadeia simbólica tropeça, quando o discurso hesita, quando algo irrompeu que não estava previsto:
+«L’inconscient se manifeste comme ce qui vacille dans un sujet, dans quelque chose qui ne marche pas — dans quelque chose qui s’arrête, qui accroche, qui interrompt.»
+“O inconsciente se manifesta como o que vacila num sujeito, em algo que não funciona — em algo que para, que trava, que interrompe.”
+(Séminaire XI, 1964 — Seuil, p. 25)
+O inconsciente não está atrás da fala — emerge nas falhas da fala. Não é o que está escondido debaixo do consciente — é o que aparece quando o consciente falha. O lapso, o ato falho, o chiste, o sonho — não são janelas para um lugar escondido. São o próprio inconsciente acontecendo — no momento da falha, no intervalo entre significantes.
+
+O inconsciente como pulsação temporal
+Uma das formulações mais originais do Seminário XI — e que não está em nenhum texto anterior com essa clareza — é a ideia do inconsciente como pulsação temporal:
+«L’inconscient, c’est entre la cause et ce qui en est affecté — il y a toujours quelque chose de clochant. L’inconscient se présente comme quelque chose qui ouvre et se ferme.»
+“O inconsciente é entre a causa e o que é por ela afetado — há sempre algo que claudica. O inconsciente se apresenta como algo que se abre e se fecha.”
+(Séminaire XI, 1964 — Seuil, p. 25)
+O inconsciente não é um estado permanente — é uma abertura que aparece e desaparece. Abre-se numa falha da cadeia significante — num lapso, numa hesitação, num sonho — e imediatamente se fecha, é recoberto pelo discurso consciente que tenta reparar a falha.
+É por isso que a análise é um processo longo e não uma revelação: o inconsciente abre em momentos específicos e fecha imediatamente. O trabalho analítico é criar condições para que as aberturas sejam mais frequentes — e para que o que abre possa ser sustentado o tempo suficiente para ser elaborado antes de se fechar.
+
+O exemplo clínico que Lacan usa — o sonho do filho morto
+Lacan usa no Seminário XI um dos sonhos que Freud analisa em A Interpretação dos Sonhos — o sonho do pai cujo filho havia morrido.
+O pai havia passado dias velando o corpo do filho. Quando finalmente dormiu, sonhou que o filho se aproximava dele e dizia: Pai, não vês que estou queimando?
+O pai acordou e descobriu que uma vela havia tombado e havia posto fogo nas vestes do filho morto.
+Freud analisa o sonho como realização de desejo — o desejo do pai de que o filho ainda estivesse vivo.
+Lacan relê: o que o sonho revela é que o Real — a morte do filho, o corpo queimando — irrompe no Simbólico na forma de uma frase que o filho não poderia ter dito. Pai, não vês que estou queimando? é uma frase que pertence ao campo da linguagem — ao Simbólico — mas que carrega o Real da morte e do fogo.
+O pai acorda porque o sonho se tornou insuportável — não porque o fogo o acordou (o fogo era externo e poderia ter sido ignorado um pouco mais). Acorda porque a frase do filho morto — o filho que fala quando não pode falar — toca o Real de forma que o sono não pode mais conter.
+«Ce qui éveille le père, c’est cette réalité horrible, que le fils est vraiment mort — et la culpabilité que cela représente.»
+“O que desperta o pai é essa realidade horrível — que o filho está realmente morto — e a culpa que isso representa.”
+(Séminaire XI, 1964 — Seuil, p. 57)
+O sonho é o Simbólico tentando processar o Real — e falhando. O momento em que falha — o momento em que a frase do filho morto torna o Real insuportável — é o momento em que o inconsciente se abre. O despertar é a recusa de suportar mais o Real que o sonho havia deixado irromper.
+
+Conceito II — A Repetição: Automaton e Tychê
+Retomando os conceitos que apareceram no Seminário II — mas agora com mais precisão e com ancoragem na clínica.
+Lacan usa dois termos aristotélicos para distinguir dois modos de repetição:
+Automaton — a repetição da rede de significantes. É a repetição que parece mecânica, previsível, que se reproduz segundo a lógica interna da cadeia simbólica. É o que o paciente faz quando repete seus padrões — repete porque a cadeia de significantes que o organiza produz sempre os mesmos efeitos, independente das circunstâncias externas.
+Tychê — o encontro com o Real. É o que interrompe o automaton — o acidente, a ruptura, o que não estava previsto na cadeia. É o que Lacan chama de encontro faltado (rencontre manquée) — o encontro com o Real que o sujeito nunca consegue sustentar completamente, que sempre se esquiva no momento em que deveria ser tocado.
+«La tychê, nous l’avons traduite par rencontre du réel — le réel en tant qu’il peut manquer à la rencontre, c’est, si j’ose dire, son affaire propre.»
+“A tychê, nós a traduzimos por encontro com o Real — o Real na medida em que pode faltar ao encontro, é, se ouso dizer, seu negócio próprio.”
+(Séminaire XI, 1964 — Seuil, p. 53)
+
+O que significa encontro faltado
+O encontro faltado é uma das formulações mais densas do Seminário XI — e uma das mais clinicamente relevantes.
+O sujeito busca o Real — busca a satisfação completa, a reunião com das Ding, o gozo pleno. Mas nunca encontra. O Real está sempre um passo adiante, sempre se esquivando no momento em que parece alcançável.
+Não é que o Real não existe — é que o encontro com o Real é estruturalmente falho. Quando o sujeito se aproxima o suficiente para tocar o Real — o momento do orgasmo, o instante antes da morte, o pico do gozo — o encontro já passou, já foi perdido, já é memória.
+É por isso que o desejo nunca se satisfaz completamente — não porque o objeto seja inadequado, mas porque o encontro com o Real é sempre faltado por estrutura.
+A repetição — o automaton — é o que o sujeito faz em resposta ao encontro faltado: repete, tenta de novo, busca novamente a tychê que sempre se esquiva. A compulsão à repetição de Freud, relida por Lacan, não é a pulsão de morte operando em silêncio — é o sujeito tentando repetidamente o encontro com o Real que sempre falha.
+
+Conceito III — A Transferência: o Sujet Supposé Savoir
+A releitura da transferência no Seminário XI é onde Lacan mais se distancia da tradição clínica — e onde o conceito de sujeito suposto saber (sujet supposé savoir) aparece pela primeira vez de forma sistemática.
+A transferência em Freud é a reedição das relações objetais antigas na situação analítica — o paciente transfere para o analista os afetos que pertenciam às figuras parentais. É um fenômeno de repetição — o passado se reinstala no presente.
+Lacan não rejeita isso — mas propõe que há algo mais fundamental na base da transferência:
+«Le sujet supposé savoir est pour nous l’axe à partir duquel s’articule tout ce qui s’est passé de la psychanalyse, depuis l’origine.»
+“O sujeito suposto saber é para nós o eixo a partir do qual se articula tudo o que se passou na psicanálise, desde a origem.”
+(Séminaire XI, 1964 — Seuil, p. 210)
+O sujeito suposto saber não é o analista como pessoa — é uma posição que o paciente atribui ao analista. É a suposição de que o analista sabe — sabe o que o paciente não sabe sobre si mesmo, sabe o sentido do sintoma, sabe o que está na origem do sofrimento.
+Essa suposição é o motor da transferência — e é o que torna a análise possível. Sem a suposição de saber, o paciente não fala livremente, não associa, não se arrisca. É porque supõe que o analista sabe que o paciente produz material que não produziria de outra forma.
+
+O paradoxo técnico — e a posição do analista
+Mas aqui está o paradoxo que Lacan identifica e que tem consequências técnicas radicais:
+A suposição de saber é o que torna a análise possível — e é também o que a ameaça.
+Se o analista confirma a suposição de saber — se age como se de fato soubesse, se oferece interpretações como verdades sobre o paciente, se ocupa o lugar de quem tem o saber — reforça a transferência imaginária e impede que a análise avance. O paciente fica fixado na relação com o analista como figura de saber — e o objetivo do tratamento (o sujeito encontrar seu próprio saber sobre si mesmo) não pode ser alcançado.
+A posição do analista lacaniano é precisamente não confirmar a suposição de saber — mas também não a destruir prematuramente. É habitar a posição de sujeito suposto saber de forma que o paciente possa depositar a suposição, trabalhar com ela, e eventualmente ver através dela.
+O fim de análise, em termos lacanianos, é o momento em que a suposição de saber colapsa — em que o paciente reconhece que não há Outro que saiba, que o saber que buscava no analista era uma fantasia, e que o que há é o sujeito com seu próprio desejo e seu próprio sintoma.
+«La liquidation du transfert, c’est la destitution du sujet supposé savoir.»
+“A liquidação da transferência é a destituição do sujeito suposto saber.”
+(Séminaire XI, 1964 — Seuil, p. 232)
+
+A conexão com o debate relacional
+Aqui a tensão com Mitchell e Benjamin fica maximamente clara.
+Mitchell propunha que a self-disclosure do analista — revelar sua experiência pessoal quando relevante — era um instrumento legítimo e às vezes necessário. O analista transparente, que reconhece sua participação no campo, que não pretende estar fora da relação.
+Lacan diria: a transparência do analista destrói o sujeito suposto saber de forma que não serve ao paciente — porque destrói prematuramente a fantasia que é o motor da análise. O analista que se revela como pessoa comum, com suas dúvidas e suas limitações, pode estar servindo às suas próprias necessidades de ser visto como autêntico — não às necessidades do paciente de trabalhar com a transferência.
+Mas Benjamin responderia: o analista que se recusa à transparência e ocupa o lugar de sujeito suposto saber está exercendo um poder que não reconhece como poder — e essa não-transparência é ela mesma uma intervenção que tem efeitos, independente de ser nomeada como tal.
+O debate permanece aberto — e é genuíno. Não há resolução simples. Mas a posição lacaniana tem uma coerência interna que vale reconhecer: se o objetivo é que o paciente encontre seu próprio desejo para além das identificações com o Outro, então o analista que se oferece como pessoa com quem se identificar está trabalhando contra esse objetivo, ainda que com as melhores intenções.
+
+Conceito IV — A Pulsão e o Objeto a
+O quarto conceito é onde das Ding — que trabalhamos no Seminário VII — encontra sua formulação clínica mais precisa.
+Lacan relê a teoria freudiana da pulsão — que já trabalhamos em Pulsões e seus Destinos — mas com uma modificação que é ao mesmo tempo sutil e radical.
+Freud havia proposto que a pulsão tem quatro componentes: fonte (Quelle), pressão (Drang), objeto (Objekt), e meta (Ziel). E havia proposto que a meta da pulsão é a satisfação — a redução da tensão que a pulsão cria.
+Lacan mantém os quatro componentes — mas modifica radicalmente a meta:
+«La pulsión n’atteint pas sa satisfaction. Elle fait le tour de l’objet — elle le contourne. Et c’est dans ce contournement que réside sa satisfaction.»
+“A pulsão não atinge sua satisfação. Ela faz o rodeio do objeto — ela o contorna. E é nesse contornar que reside sua satisfação.”
+(Séminaire XI, 1964 — Seuil, p. 168)
+A pulsão não busca alcançar o objeto — busca fazer o rodeio do objeto. A satisfação não está no objeto — está no movimento de contornar o objeto, no circuito que a pulsão traça ao redor do que Lacan chama de objet petit a.
+
+O objet petit a — a formulação definitiva
+O objet petit a — objeto pequeno a — é o conceito mais original de toda a teoria lacaniana. É o único conceito que Lacan afirmou ser genuinamente sua contribuição — que não estava em Freud nem em qualquer outra tradição.
+O a é de autre — o outro. Mas é o autre com minúscula — não o Outro simbólico, mas algo do outro que ficou no sujeito após a separação primária.
+A melhor forma de introduzir o objet a é pela via da separação:
+Quando o bebê se separa da mãe — quando o Simbólico introduz a falta, quando das Ding torna-se irrecuperável — algo fica como resto desse processo. Não das Ding em si — não o objeto original pleno. Mas um fragmento, um traço, um resto que representa das Ding sem ser das Ding.
+Lacan dá exemplos concretos de objetos a — e a lista é deliberadamente heterodoxa:
+O seio — mas não o seio como órgão. O seio como objeto que se destaca do corpo da mãe no momento da separação.
+As fezes — o primeiro objeto que o bebê cria e doa. O primeiro objeto que é produzido e depois perdido.
+A voz — não a voz como som físico, mas a voz como objeto que se destaca do corpo do Outro. A voz da mãe que o bebê internaliza — e que depois ressoa internamente independente da mãe real.
+O olhar — não o olho como órgão, mas o olhar como objeto. O momento em que se sente olhado — não pelo olho de alguém específico, mas pelo olhar como tal.
+O que une esses exemplos é que todos são objetos de borda — objetos que se formam nos pontos em que o corpo se separa do outro, nas bordas onde interno e externo se distinguem. E todos são objetos que se perdem — o seio é retirado, as fezes são expelidas, a voz ressoa e some, o olhar se desvia.
+
+O objet a como causa do desejo
+A formulação que Lacan usa para o objet a no Seminário XI é a mais precisa:
+«L’objet a, c’est la cause du désir — non pas l’objet visé par le désir, mais ce qui met le désir en mouvement.»
+“O objeto a é a causa do desejo — não o objeto visado pelo desejo, mas o que põe o desejo em movimento.”
+(Séminaire XI, 1964 — Seuil, p. 178)
+O objet a não é o que o desejo busca — é o que o fez começar. É o objeto que causou o desejo, que o pôs em movimento, que o organiza — mas que o desejo nunca pode alcançar diretamente porque está sempre atrás, sempre na origem, sempre perdido antes que possa ser recuperado.
+
+Um exemplo concreto — Proust e a madeleine revisitados
+A madeleine de Proust que já usamos em outros contextos fica mais precisa aqui.
+O que a madeleine provoca não é uma lembrança simples — é o retorno de um estado inteiro, de uma qualidade de experiência que parece completa, que parece incluir algo que a vida ordinária não tem.
+Em termos lacanianos: a madeleine é um objet a — um objeto de borda que ficou do passado como resto, como traço, e que ao ser encontrado novamente (pelo cheiro, pelo sabor) reactiva o circuito pulsional que o organizou. Não é das Ding que retorna — das Ding nunca retorna. É o objet a que ressurge — o objeto que representa das Ding sem ser das Ding.
+É por isso que a experiência da madeleine é ao mesmo tempo de plenitude e de melancolia — de ter tocado algo e de imediatamente sentir que é fugidio. O objet a foi encontrado — mas das Ding permanece irrecuperável. Daí o Good Riddance que você mencionou muito antes no currículo — a nostalgia por algo que talvez nunca tenha sido exatamente o que a nostalgia imagina. O objeto que a memória constrói como tendo sido pleno nunca foi pleno — era já objet a, já representação de um vazio, já substituto de das Ding.
+
+O circuito da pulsão — o rodeio do objeto
+Com o objet a estabelecido, podemos entender o que Lacan quis dizer quando descreveu a pulsão como fazendo o rodeio do objeto.
+A pulsão não vai em linha reta em direção a um objeto e o alcança. Ela traça um circuito — sai de uma zona erógena, contorna o objet a, e retorna à zona erógena. A satisfação não está no objeto alcançado — está no circuito, no rodeio, no movimento de contornar.
+Lacan usa uma imagem que é simultaneamente anatômica e topológica:
+«La pulsão fait le tour de l’objet comme une bouche qui s’ouvre et se ferme autour du sein — sans jamais atteindre le sein, mais trouvant sa satisfaction dans le mouvement même.»
+“A pulsão faz o rodeio do objeto como uma boca que se abre e se fecha em torno do seio — sem nunca alcançar o seio, mas encontrando sua satisfação no próprio movimento.”
+(Séminaire XI, 1964 — Seuil, p. 170 — paráfrase)
+A satisfação da pulsão oral não está em alcançar o seio e esgotar o que ele tem. Está no movimento de sugar — no circuito de abertura e fechamento, de aproximação e distância, que a boca traça em torno do seio. É o rodeio que satisfaz — não o objeto alcançado.
+Isso explica clinicamente algo que a teoria do prazer de Freud não conseguia explicar completamente: por que o sujeito se satisfaz no sintoma mesmo quando o sintoma produz sofrimento. O sintoma é um circuito pulsional que traça seu rodeio em torno do objet a — e encontra satisfação no próprio rodeio, independente de o sujeito consciente querer ou não essa satisfação.
+
+Os quatro conceitos como conjunto
+Os quatro conceitos do Seminário XI não são independentes — formam um sistema:
+O inconsciente se manifesta nas falhas da cadeia simbólica — nas aberturas da pulsação temporal.
+A repetição é o que o sujeito faz em resposta ao encontro faltado com o Real — o automaton tenta repetir a tychê que sempre se esquiva.
+A transferência é organizada pela suposição de saber — e sua liquidação é o momento em que essa suposição colapsa e o sujeito encontra seu próprio desejo.
+A pulsão não busca o objeto mas faz o rodeio do objet a — e encontra satisfação no próprio circuito, não no objeto alcançado.
+
+Uma nota sobre o que o Seminário XI representa no currículo
+O Seminário XI é o ponto de maior densidade e de maior clareza simultâneas na obra lacaniana. É o texto em que tudo que veio antes — o estádio do espelho, o Discurso de Roma, os primeiros seminários, o Seminário VII — aparece articulado de forma que permite verificação e crítica genuínas.
+E é também o texto em que as conexões com as tradições anteriores são mais visíveis:
+O objet a dialoga com os objetos internos de Klein — mas é mais preciso sobre o que o objeto faz (causa o desejo) do que sobre o que ele é (bom ou mau).
+O sujeito suposto saber dialoga com a transferência de todas as tradições — mas formaliza algo que estava implícito e raramente nomeado: que a transferência é organizada não pela repetição do passado mas pela suposição de que o analista tem acesso a uma verdade que o paciente não tem.
+O circuito pulsional dialoga com a compulsão à repetição de Freud — mas substitui a hipótese biológica da pulsão de morte por uma hipótese estrutural: a repetição não serve à morte, serve ao rodeio do objet a.
+
+Pausa de consolidação
+Antes de avançar para o Seminário XX (Encore) — onde o gozo e as fórmulas da sexuação vão aparecer, e onde a teoria encontra sua formulação mais perturbadora sobre a diferença sexual — alguma questão sobre o Seminário XI?
+Em particular: o circuito da pulsão como rodeio do objeto — e a ideia de que a satisfação está no movimento e não no objeto alcançado — ressoa com algo que você reconhece na experiência clínica ou cultural?​​​​​​​​​​​​​​​​
+
+Fase V · Semana 27
+Seminário XXIII — Le Sinthome (1975–76)
+Le Séminaire, Livre XXIII: Le sinthome
+
+O contexto — Joyce e o fim do ensino
+O Seminário XXIII é conduzido quando Lacan tem 74 anos — e é um dos últimos seminários coerentemente desenvolvidos antes que o declínio cognitivo dos anos seguintes tornasse os seminários cada vez mais fragmentados.
+O tema central é James Joyce — especificamente Finnegans Wake, o último e mais impenetrável texto de Joyce. A escolha não é arbitrária: Lacan propõe que Joyce representa um caso clínico único — um sujeito cuja relação com a linguagem e com o ego era tão particular que ilumina algo sobre a estrutura psíquica que nenhum caso clínico ordinário consegue mostrar.
+E ao mesmo tempo — e isto é o que torna o seminário mais do que uma leitura literária — Joyce serve a Lacan para introduzir um conceito que vai reformular completamente o objetivo da análise: o sinthome.
+
+A grafia — sinthome versus symptôme
+A primeira coisa a notar é a grafia. Lacan não usa symptôme — a palavra francesa para sintoma. Usa sinthome — uma grafia arcaica, do francês medieval, que aparece em textos do século XV.
+A escolha é deliberada e tem múltiplas camadas:
+É a grafia antiga do sintoma — antes da padronização ortográfica. É portanto uma forma de indicar que estamos lidando com algo mais primitivo, mais anterior, mais fundamental do que o sintoma no sentido clínico ordinário.
+Em inglês — que Joyce usava — sinthome soa como saint homme — homem santo. E soa também como saint Thomas — Santo Tomás de Aquino, o filósofo que Lacan menciona explicitamente no seminário. Há um jogo entre o sintoma como construção singular e a santidade como forma de habitá-la.
+E há uma alusão ao próprio Joyce — cuja relação com o catolicismo irlandês e com a figura do santo é central para entender sua obra.
+Lacan está anunciando pela grafia que o sinthome não é simplesmente o sintoma psicanalítico clássico — é algo diferente, mais fundamental.
+
+O nó borromeano — a estrutura que sustenta o sujeito
+Para entender o sinthome, é preciso introduzir o nó borromeano — que é a figura topológica central do último ensino de Lacan.
+O nó borromeano é composto de três anéis entrelaçados de uma forma específica: se qualquer um dos três for cortado, os outros dois se separam também. Nenhum dos três está diretamente ligado aos outros dois — cada um está ligado aos outros dois apenas pela presença do terceiro.
+Lacan propõe que os três registros — Real, Simbólico, e Imaginário — têm a estrutura do nó borromeano. Estão entrelaçados de forma que a remoção de qualquer um desfaz a totalidade. Não há RSI sem que os três estejam presentes e entrelaçados.
+
+    R
+   / \
+  S———I
+
+
+O que sustenta o sujeito é precisamente esse entrelaçamento — a forma como RSI se mantêm juntos produz o que chamamos de identidade, de continuidade, de sentido.
+
+O problema de Joyce — o nó que não fecha
+Lacan propõe que Joyce tinha um problema específico com o entrelaçamento de RSI — que os três registros não se mantinham unidos da forma ordinária. Havia uma falha no nó — um ponto em que o entrelaçamento não se completava.
+A causa dessa falha — em termos lacanianos — era uma relação problemática com o Nome-do-Pai. Não uma forclusão completa como na psicose — o que tornaria Joyce psicótico no sentido clínico estrito, o que Lacan não propõe diretamente. Mas uma inscrição frouxa, insuficiente, que deixava o nó ameaçado de se desfazer.
+Lacan usa um episódio específico da autobiografia de Joyce — descrito em Portrait of the Artist as a Young Man — como evidência clínica:
+Joyce adolescente é espancado por um grupo de colegas. O que é extraordinário na descrição de Joyce — e que Lacan lê como sintoma — é que durante o espancamento Joyce sente seu ego se desfazendo como a casca de uma fruta que cai. A agressão física é experienciada não como dor no corpo mas como dissolução do ego — como se o ego não tivesse a consistência suficiente para receber o impacto da agressão e mantê-la como experiência localizada.
+«Ce que Joyce décrit, c’est que quelque chose s’est défait — l’ego s’est effeuillé comme l’écorce d’un fruit. Ça, c’est le signe que le nœud n’était pas correctement noué.»
+“O que Joyce descreve é que algo se desfez — o ego se descascou como a casca de um fruto. Isso é o sinal de que o nó não estava corretamente atado.”
+(Séminaire XXIII, 1975-76 — Seuil, p. 147)
+
+O sinthome como quarto anel
+Aqui está o conceito central do seminário — e a contribuição mais original do último ensino.
+Se o nó borromeano de RSI não se fecha adequadamente — se há uma falha no entrelaçamento — o sujeito pode desenvolver um quarto anel que mantém os três unidos onde eles ameaçam se separar. Este quarto anel é o sinthome.
+Para Joyce, esse quarto anel foi a escrita. A relação de Joyce com a linguagem — especialmente em Ulysses e em Finnegans Wake — não é simplesmente a de um escritor produzindo literatura. É a de um sujeito usando a escrita como suplência — como o que mantém RSI unidos onde o Nome-do-Pai falhou em fazê-lo.
+Finnegans Wake — com sua linguagem que dissolve as fronteiras entre línguas, que faz os significantes proliferarem em múltiplos sentidos simultaneamente, que torna a leitura linear impossível — não é simplesmente experimentação estética. É o modo de gozo específico de Joyce com a linguagem, o circuito pulsional que encontrou sua satisfação no próprio material dos significantes, independente de qualquer comunicação com o leitor.
+Lacan vai ao ponto de dizer que Joyce não escrevia para ser lido — escrevia para existir. A escrita era o que o mantinha coeso.
+«Joyce s’est servi de l’écriture pour suppléer à ce qui manquait dans le nœud. Le sinthome, c’est ce qui fait tenir ensemble ce qui, autrement, se défait.»
+“Joyce se serviu da escrita para suprir o que faltava no nó. O sinthome é o que faz manter juntos o que, de outra forma, se desfaz.”
+(Séminaire XXIII, 1975-76 — Seuil, p. 21)
+
+A diferença entre sintoma e sinthome
+A distinção entre sintoma no sentido clínico clássico e sinthome é fundamental — e é onde o último ensino mais claramente revisa o que os seminários anteriores haviam proposto.
+O sintoma clínico — no sentido freudiano e no sentido dos primeiros seminários de Lacan — é uma formação de compromisso. É o que resulta do recalque, o retorno do reprimido em forma deformada. O sintoma tem um sentido que pode ser decifrado — é uma mensagem endereçada ao Outro. E o objetivo da análise é decifrar essa mensagem — tornar consciente o que estava inconsciente, dissolver o sintoma pela via da interpretação.
+O sinthome é diferente em natureza. Não é uma mensagem — não tem um sentido oculto que a interpretação pode revelar. É um modo de gozo — a forma singular pela qual um sujeito específico organiza sua relação com o Real. Não tem endereço — não é enviado ao Outro. É constitutivo — sem ele, o sujeito não se mantém coeso.
+A implicação clínica é radical: o sinthome não deve ser dissolvido pela análise. Deve ser reconhecido como o que o sujeito é — como o traço mais singular, mais irredutível, mais próprio. A saída da análise não é a eliminação do sinthome — é a identificação com ele.
+
+Identificação com o sinthome — o que isso significa
+O objetivo do último ensino de Lacan para a análise é o que ele chama de identificação com o sinthome — e é a saída mais estranha que qualquer teoria psicanalítica havia proposto.
+O sujeito entra na análise identificado com o sintoma como sofrimento — como algo que lhe foi feito, que o atrapalha, que gostaria de não ter. O neurótico obsessivo sofre com suas ruminações. O sujeito com fobia sofre com seus medos. O histérico sofre com seus sintomas somáticos.
+A saída da análise que o sinthome propõe não é a eliminação desse sofrimento — é uma transformação na relação do sujeito com ele. O sujeito que se identifica com seu sinthome reconhece o sintoma não como algo que lhe foi feito mas como o que ele é — como seu modo singular de existir, de gozar, de se relacionar com o Real.
+É uma saída que é ao mesmo tempo resignação e libertação — e a tensão entre os dois é irresolvível.
+«S’identifier au sinthome — c’est savoir faire avec son symptôme, s’arranger avec lui, sans pour autant chercher à le guérir ou à l’interpréter jusqu’au bout.»
+“Identificar-se com o sinthome — é saber fazer com seu sintoma, arranjar-se com ele, sem por isso procurar curá-lo ou interpretá-lo até o fim.”
+(Séminaire XXIII, 1975-76 — Seuil, p. 15 — paráfrase)
+
+Saber fazer — savoir faire
+A expressão que Lacan usa para descrever o objetivo — savoir faire — é deliberadamente coloquial, quase artesanal. Saber fazer com o sintoma — como um artesão sabe fazer com os materiais que tem disponíveis, mesmo que esses materiais sejam imperfeitos, mesmo que não sejam os ideais.
+Joyce sabia fazer com sua relação problemática com a linguagem — e o que fez com ela foi Finnegans Wake. Não resolveu o problema — usou o problema como material para construir algo que o mantinha coeso e que ao mesmo tempo era sua contribuição singular ao mundo.
+É uma imagem de saída da análise que não é a do sujeito curado, liberado, integrado — é a do sujeito artesão de si mesmo. Que conhece suas limitações, que conhece seus modos de gozo, que não está iludido sobre o que pode transformar — e que encontrou uma forma de trabalhar com o que tem.
+
+A conexão com tudo que discutimos
+O sinthome conecta vários fios que ficaram em aberto ao longo da Fase V:
+Com o bien-dire — o bem-dizer que mencionamos ao falar da neurose obsessiva. O savoir faire com o sinthome é a versão mais elaborada do bien-dire — não dizer a verdade sobre o sintoma, mas dizer de forma que o sujeito possa habitar sua singularidade.
+Com o imperativo ético do Seminário VII — não ceder de seu desejo. O sinthome é o que está no coração do desejo singular do sujeito — e identificar-se com ele é a forma mais radical de não ceder.
+Com a experiência queer — o sujeito que não encaixa nas identificações que o Outro oferece, que viveu como outsider, que não encontrou no campo simbólico disponível uma imagem que capturasse o que era. O sinthome é precisamente o traço que não encaixou — e a identificação com o sinthome é a saída que não passa pela normalização mas pelo reconhecimento da singularidade irredutível.
+É por isso que a teoria lacaniana — apesar de toda a sua bleakness, apesar de todas as suas limitações que discutimos — tem uma ressonância específica para sujeitos que viveram à margem das normas. Não porque prometa conforto, mas porque propõe que o não-encaixe não é falha — é o sinthome, o traço mais próprio, o que o sujeito é quando todas as identificações imaginárias são tiradas.
+
+O fim de análise — a destituição subjetiva
+O último ensino de Lacan propõe que o fim de análise tem uma qualidade específica que ele chama de destituição subjetiva (destitution subjective) — e que é talvez a formulação mais estranha e mais honesta sobre o que a análise pode produzir.
+A destituição subjetiva não é a destruição do sujeito — é o colapso das identificações imaginárias com que o sujeito havia se confundido. O sujeito que chega ao fim da análise não é mais o mesmo que entrou — não porque seja melhor, mais integrado, mais adaptado — mas porque não mais se confunde com as imagens com que se identificava.
+O que fica é o sujeito com seu sinthome — sem a ilusão de que poderia ser completamente outro, sem a expectativa de que o Outro poderia validar completamente o que é, sem a busca pelo objeto que completaria o desejo. Com o savoir faire — o saber artesanal de como trabalhar com o que se é.
+
+Uma nota sobre o que o Seminário XXIII representa no currículo
+O Seminário XXIII é o ponto em que a teoria lacaniana está mais próxima de responder à crítica de bleakness que você formulou — mas de uma forma que não suaviza a bleakness, apenas a transforma.
+A identificação com o sinthome não é alegre. Não promete satisfação, não promete completude, não promete que o sofrimento vai embora. Promete que o sujeito pode existir de forma que é genuinamente sua — sem precisar ser outra coisa, sem precisar ser aprovado pelo Outro, sem precisar curar o que é incurável.
+É uma saída que ressoa com certas tradições filosóficas — o estoicismo, o zen budismo, certas formas de existencialismo — mais do que com qualquer outra tradição psicanalítica. E é uma saída que tem uma dignidade específica para sujeitos cuja história foi de não encaixar — porque propõe que o não-encaixe não é o problema a ser resolvido. É o sinthome a ser habitado.
+
+Pausa de consolidação — Fase V
+Com o Seminário XXIII completamos o percurso principal da Fase V. O mapa do que foi coberto:
+O estádio do espelho — o ego como ficção identificatória, o Imaginário.
+O Discurso de Roma — fala plena e vazia, o inconsciente como discurso do Outro.
+Os Seminários I e II — os três registros RSI, o esquema L, o automaton e a tychê.
+O Seminário VII — das Ding, o desejo como desejo do Outro, o gozo, o imperativo ético.
+O Seminário XI — os quatro conceitos fundamentais, o objet a, o sujeito suposto saber.
+O Seminário XX — o gozo fálico e o gozo Outro, o não-todo, a inexistência d’A Mulher, a impossibilidade da relação sexual.
+O Seminário XXIII — o nó borromeano, o sinthome como quarto anel, a identificação com o sinthome, o savoir faire.
+
+Antes de avançar para a Fase VI — a síntese crítica — há algo da Fase V que você quer revisitar, aprofundar, ou questionar?
+Ou há um fio específico que ficou em aberto e que vale puxar antes de seguir?​​​​​​​​​​​​​​​​
+
+Glossário Lacaniano — Termos Centrais
+
+Alienação (aliénation)
+Processo pelo qual o sujeito se constitui identificando-se com uma imagem ou significante que vem do Outro. Constitutiva — não patológica. O ego é sempre já alienado porque foi formado pelo que estava fora.
+
+Automaton
+A repetição mecânica da cadeia de significantes. O inconsciente operando como máquina — produzindo os mesmos efeitos independente da intenção do sujeito. Opõe-se à tychê.
+
+Bem-dizer (bien-dire)
+Objetivo do último ensino — não dizer a verdade completa sobre o sintoma (impossível), mas encontrar uma forma de falar que permita ao sujeito habitar sua singularidade. Arranjar-se com o sinthome em vez de tentar curá-lo.
+
+Castração (castration)
+Não a castração anatômica. A operação simbólica pela qual o sujeito é inscrito na lei da linguagem — pela qual reconhece que não pode tudo, que há falta constitutiva, que o gozo pleno é impossível. Condição de entrada no Simbólico.
+
+Das Ding (a Coisa)
+O núcleo Real no coração do desejo. O objeto original de satisfação que nunca pode ser recuperado — não porque seja difícil de alcançar, mas porque nunca foi um objeto específico. O vazio em torno do qual o desejo circula sem nunca preenchê-lo completamente. Conceito central do Seminário VII.
+
+Demanda (demande)
+O que o sujeito pede ao Outro — em palavras, em sintomas, em comportamentos. Distinta do desejo: a demanda pode ser satisfeita, o desejo não. A demanda é sempre também demanda de amor — de reconhecimento pelo Outro — além de seu conteúdo específico.
+
+Desejo (désir)
+Não é necessidade (biológica) nem demanda (endereçada ao Outro). É o que resta depois que a demanda foi satisfeita — o excesso irredutível que nenhuma satisfação específica esgota. Estruturalmente insatisfatório. Le désir de l’homme est le désir de l’Autre — o desejo é sempre desejo do Outro, estruturado pelo campo simbólico.
+
+Destituição subjetiva (destitution subjective)
+O que ocorre no fim de análise — o colapso das identificações imaginárias com que o sujeito se havia confundido. Não a destruição do sujeito, mas o reconhecimento de que as imagens com que se identificava não eram o que é. Condição para a identificação com o sinthome.
+
+Discurso do Outro (discours de l’Autre)
+O inconsciente como discurso do Outro — não como repositório individual do recalcado, mas como o campo de significantes que o Outro simbólico implantou no sujeito antes que pudesse escolher ou recusar. L’inconscient est le discours de l’Autre.
+
+Ego / Moi
+A ficção identificatória — a imagem construída no estádio do espelho e validada pelo Outro. Pertence ao registro Imaginário. Distinto do sujet — o ego não é o sujeito, é um objeto que o sujeito tomou por si mesmo.
+
+Estádio do espelho (stade du miroir)
+Momento entre 6 e 18 meses em que a criança se identifica com sua imagem especular — imagem que é mais coerente do que a experiência interna fragmentada. Funda o ego como ficção identificatória alienante. Requer validação do Outro: c’est toi.
+
+Fala plena / Fala vazia (parole pleine / parole vide)
+Fala vazia: o discurso do ego sobre si mesmo — fluente, organizado, sem que nada mude. Fala plena: quando o sujeito emerge na fala, quando algo é dito que surpreende quem fala, que vai além do planejado. O ato falho e a associação livre são formas de fala plena.
+
+Falo (phallus)
+Não o pênis anatômico. O significante da diferença — o que organiza a relação de todo sujeito com a castração e com o desejo. Ninguém tem o falo — alguns parecem tê-lo (ser), outros são (ser o falo para o Outro). Central nas fórmulas da sexuação.
+
+Fantasma (fantasme)
+A fantasia fundamental — a encenação inconsciente que organiza a relação do sujeito com o gozo e com o objeto a. Não é sonho acordado consciente. É a estrutura ($◇a) — o sujeito barrado em relação ao objeto a — que organiza o desejo de forma que o sujeito não vê diretamente. Atravessar o fantasma é objetivo central da análise.
+
+Forclusão (forclusion / Verwerfung)
+Mecanismo específico da psicose — mais radical que o recalque. O Nome-do-Pai não foi inscrito no aparelho psíquico. O que é forcluído não retorna do inconsciente como sintoma neurótico — retorna do Real como alucinação ou delírio.
+
+Gozo (jouissance)
+Não é prazer. É a satisfação que excede o prazer, que vai além do princípio do prazer, que pode ser indistinguível da dor. La jouissance est interdite à qui parle — proibida pela lei do Simbólico, buscada compulsivamente no sintoma. Dois tipos centrais: gozo fálico (localizado, contável, ligado ao significante) e gozo Outro (não-localizado, ilimitado, além do falo).
+
+Imaginário (imaginaire)
+Um dos três registros — RSI. O registro da imagem, da presença sensorial direta, da relação especular entre dois corpos num espaço. O ego pertence ao Imaginário. Organizado pela lógica do espelho — dual, enganoso, especular. Não significa fictício ou irreal — é o mais concreto e imediato dos três registros.
+
+Lalangue
+Termo do último ensino — a língua materna em seu aspecto mais primitivo, antes da gramática e da estrutura. Os equívocos, os jogos de palavras, as ressonâncias sonoras que a língua produz independente do sentido. Lacan a escreve como uma palavra para indicar que é algo diferente de la langue — a língua como sistema.
+
+Metáfora / Metonímia
+Os dois mecanismos fundamentais da linguagem — e do inconsciente. Metáfora: substituição de um significante por outro (condensação em Freud). Metonímia: deslizamento de um significante ao próximo por contiguidade (deslocamento em Freud). L’inconscient est structuré comme un langage porque opera por esses dois mecanismos.
+
+Nome-do-Pai (Nom-du-Père)
+Função simbólica — não o pai biológico. A instância que introduz a lei, que separa a criança da fusão com a mãe, que inscreve o sujeito no campo simbólico. Jogo de palavras em francês: Nom (nome) / Non (não) — o Nome é também o Não, a proibição que funda a lei. Sua forclusão produz a psicose.
+
+Não-todo (pas-tout)
+Conceito central do Seminário XX — o lado feminino das fórmulas da sexuação. A mulher não é toda submetida à função fálica — há algo que escapa, que não é completamente capturado pelo significante. Por isso não há A Mulher com artigo definido — não há universal que totalize as mulheres, porque não há exceção que funde a universalidade do lado feminino.
+
+Objet petit a (objeto pequeno a)
+O conceito mais original de Lacan — o único que afirmou ser genuinamente sua contribuição. a de autre — o outro. Não o objeto que o desejo busca, mas o que causa o desejo — o que o põe em movimento. Resto da separação primária — fragmento do objeto original que ficou como traço. A pulsão faz o rodeio do objet a sem alcançá-lo diretamente. Fronteira entre Simbólico e Real.
+
+Outro (Autre — com maiúscula)
+Distinto do autre com minúscula (o semelhante imaginário). O Outro simbólico — não uma pessoa, mas uma estrutura. O campo da linguagem, da lei, do discurso que preexiste ao sujeito e o constitui. O tesouro dos significantes. O lugar desde o qual o sujeito é determinado antes de poder escolher.
+
+Outro (autre — com minúscula)
+O semelhante imaginário — o outro que parece igual a mim, o duplo, o espelho. Pertence ao registro Imaginário. A relação com o autre é sempre especular — de identificação e rivalidade simultâneas.
+
+Ponto de capiton (point de capiton)
+Ponto de estofo — como os botões que prendem o tecido de estofamento. Os pontos em que o significante se ancora momentaneamente ao significado — em que a cadeia, que normalmente desliza, para por um instante e produz um efeito de sentido. A interpretação analítica visa produzir pontos de capiton onde havia deslizamento indefinido.
+
+Real (réel)
+Um dos três registros — RSI. Le réel, c’est l’impossible — o que resiste à simbolização, o que não pode ser completamente capturado pela linguagem ou pela imagem. Não é a realidade cotidiana — que é sempre já mediada pelo Simbólico e pelo Imaginário. É o que permanece como resto irredutível. Traumático por estrutura — o encontro com o Real tem sempre a qualidade do trauma.
+
+Recalque (refoulement)
+Mecanismo central da neurose — a representação intolerável é expulsa do consciente mas permanece no inconsciente, continuando a exercer pressão e retornando nas formações do inconsciente. Distinto da forclusão (psicose) e da renegação (perversão).
+
+Registro (registre)
+RSI — Real, Simbólico, Imaginário. Os três dimensões de toda experiência psíquica — sempre simultaneamente presentes, organizadas pela estrutura do nó borromeano. O que varia é a predominância de cada registro em determinada experiência ou estrutura clínica.
+
+Renegação (déni / Verleugnung)
+Mecanismo específico da perversão. O sujeito sabe da castração — sabe que há lei — mas a desmente: sei, mas mesmo assim. Mantém simultaneamente dois saberes contraditórios. O fetichismo é o exemplo paradigmático: o fetichista sabe que a mulher não tem pênis mas mantém o fetiche como se tivesse.
+
+Saber (savoir)
+Distinto do conhecimento consciente. O saber do inconsciente — o que o sujeito sabe sem saber que sabe. O saber que emerge nos atos falhos, nos sonhos, nas associações inesperadas. A análise não produz conhecimento — produz saber.
+
+Separação (séparation)
+Operação que completa a alienação — o sujeito se separa do Outro, reconhece que o Outro é incompleto, que há falta também no Outro. É a operação que abre espaço para o desejo do sujeito — porque se o Outro também falta, há espaço para que o sujeito exista como desejante e não apenas como objeto do desejo do Outro.
+
+Significante (signifiant)
+Não o som físico — a imagem acústica, o padrão sonoro como existe no sistema da língua. Em Lacan, o significante tem primazia sobre o significado — a barra entre os dois é resistência, não simples separação. O significante desliza sobre os significados sem se fixar definitivamente. O sujeito é representado por um significante para outro significante.
+
+Sinthome (sinthome)
+Grafia arcaica de symptôme — termo do último ensino. Distinto do sintoma clínico clássico: não é uma mensagem a ser decifrada, é um modo de gozo. O que constitui a singularidade irredutível do sujeito — o traço mais próprio. Para Joyce, a escrita. O quarto anel do nó borromeano que mantém RSI unidos quando o Nome-do-Pai é insuficiente. Objetivo da análise: não eliminar o sinthome, mas identificar-se com ele — savoir faire com o que se é.
+
+Sujeito (sujet)
+Distinto do ego (moi). Não é uma substância ou uma essência — é o efeito da linguagem, o que emerge no intervalo entre significantes. O sujeito barrado ($) — atravessado pela divisão constitutiva da entrada no campo do Outro. Le sujet est ce qu’un signifiant représente pour un autre signifiant.
+
+Sujeito barrado (sujet barré — $)
+A barra marca a divisão constitutiva do sujeito — entre o que é como ser vivente e o que é como ser de linguagem, entre o que deseja e o que consegue dizer que deseja. Não é patológico — é a condição de todo sujeito que entrou no campo da linguagem.
+
+Sujeito suposto saber (sujet supposé savoir)
+A posição que o paciente atribui ao analista — a suposição de que o analista sabe o que o paciente não sabe sobre si mesmo. Motor da transferência — sem essa suposição, a análise não começa. Mas se o analista confirma a suposição — se age como se de fato soubesse — a análise não termina. O fim de análise é a destituição do sujeito suposto saber.
+
+Simbólico (symbolique)
+Um dos três registros — RSI. O registro da linguagem, da lei, do Outro com maiúscula. O que preexiste ao sujeito e o constitui de dentro — a estrutura dentro da qual o sujeito existe, não um conteúdo que o sujeito tem. Opera na ausência do objeto — continua determinando o sujeito quando as pessoas e situações que o transmitiram já não estão presentes.
+
+Transferência (transfert)
+Não apenas repetição das relações objetais antigas na situação analítica. Organizada pelo sujeito suposto saber — a suposição de que o analista tem acesso à verdade do sujeito. Motor e obstáculo simultaneamente. Sua liquidação — a destituição do sujeito suposto saber — é condição do fim de análise.
+
+Tychê
+O encontro com o Real — o que interrompe o automaton. O acaso que atravessa a necessidade, o inesperado que não estava previsto na cadeia de significantes. O encontro faltado — o Real que sempre se esquiva no momento em que deveria ser tocado. A análise não pode produzir a tychê — pode criar condições para que seja possível.
+
+Trinta e dois termos — ordenados alfabeticamente para referência. Quando quiser, seguimos para a Fase VI.​​​​​​​​​​​​​​​​
+

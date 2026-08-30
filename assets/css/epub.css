@@ -1,0 +1,287 @@
+/* ═══════════════════════════════════════════════════════════
+   Lacan — Uma leitura por conceitos
+   Folha de estilo EPUB3
+
+   PRINCÍPIO DE PROJETO: o leitor manda.
+   Kindle (KFX) e Apple Books sobrescrevem fonte, tamanho, cor de
+   fundo e entrelinha conforme a preferência do usuário. Toda regra
+   aqui precisa degradar para "texto legível" quando ignorada.
+
+   PROIBIDO neste arquivo, por incompatibilidade ou por princípio:
+     - background-color em blocos (quebra o modo escuro do Kindle)
+     - cor de texto como único portador de significado
+     - flexbox, grid, position, float
+     - fontes embarcadas
+     - unidades absolutas (pt, px) — só em/rem/%
+   ═══════════════════════════════════════════════════════════ */
+
+@namespace epub "http://www.idpf.org/2007/ops";
+
+/* ───── Corpo ───── */
+
+body {
+  font-family: serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  widows: 2;
+  orphans: 2;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.2em;
+  text-align: justify;
+}
+
+/* Primeiro parágrafo depois de um título ou bloco: sem recuo. */
+h1 + p, h2 + p, h3 + p, h4 + p,
+hr + p,
+div + p,
+blockquote + p {
+  text-indent: 0;
+}
+
+/* ───── Hierarquia ───── */
+
+h1 {
+  font-size: 1.5em;
+  font-weight: normal;
+  line-height: 1.25;
+  margin: 2em 0 1.5em 0;
+  text-align: left;
+  page-break-before: always;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.3;
+  margin: 2em 0 0.75em 0;
+  text-align: left;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: bold;
+  font-style: normal;
+  margin: 1.5em 0 0.5em 0;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  margin: 1.25em 0 0.4em 0;
+  page-break-after: avoid;
+}
+
+/* ───── Citação de Lacan no original ─────
+   Uso: ::: {.cit-fr lang=fr}
+   O francês vem sempre com <span lang="fr"> para hifenização e
+   leitura em voz alta corretas. A tradução segue em .cit-trad. */
+
+.cit-fr {
+  margin: 1.2em 1.5em 0.3em 1.5em;
+  font-style: italic;
+  text-align: left;
+}
+
+.cit-fr p { text-indent: 0; text-align: left; }
+
+.cit-trad {
+  margin: 0 1.5em 0.4em 1.5em;
+  text-align: left;
+}
+
+.cit-trad p { text-indent: 0; text-align: left; }
+
+/* Referência da citação — pequena, alinhada à direita. */
+.cit-ref {
+  margin: 0 1.5em 1.4em 1.5em;
+  font-size: 0.85em;
+  text-align: right;
+}
+
+.cit-ref p { text-indent: 0; text-align: right; }
+
+/* ───── "Em outras palavras" ─────
+   Convenção herdada do glossário. Definição técnica acima,
+   aproximação em linguagem corrente + alegoria aqui dentro. */
+
+.eop-block {
+  margin: 1.4em 0;
+  padding: 0 0 0 1em;
+  border-left: 0.15em solid;
+}
+
+.eop-block p { text-indent: 0; text-align: left; }
+
+.eop-block > p:first-child::before {
+  content: "Em outras palavras — ";
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+/* ───── Estatuto do terreno ─────
+   Marcador epistêmico, não decorativo. Declara de onde vem a
+   afirmação: do texto de Lacan ou de reconstrução por comentador. */
+
+.terreno {
+  margin: 1.4em 0;
+  padding: 0 0 0 1em;
+  border-left: 0.15em dotted;
+  font-size: 0.95em;
+}
+
+.terreno p { text-indent: 0; text-align: left; }
+
+.terreno > p:first-child::before {
+  content: "Estatuto do terreno — ";
+  font-variant: small-caps;
+}
+
+/* ───── Advertência de datação ─────
+   Os pontos em que ler o conceito fora de sua data produz erro. */
+
+.datacao {
+  margin: 1.4em 0;
+  padding: 0 0 0 1em;
+  border-left: 0.15em double;
+  font-size: 0.95em;
+}
+
+.datacao p { text-indent: 0; text-align: left; }
+
+.datacao > p:first-child::before {
+  content: "Datação — ";
+  font-variant: small-caps;
+}
+
+/* ───── Intervenção atribuída ─────
+   As formulações do leitor-autor, preservadas e atribuídas.
+   Não é margem — o EPUB refluível não tem margem. É bloco recuado
+   e tipograficamente distinto, com atribuição explícita. */
+
+.nota-leandro {
+  margin: 1.5em 1em;
+  padding: 0.2em 0 0.2em 1em;
+  border-left: 0.25em solid;
+  font-size: 0.95em;
+}
+
+.nota-leandro p {
+  text-indent: 0;
+  text-align: left;
+  font-style: italic;
+}
+
+.nota-leandro > p:first-child::before {
+  content: "L. — ";
+  font-variant: small-caps;
+  font-style: normal;
+  font-weight: bold;
+}
+
+/* ───── Termo bilingue ─────
+   Uso: [desejo]{.termo fr="désir"}. O francês entra no texto,
+   não em atributo, para permanecer buscável no Kindle. */
+
+.termo-fr {
+  font-style: italic;
+}
+
+/* Âncora de conceito — alvo do índice remissivo. Invisível. */
+.ancora {
+  display: inline;
+}
+
+/* ───── Diagramas ───── */
+
+figure {
+  margin: 1.6em 0;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-size: 0.85em;
+  font-style: italic;
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+/* ───── Notas de rodapé (popup no Kindle e no Apple Books) ───── */
+
+a.footnote-ref, a[epub|type~="noteref"] {
+  vertical-align: super;
+  font-size: 0.75em;
+  text-decoration: none;
+}
+
+aside[epub|type~="footnote"] {
+  font-size: 0.9em;
+}
+
+/* ───── Índice remissivo e glossário ───── */
+
+.indice-termos ul,
+.glossario ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.indice-termos li {
+  margin: 0.3em 0;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+.glossario dt {
+  font-weight: bold;
+  margin-top: 1.2em;
+}
+
+.glossario dd {
+  margin-left: 0;
+  margin-top: 0.3em;
+}
+
+/* ───── Separador de seção ───── */
+
+hr {
+  border: none;
+  border-top: 0.05em solid;
+  width: 25%;
+  margin: 2em auto;
+}
+
+/* ───── Folha de rosto de bloco ───── */
+
+.abertura-bloco {
+  margin: 3em 0 2.5em 0;
+  page-break-before: always;
+  page-break-after: avoid;
+}
+
+.abertura-bloco p {
+  text-indent: 0;
+  text-align: left;
+}
+
+.abertura-bloco .rotulo {
+  font-variant: small-caps;
+  font-size: 0.85em;
+}
+
+/* ───── Links internos ───── */
+
+a { text-decoration: none; }

@@ -1,0 +1,34 @@
+---
+title:
+  - type: main
+    text: "O Curso — Tomo IV"
+  - type: subtitle
+    text: "As Fronteiras: A psicanálise e seus fora"
+creator:
+  - role: author
+    text: "Leandro"
+  - role: editor
+    text: "Leandro"
+contributor:
+  - role: other
+    text: "Claude (Anthropic) — interlocutor e redator"
+belongs-to-collection: "Teoria Psicanalítica — O Curso"
+group-position: 4
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:PLACEHOLDER-GERADO-NO-BUILD"
+language: pt-BR
+date: "2026"
+subject:
+  - "Psicanálise"
+  - "Teoria queer"
+  - "Cultura"
+  - "Neurociência"
+description: |
+  Jung, as neurociências, a América Latina, a ética e o enquadre, as leituras externas,
+  a psicoterapia psicodinâmica, a teoria queer, a teoria da cultura, e o estado
+  contemporâneo do campo. Os limites da tradição vistos de onde eles são visíveis.
+  Estudo independente, não clínico. Uso pessoal — contém citação direta de obra
+  sob direito autoral.
+rights: "Uso pessoal. Citações de terceiros permanecem sob seus respectivos direitos."
+...

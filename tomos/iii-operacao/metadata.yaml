@@ -1,0 +1,33 @@
+---
+title:
+  - type: main
+    text: "O Curso — Tomo III"
+  - type: subtitle
+    text: "A Operação Clínica: Semiologia e técnica psicanalítica"
+creator:
+  - role: author
+    text: "Leandro"
+  - role: editor
+    text: "Leandro"
+contributor:
+  - role: other
+    text: "Claude (Anthropic) — interlocutor e redator"
+belongs-to-collection: "Teoria Psicanalítica — O Curso"
+group-position: 3
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:PLACEHOLDER-GERADO-NO-BUILD"
+language: pt-BR
+date: "2026"
+subject:
+  - "Psicanálise"
+  - "Técnica psicanalítica"
+  - "Semiologia"
+description: |
+  O exame psíquico, o discurso, o corpo e o afeto, o sonho, a transferência, a
+  resistência e a sessão como unidade. O que o analista efetivamente faz, comparado
+  entre tradições, com atenção ao que cada uma torna visível e ao que cada uma cega.
+  Estudo independente, não clínico. Uso pessoal — contém citação direta de obra
+  sob direito autoral.
+rights: "Uso pessoal. Citações de terceiros permanecem sob seus respectivos direitos."
+...
